@@ -44,9 +44,8 @@ class CarDataSet(Dataset):
 
     def __getitem__(self, index):
         img, label = self.imgs[index], self.labels[index]
-        print os.path.join([self.root, img])
         img_array = pil_loader(os.path.join(self.root, img))
-        return img_array, label
+        return img_array, label, img
 
     def __len__(self):
         pass
@@ -56,4 +55,5 @@ te = CarDataSet(["/Users/baidu/wuliang/CIMC/wuliang/dataset/train",
                  "/Users/baidu/wuliang/CIMC/wuliang/dataset/train_masks.csv"])
 # print os.path.join("/Users/baidu/wuliang/CIMC/wuliang/dataset/train", "666")
 print te[10]
+
 
