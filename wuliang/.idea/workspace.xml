@@ -34,8 +34,8 @@
       <file leaf-file-name="load_data.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/load_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="42" column="57" lean-forward="true" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
+            <state relative-caret-position="1100">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding>
                 <element signature="e#86#130#0" expanded="true" />
               </folding>
@@ -544,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/load_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="42" column="57" lean-forward="true" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
+        <state relative-caret-position="1100">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#86#130#0" expanded="true" />
           </folding>

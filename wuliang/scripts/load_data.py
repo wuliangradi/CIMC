@@ -53,7 +53,8 @@ class CarDataSet(Dataset):
 
 te = CarDataSet(["/Users/baidu/wuliang/CIMC/wuliang/dataset/train",
                  "/Users/baidu/wuliang/CIMC/wuliang/dataset/train_masks.csv"])
-# print os.path.join("/Users/baidu/wuliang/CIMC/wuliang/dataset/train", "666")
 print te[10]
+
+
 
 
