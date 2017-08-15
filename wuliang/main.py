@@ -5,14 +5,19 @@ import os
 import sys
 import log
 
+from time import time
+
 
 def train():
     output_path = "/Users/baidu/wuliang/CIMC/wuliang/output"
     if not os.path.exists(output_path):
         os.makedirs(output_path)
 
-    logger = log.init_log(logfile="train_log.txt", log_name="train data")
+    logger = log.init_log(logfile="./train_log.txt", log_name="train data")
     logger.info("start")
+
+    start_time_all = time()
+
 
 def predict():
     pass
