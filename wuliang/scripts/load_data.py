@@ -62,4 +62,5 @@ class CarDataSet(Dataset):
     def __len__(self):
         pass
 
+
 show_image()

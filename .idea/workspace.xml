@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="664d591e-dd98-41d8-8028-e6714eb5a08a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wuliang/.idea/workspace.xml" afterPath="$PROJECT_DIR$/wuliang/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wuliang/scripts/load_data.py" afterPath="$PROJECT_DIR$/wuliang/scripts/load_data.py" />
     </list>
@@ -48,8 +47,8 @@
       <file leaf-file-name="carvana_cars.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08-02/software/car-segment/dataset/carvana_cars.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+            <state relative-caret-position="385">
+              <caret line="187" column="35" lean-forward="false" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="35" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -451,8 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08-02/software/car-segment/dataset/carvana_cars.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+        <state relative-caret-position="385">
+          <caret line="187" column="35" lean-forward="false" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="35" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
