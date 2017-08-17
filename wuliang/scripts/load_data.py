@@ -11,6 +11,7 @@ from os.path import isfile, join
 import pandas as pd
 import os
 
+
 def pil_loader(path):
     with open(path, 'rb') as f:
         with Image.open(f) as img:
@@ -34,6 +35,17 @@ def get_image_label(images, csv_path):
     return labels
 
 
+def show_image():
+    te = CarDataSet(["/Users/baidu/wuliang/CIMC/wuliang/dataset/train",
+                     "/Users/baidu/wuliang/CIMC/wuliang/dataset/train_masks.csv"])
+    pil_img = te[10][0]
+    name_img = te[10][2]
+    pil_img.show()
+    pil_gif = pil_loader(
+        "/Users/baidu/wuliang/CIMC/wuliang/dataset/train_masks/" + name_img.split(".")[0] + "_mask.gif")
+    pil_gif.show()
+
+
 class CarDataSet(Dataset):
     def __init__(self, root, transform=None, target_transform=None):
         self.root = root[0]
@@ -50,11 +62,4 @@ class CarDataSet(Dataset):
     def __len__(self):
         pass
 
-
-te = CarDataSet(["/Users/baidu/wuliang/CIMC/wuliang/dataset/train",
-                 "/Users/baidu/wuliang/CIMC/wuliang/dataset/train_masks.csv"])
-print te[10]
-
-
-
-
+show_image()
