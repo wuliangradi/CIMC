@@ -3,7 +3,7 @@
 #  https://github.com/cypw/ResNeXt-1
 
 from net.common import *
-from functools import reduce
+
 
 #--------------------------------------------------------------------------------
 # https://github.com/amdegroot/pytorch-containers

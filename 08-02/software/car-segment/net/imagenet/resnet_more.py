@@ -1,19 +1,15 @@
 #  download from:
 #       https://raw.githubusercontent.com/pytorch/vision/master/torchvision/models/resnet.py
 #
+import math
 import os
 from collections import OrderedDict
-from net.util import *
-import math
-
 
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from net.util import *
 from torch.autograd import Variable
-
-
-
 
 __all__ = ['ResNet', 'resnet18', 'resnet34', 'resnet50', 'resnet101',
            'resnet152']

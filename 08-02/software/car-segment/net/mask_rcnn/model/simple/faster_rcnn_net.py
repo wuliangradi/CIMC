@@ -1,18 +1,16 @@
-from common import*
-
+from common import *
+from net.mask_rcnn.lib.rcnn_loss import *
 from net.mask_rcnn.lib.rcnn_nms import *
 from net.mask_rcnn.lib.rcnn_target import *
-from net.mask_rcnn.lib.rcnn_loss import *
+from net.mask_rcnn.lib.rpn_loss import *
 from net.mask_rcnn.lib.rpn_nms import *
 from net.mask_rcnn.lib.rpn_target import *
-from net.mask_rcnn.lib.rpn_loss import *
-
-from net.mask_rcnn.model.simple.configuration  import *
-from net.mask_rcnn.model.simple.feature  import FeatureNet
-from net.mask_rcnn.model.simple.rpn      import RpnNet, rpn_bases, rpn_windows
-from net.mask_rcnn.model.simple.crop     import CropNet
-from net.mask_rcnn.model.simple.rcnn     import RcnnNet
-from net.mask_rcnn.model.simple.fcn      import FcnNet
+from net.mask_rcnn.model.simple.configuration import *
+from net.mask_rcnn.model.simple.crop import CropNet
+from net.mask_rcnn.model.simple.fcn import FcnNet
+from net.mask_rcnn.model.simple.feature import FeatureNet
+from net.mask_rcnn.model.simple.rcnn import RcnnNet
+from net.mask_rcnn.model.simple.rpn import RpnNet, rpn_bases, rpn_windows
 
 
 #---------------------------------------------------------------------------

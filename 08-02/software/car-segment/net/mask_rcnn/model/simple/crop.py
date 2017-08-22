@@ -1,7 +1,8 @@
-from common import*
+from common import *
+from net.mask_rcnn.lib.roi_align_pool.module import RoIAlignMax as Crop
 from net.mask_rcnn.model.simple.configuration import *
 
-from net.mask_rcnn.lib.roi_align_pool.module import RoIAlignMax as Crop
+
 # from net.mask_rcnn.lib.roi_pool.module import RoIPool as Crop
 
 

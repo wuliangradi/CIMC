@@ -2,17 +2,16 @@
 # python convert_torch.py -m vgg16.t7
 
 import os
-from collections import OrderedDict
 from functools import reduce
-from net.util import *
-
-
-#--------------------------------------------------------------------------------
 
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from net.util import *
 from torch.autograd import Variable
+
+
+# --------------------------------------------------------------------------------
 
 
 class LambdaBase(nn.Sequential):

@@ -1,9 +1,7 @@
-from common import *
-from submit import *
-
 from dataset.carvana_cars import *
 from net.segmentation.my_unet import SoftDiceLoss, BCELoss2d, UNet_double_1024_5 as Net
 from net.tool import *
+from submit import *
 
 
 ## experiment setting here ----------------------------------------------------
