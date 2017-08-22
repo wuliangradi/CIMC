@@ -99,12 +99,13 @@ class CarDataSet(Dataset):
         img_name, label = self.imgs[index], self.labels[index]
         img = jpg_loader(os.path.join(self.root_img, img_name))
 
-        img_mask = get_image_mask_name(self.root_img_mask, img_name)
-        img_mask_array = gif_loader(os.path.join(self.root_img_mask, img_mask))
+        img_mask_name = get_image_mask_name(self.root_img_mask, img_name)
+        img_mask = gif_loader(os.path.join(self.root_img_mask, img_mask_name))
 
         img_tensor = image_to_tensor(np.asarray(img) / 255.0)
-        img_mask_tensor = label_to_tensor(np.asarray(img_mask_array))
-        return img, img_tensor, label, img_mask_tensor
+        img_mask_tensor = label_to_tensor(np.asarray(img_mask))
+        # batch must contain tensors, numbers, dicts or lists
+        return img_tensor, label, img_mask_tensor
 
     def __len__(self):
         return len(self.imgs)

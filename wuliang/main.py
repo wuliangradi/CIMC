@@ -29,15 +29,13 @@ def train():
     data_set = CarDataSet([IMG_PATH,
                            IMG_LABEL_PATH,
                            IMG_MASK_PATH])
-    print data_set
     train_data_loader = DataLoader(data_set,
                                    batch_size=BATH_SIZE,
                                    shuffle=False,
                                    drop_last=True,
                                    num_workers=4)
     data_iter = iter(train_data_loader)
-    images = data_iter.next()
-    print(images.size())
+    img_tensor, label, img_mask_tensor = data_iter.next()
     start_time_all = time()
 
 
