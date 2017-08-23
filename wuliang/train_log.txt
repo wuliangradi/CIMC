@@ -119,3 +119,19 @@ INFO: 2017-08-23 20:22:30: main.py:27 **  读取数据集...
 INFO: 2017-08-23 20:22:33: main.py:37 **  train data sample counts 5088
 INFO: 2017-08-23 20:22:33: main.py:38 **  train data set batch size 16
 INFO: 2017-08-23 20:22:33: main.py:39 **  train data batch counts 318
+INFO: 2017-08-23 21:33:10: main.py:22 **  start
+INFO: 2017-08-23 21:33:10: main.py:24 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-23 21:33:10: main.py:25 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-23 21:33:10: main.py:26 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-23 21:33:10: main.py:27 **  读取数据集...
+INFO: 2017-08-23 21:33:13: main.py:37 **  train data sample counts 5088
+INFO: 2017-08-23 21:33:13: main.py:38 **  train data set batch size 16
+INFO: 2017-08-23 21:33:13: main.py:39 **  train data batch counts 318
+INFO: 2017-08-23 21:33:55: main.py:22 **  start
+INFO: 2017-08-23 21:33:55: main.py:24 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-23 21:33:55: main.py:25 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-23 21:33:55: main.py:26 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-23 21:33:55: main.py:27 **  读取数据集...
+INFO: 2017-08-23 21:33:58: main.py:37 **  train data sample counts 5088
+INFO: 2017-08-23 21:33:58: main.py:38 **  train data set batch size 16
+INFO: 2017-08-23 21:33:58: main.py:39 **  train data batch counts 318

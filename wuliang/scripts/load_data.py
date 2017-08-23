@@ -4,15 +4,15 @@
     Contact:wuliangwuwu@126.com
 """
 
-from torch.utils.data.dataset import Dataset
-from PIL import Image
+import os
 from os import listdir
 from os.path import isfile, join
-import pandas as pd
-import os
-import numpy as np
 
-import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+from PIL import Image
+from torch.utils.data.dataset import Dataset
+
 from utils import image_to_tensor
 from utils import label_to_tensor
 
@@ -94,6 +94,8 @@ class CarDataSet(Dataset):
         self.target_transform = target_transform
         self.imgs = get_image_list(root[0])
         self.labels = get_image_label(self.imgs, root[1])
+        self.width = np.asarray(jpg_loader(os.path.join(self.root_img, self.imgs[0]))).shape[1]
+        self.high = np.asarray(jpg_loader(os.path.join(self.root_img, self.imgs[0]))).shape[0]
 
     def __getitem__(self, index):
         img_name, label = self.imgs[index], self.labels[index]

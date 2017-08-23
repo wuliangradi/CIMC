@@ -38,6 +38,8 @@ def train():
     logger.info("train data set batch size {}".format(BATH_SIZE))
     logger.info("train data batch counts {}".format(len(train_data_loader)))
 
+    num_channel = 3
+    width, high = (data_set.high, data_set.width)
     # data_iter = iter(train_data_loader)
     # img_tensor, label, img_mask_tensor = data_iter.next()
     # start_time_all = time()
