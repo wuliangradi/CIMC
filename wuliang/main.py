@@ -34,9 +34,13 @@ def train():
                                    shuffle=False,
                                    drop_last=True,
                                    num_workers=4)
-    data_iter = iter(train_data_loader)
-    img_tensor, label, img_mask_tensor = data_iter.next()
-    start_time_all = time()
+    logger.info("train data sample counts {}".format(len(data_set)))
+    logger.info("train data set batch size {}".format(BATH_SIZE))
+    logger.info("train data batch counts {}".format(len(train_data_loader)))
+
+    # data_iter = iter(train_data_loader)
+    # img_tensor, label, img_mask_tensor = data_iter.next()
+    # start_time_all = time()
 
 
 def predict():
