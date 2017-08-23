@@ -8,6 +8,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from torch.autograd import Variable
 
 
 def make_conv_bn_relu(in_channels, out_channels, kernel_size=3, stride=1, padding=1):
@@ -191,7 +192,7 @@ class BCELoss2d(nn.Module):
 if __name__ == '__main__':
 
     batch_size = 10
-    C, H, W = 3, 512, 512
+    C, H, W = 3, 256, 256
 
     if 1:
         num_classes = 1

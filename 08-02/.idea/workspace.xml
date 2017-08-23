@@ -11,6 +11,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="common.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/software/car-segment/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="train_seg_net.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/software/car-segment/train_seg_net.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -21,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_unet.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my_unet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/software/car-segment/net/segmentation/my_unet.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
@@ -42,10 +52,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="-11" />
-    <option name="width" value="1857" />
-    <option name="height" value="1212" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1204" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -79,6 +89,13 @@
               <item name="08-02" type="462c0819:PsiDirectoryNode" />
               <item name="software" type="462c0819:PsiDirectoryNode" />
               <item name="car-segment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="08-02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="08-02" type="462c0819:PsiDirectoryNode" />
+              <item name="software" type="462c0819:PsiDirectoryNode" />
+              <item name="car-segment" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,6 +203,14 @@
           <folding>
             <element signature="e#21#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/car-segment/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
