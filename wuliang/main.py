@@ -3,15 +3,19 @@
 
 import os
 import sys
-from time import time
 
+import torch.nn.functional as F
+import torch.optim as optim
+from torch.autograd import Variable
 from torch.utils.data import DataLoader
 
 import log
 from config import BATH_SIZE
 from config import IMG_PATH, IMG_LABEL_PATH, IMG_MASK_PATH
+from config import NUM_EPOCHES
+from net import CarUNet
 from scripts import CarDataSet
-
+from net import criterion, dice_loss
 
 def train():
     output_path = "/home/wuliang/wuliang/CIMC/wuliang/output"
@@ -40,9 +44,38 @@ def train():
 
     num_channel = 3
     width, high = (data_set.high, data_set.width)
-    # data_iter = iter(train_data_loader)
-    # img_tensor, label, img_mask_tensor = data_iter.next()
-    # start_time_all = time()
+    net = CarUNet(in_shape=(num_channel, width, high), num_classes=1)
+    net.cuda()
+
+    logger.info("{}\n\n".format(type(net)))
+    optimizer = optim.SGD(net.parameters(), lr=0.01, momentum=0.9, weight_decay=0.0005)
+    sum_smooth_loss = 0
+    sum_smooth_acc = 0
+    for epoch in range(0, NUM_EPOCHES):
+        for it, (img_tensor, label, img_mask_tensor) in enumerate(train_data_loader, 0):
+            image_ = Variable(img_tensor.cuda())
+            label_ = Variable(img_mask_tensor.cuda())
+
+            logits = net(image_)
+            probs = F.sigmoid(logits)
+            masks = (probs > 0.5).float()
+
+            loss = criterion(logits, label_)
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
+
+            acc = dice_loss(masks, label_)
+
+            sum_smooth_loss += loss.data[0]
+            sum_smooth_acc += acc.data[0]
+            logger.info()
+
+            logger.info("{epoch} {lr} {sum_smooth_loss} {sum_smooth_acc}".
+                        format(epoch=epoch, lr=0, sum_smooth_loss=sum_smooth_loss, sum_smooth_acc=sum_smooth_acc))
+            # data_iter = iter(train_data_loader)
+            # img_tensor, label, img_mask_tensor = data_iter.next()
+            # start_time_all = time()
 
 
 def predict():

@@ -189,6 +189,46 @@ class BCELoss2d(nn.Module):
         return self.bce_loss(probs_flat, targets_flat)
 
 
+class SoftDiceLoss(nn.Module):
+    def __init__(self, weight=None, size_average=True):
+        super(SoftDiceLoss, self).__init__()
+
+    def forward(self, logits, targets):
+        num = targets.size(0)
+        probs = F.sigmoid(logits)
+        m1 = probs.view(num, -1)
+        m2 = targets.view(num, -1)
+        intersection = (m1 * m2)
+
+        score = 2. * (intersection.sum(1) + 1) / (m1.sum(1) + m2.sum(1) + 1)
+        score = 1 - score.sum() / num
+        return score
+
+
+def criterion(logits, labels):
+    l = BCELoss2d()(logits, labels) + SoftDiceLoss()(logits, labels)
+    return l
+
+
+def one_dice_loss_py(m1, m2):
+    m1 = m1.reshape(-1)
+    m2 = m2.reshape(-1)
+    intersection = (m1 * m2)
+    score = 2. * (intersection.sum() + 1) / (m1.sum() + m2.sum() + 1)
+    return score
+
+
+def dice_loss(m1, m2):
+    num = m1.size(0)
+    m1 = m1.view(num, -1)
+    m2 = m2.view(num, -1)
+    intersection = (m1 * m2)
+
+    score = 2. * (intersection.sum(1) + 1) / (m1.sum(1) + m2.sum(1) + 1)
+    score = score.sum() / num
+    return score
+
+
 if __name__ == '__main__':
 
     batch_size = 10

@@ -135,3 +135,14 @@ INFO: 2017-08-23 21:33:55: main.py:27 **  读取数据集...
 INFO: 2017-08-23 21:33:58: main.py:37 **  train data sample counts 5088
 INFO: 2017-08-23 21:33:58: main.py:38 **  train data set batch size 16
 INFO: 2017-08-23 21:33:58: main.py:39 **  train data batch counts 318
+INFO: 2017-08-26 00:24:59: main.py:26 **  start
+INFO: 2017-08-26 00:24:59: main.py:28 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-26 00:24:59: main.py:29 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-26 00:24:59: main.py:30 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-26 00:24:59: main.py:31 **  读取数据集...
+INFO: 2017-08-26 00:25:02: main.py:41 **  train data sample counts 5088
+INFO: 2017-08-26 00:25:02: main.py:42 **  train data set batch size 16
+INFO: 2017-08-26 00:25:02: main.py:43 **  train data batch counts 318
+INFO: 2017-08-26 00:25:04: main.py:50 **  <class 'net.net.CarUNet'>
+
+
