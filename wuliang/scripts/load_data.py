@@ -5,6 +5,7 @@
 """
 
 import os
+import random
 from os import listdir
 from os.path import isfile, join
 
@@ -86,6 +87,13 @@ def show_image():
     pil_gif.show()
 
 
+def random_resize(image_, label_, high, width, target_high, target_width):
+    start_high = random.randint(0, high - target_high)
+    start_width = random.randint(0, width - target_width)
+    return image_[start_high:(start_high + target_high), start_width:(start_width + target_width), :], \
+           label_[start_high:(start_high + target_high), start_width:(start_width + target_width)]
+
+
 class CarDataSet(Dataset):
     def __init__(self, root, transform=None, target_transform=None):
         self.root_img = root[0]
@@ -104,9 +112,15 @@ class CarDataSet(Dataset):
         img_mask_name = get_image_mask_name(self.root_img_mask, img_name)
         img_mask = gif_loader(os.path.join(self.root_img_mask, img_mask_name))
 
-        img_tensor = image_to_tensor(np.asarray(img) / 255.0)
-        img_mask_tensor = label_to_tensor(np.asarray(img_mask))
-        # batch must contain tensors, numbers, dicts or lists
+        img_arr = np.asarray(img) / 255.0
+        img_mask_arr = np.asarray(img_mask)
+
+        if self.transform:
+            for tran in self.transform:
+                img_arr, img_mask_arr = tran(img_arr, img_mask_arr)
+
+        img_tensor = image_to_tensor(img_arr)
+        img_mask_tensor = label_to_tensor(img_mask_arr)
         return img_tensor, label, img_mask_tensor
 
     def __len__(self):

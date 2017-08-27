@@ -166,14 +166,12 @@ class CarUNet(nn.Module):
         out = F.upsample_bilinear(out, scale_factor=2)  # 256
         out = torch.cat([down1, out], 1)
         out = self.up1(out)
-
-        out = F.upsample_bilinear(out, scale_factor=2)  # 1024
-        x = F.upsample_bilinear(x, scale_factor=2)
+        out = F.upsample_bilinear(out, scale_factor=1)  # 1024
+        # x = F.upsample_bilinear(x, scale_factor=1)
         out = torch.cat([x, out], 1)
         out = self.up0(out)
 
         out = self.classify(out)
-
         return out
 
 

@@ -111,8 +111,9 @@ def predict_in_blocks(net, test_loader, block_size=32000):
         c = np.zeros((M), np.int64)
 
         for m in range(0, M, batch_size):
-            images, indices = test    optimizer = optim.SGD(net.parameters(), lr=0.01, momentum=0.9, weight_decay=0.0005)  ###0.0005
-_iter.next()
+            images, indices = test    
+            optimizer = optim.SGD(net.parameters(), lr=0.01, momentum=0.9, weight_decay=0.0005)  ###0.0005
+            _iter.next()
             if images is None: break
 
             batch_size = len(indices)

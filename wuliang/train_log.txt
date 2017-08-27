@@ -146,3 +146,789 @@ INFO: 2017-08-26 00:25:02: main.py:43 **  train data batch counts 318
 INFO: 2017-08-26 00:25:04: main.py:50 **  <class 'net.net.CarUNet'>
 
 
+INFO: 2017-08-27 16:19:27: main.py:26 **  start
+INFO: 2017-08-27 16:19:27: main.py:28 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 16:19:27: main.py:29 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 16:19:27: main.py:30 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 16:19:27: main.py:31 **  读取数据集...
+INFO: 2017-08-27 16:19:31: main.py:41 **  train data sample counts 5088
+INFO: 2017-08-27 16:19:31: main.py:42 **  train data set batch size 16
+INFO: 2017-08-27 16:19:31: main.py:43 **  train data batch counts 318
+INFO: 2017-08-27 16:19:33: main.py:50 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 16:21:58: main.py:26 **  start
+INFO: 2017-08-27 16:21:58: main.py:28 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 16:21:58: main.py:29 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 16:21:58: main.py:30 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 16:21:58: main.py:31 **  读取数据集...
+INFO: 2017-08-27 16:22:02: main.py:41 **  train data sample counts 5088
+INFO: 2017-08-27 16:22:02: main.py:42 **  train data set batch size 4
+INFO: 2017-08-27 16:22:02: main.py:43 **  train data batch counts 1272
+INFO: 2017-08-27 16:22:04: main.py:50 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 16:25:08: main.py:27 **  start
+INFO: 2017-08-27 16:25:08: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 16:25:08: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 16:25:08: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 16:25:08: main.py:32 **  读取数据集...
+INFO: 2017-08-27 16:25:11: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 16:25:11: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 16:25:11: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 16:25:13: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 16:32:17: main.py:27 **  start
+INFO: 2017-08-27 16:32:17: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 16:32:17: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 16:32:17: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 16:32:17: main.py:32 **  读取数据集...
+INFO: 2017-08-27 16:32:20: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 16:32:20: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 16:32:20: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 16:32:20: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:04:43: main.py:27 **  start
+INFO: 2017-08-27 17:04:43: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:04:43: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:04:43: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:04:43: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:04:46: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:04:46: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:04:46: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:04:47: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:05:19: main.py:27 **  start
+INFO: 2017-08-27 17:05:19: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:05:19: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:05:19: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:05:19: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:05:22: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:05:22: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:05:22: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:05:22: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:05:46: main.py:27 **  start
+INFO: 2017-08-27 17:05:46: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:05:46: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:05:46: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:05:46: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:05:49: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:05:49: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:05:49: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:05:49: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:06:51: main.py:27 **  start
+INFO: 2017-08-27 17:06:51: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:06:51: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:06:51: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:06:51: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:06:54: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:06:54: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:06:54: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:06:54: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:10:16: main.py:27 **  start
+INFO: 2017-08-27 17:10:16: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:10:16: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:10:16: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:10:16: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:10:19: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:10:19: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:10:19: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:10:20: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:12:58: main.py:27 **  start
+INFO: 2017-08-27 17:12:58: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:12:58: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:12:58: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:12:58: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:13:01: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:13:01: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:13:01: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:13:01: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:13:18: main.py:27 **  start
+INFO: 2017-08-27 17:13:18: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:13:18: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:13:18: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:13:18: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:13:21: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:13:21: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:13:21: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:13:21: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:16:23: main.py:27 **  start
+INFO: 2017-08-27 17:16:23: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:16:23: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:16:23: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:16:23: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:16:26: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:16:26: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:16:26: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:16:26: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:17:05: main.py:27 **  start
+INFO: 2017-08-27 17:17:05: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:17:05: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:17:05: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:17:05: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:17:08: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:17:08: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:17:08: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:17:09: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:18:02: main.py:27 **  start
+INFO: 2017-08-27 17:18:02: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:18:02: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:18:02: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:18:02: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:18:05: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:18:05: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:18:05: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:18:05: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:20:04: main.py:27 **  start
+INFO: 2017-08-27 17:20:04: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:20:04: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:20:04: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:20:04: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:20:07: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:20:07: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:20:07: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:20:07: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:20:52: main.py:27 **  start
+INFO: 2017-08-27 17:20:52: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:20:52: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:20:52: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:20:52: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:20:55: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:20:55: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:20:55: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:20:55: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:29:01: main.py:27 **  start
+INFO: 2017-08-27 17:29:01: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:29:01: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:29:01: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:29:01: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:29:04: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:29:04: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:29:04: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:29:05: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 17:36:18: main.py:27 **  start
+INFO: 2017-08-27 17:36:18: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 17:36:18: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 17:36:18: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 17:36:18: main.py:32 **  读取数据集...
+INFO: 2017-08-27 17:36:22: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 17:36:22: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 17:36:22: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 17:36:22: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:07:45: main.py:27 **  start
+INFO: 2017-08-27 18:07:45: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:07:45: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:07:45: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:07:45: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:07:48: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:07:48: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:07:48: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:07:48: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:08:26: main.py:27 **  start
+INFO: 2017-08-27 18:08:26: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:08:26: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:08:26: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:08:26: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:08:28: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:08:28: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:08:28: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:08:29: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:08:47: main.py:27 **  start
+INFO: 2017-08-27 18:08:47: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:08:47: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:08:47: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:08:47: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:08:50: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:08:50: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:08:50: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:08:50: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:09:13: main.py:27 **  start
+INFO: 2017-08-27 18:09:13: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:09:13: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:09:13: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:09:13: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:09:16: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:09:16: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:09:16: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:09:16: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:11:04: main.py:27 **  start
+INFO: 2017-08-27 18:11:04: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:11:04: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:11:04: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:11:04: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:11:07: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:11:07: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:11:07: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:11:07: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:11:58: main.py:27 **  start
+INFO: 2017-08-27 18:11:58: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:11:58: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:11:58: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:11:58: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:12:01: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:12:01: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:12:01: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:12:01: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:14:11: main.py:27 **  start
+INFO: 2017-08-27 18:14:11: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:14:11: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:14:11: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:14:11: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:14:14: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:14:14: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:14:14: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:14:15: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:15:27: main.py:27 **  start
+INFO: 2017-08-27 18:15:27: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:15:27: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:15:27: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:15:27: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:15:30: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:15:30: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:15:30: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:15:30: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:16:32: main.py:27 **  start
+INFO: 2017-08-27 18:16:32: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:16:32: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:16:32: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:16:32: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:16:35: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:16:35: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:16:35: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:16:36: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:17:50: main.py:27 **  start
+INFO: 2017-08-27 18:17:50: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:17:50: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:17:50: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:17:50: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:17:53: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:17:53: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:17:53: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:17:53: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:19:41: main.py:27 **  start
+INFO: 2017-08-27 18:19:41: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:19:41: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:19:41: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:19:41: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:19:44: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:19:44: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:19:44: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:19:44: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:20:04: main.py:27 **  start
+INFO: 2017-08-27 18:20:04: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:20:04: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:20:04: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:20:04: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:20:07: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:20:07: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:20:07: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:20:07: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 18:20:49: main.py:27 **  start
+INFO: 2017-08-27 18:20:49: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 18:20:49: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 18:20:49: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 18:20:49: main.py:32 **  读取数据集...
+INFO: 2017-08-27 18:20:52: main.py:42 **  train data sample counts 5088
+INFO: 2017-08-27 18:20:52: main.py:43 **  train data set batch size 1
+INFO: 2017-08-27 18:20:52: main.py:44 **  train data batch counts 5088
+INFO: 2017-08-27 18:20:53: main.py:51 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:03:08: main.py:27 **  start
+INFO: 2017-08-27 19:03:08: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:03:08: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:03:08: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:03:08: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:03:11: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:03:11: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:03:11: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:03:11: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:05:28: main.py:27 **  start
+INFO: 2017-08-27 19:05:28: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:05:28: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:05:28: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:05:28: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:05:31: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:05:31: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:05:31: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:05:31: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:07:14: main.py:27 **  start
+INFO: 2017-08-27 19:07:14: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:07:14: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:07:14: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:07:14: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:07:17: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:07:17: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:07:17: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:07:17: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:11:20: main.py:27 **  start
+INFO: 2017-08-27 19:11:20: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:11:20: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:11:20: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:11:20: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:11:23: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:11:23: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:11:23: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:11:23: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:11:55: main.py:27 **  start
+INFO: 2017-08-27 19:11:55: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:11:55: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:11:55: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:11:55: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:11:58: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:11:58: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:11:58: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:11:58: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:12:51: main.py:27 **  start
+INFO: 2017-08-27 19:12:51: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:12:51: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:12:51: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:12:51: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:12:54: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:12:54: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:12:54: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:12:54: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:13:18: main.py:27 **  start
+INFO: 2017-08-27 19:13:18: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:13:18: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:13:18: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:13:18: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:13:21: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:13:21: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:13:21: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:13:21: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:13:31: main.py:27 **  start
+INFO: 2017-08-27 19:13:31: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:13:31: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:13:31: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:13:31: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:13:34: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:13:34: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:13:34: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:13:34: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:14:22: main.py:27 **  start
+INFO: 2017-08-27 19:14:22: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:14:22: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:14:22: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:14:22: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:14:25: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:14:25: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:14:25: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:14:25: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:15:07: main.py:27 **  start
+INFO: 2017-08-27 19:15:07: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:15:07: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:15:07: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:15:07: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:15:10: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:15:10: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:15:10: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:15:10: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:16:21: main.py:27 **  start
+INFO: 2017-08-27 19:16:21: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:16:21: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:16:21: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:16:21: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:16:24: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:16:24: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:16:24: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:16:24: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:21:35: main.py:27 **  start
+INFO: 2017-08-27 19:21:35: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:21:35: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:21:35: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:21:35: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:21:38: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:21:38: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:21:38: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:21:38: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:22:52: main.py:27 **  start
+INFO: 2017-08-27 19:22:52: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:22:52: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:22:52: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:22:52: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:22:55: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:22:55: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:22:55: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:22:55: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:24:50: main.py:27 **  start
+INFO: 2017-08-27 19:24:50: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:24:50: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:24:50: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:24:50: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:24:53: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:24:53: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:24:53: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:24:53: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:25:02: main.py:27 **  start
+INFO: 2017-08-27 19:25:02: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:25:02: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:25:02: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:25:02: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:25:05: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:25:05: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:25:05: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:25:05: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:25:55: main.py:27 **  start
+INFO: 2017-08-27 19:25:55: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:25:55: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:25:55: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:25:55: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:25:58: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:25:58: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:25:58: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:25:58: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:27:01: main.py:27 **  start
+INFO: 2017-08-27 19:27:01: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:27:01: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:27:01: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:27:01: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:27:04: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:27:04: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:27:04: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:27:04: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:27:45: main.py:27 **  start
+INFO: 2017-08-27 19:27:45: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:27:45: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:27:45: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:27:45: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:27:48: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:27:48: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:27:48: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:27:48: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:30:21: main.py:27 **  start
+INFO: 2017-08-27 19:30:21: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:30:21: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:30:21: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:30:21: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:30:24: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:30:24: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:30:24: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:30:24: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:31:29: main.py:27 **  start
+INFO: 2017-08-27 19:31:29: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:31:29: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:31:29: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:31:29: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:31:32: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:31:32: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:31:32: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:31:33: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:32:18: main.py:27 **  start
+INFO: 2017-08-27 19:32:18: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:32:18: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:32:18: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:32:18: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:32:21: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:32:21: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:32:21: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:32:21: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:35:58: main.py:27 **  start
+INFO: 2017-08-27 19:35:58: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:35:58: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:35:58: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:35:58: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:36:01: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:36:01: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:36:01: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:36:01: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:38:02: main.py:27 **  start
+INFO: 2017-08-27 19:38:02: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:38:02: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:38:02: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:38:02: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:38:05: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:38:05: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:38:05: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:38:06: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:42:59: main.py:27 **  start
+INFO: 2017-08-27 19:42:59: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:42:59: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:42:59: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:42:59: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:43:02: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:43:02: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:43:02: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:43:02: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:44:19: main.py:27 **  start
+INFO: 2017-08-27 19:44:19: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:44:19: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:44:19: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:44:19: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:44:22: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:44:22: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:44:22: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:44:22: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:44:27: main.py:82 **  0 0 1.22753500938 0.00594238284975
+INFO: 2017-08-27 19:44:48: main.py:82 **  0 0 2.5110886097 0.019678067416
+INFO: 2017-08-27 19:45:32: main.py:27 **  start
+INFO: 2017-08-27 19:45:32: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:45:32: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:45:32: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:45:32: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:45:35: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:45:35: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:45:35: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:45:35: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:46:04: main.py:27 **  start
+INFO: 2017-08-27 19:46:04: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:46:04: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:46:04: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:46:04: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:46:07: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:46:07: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:46:07: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:46:07: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:47:21: main.py:27 **  start
+INFO: 2017-08-27 19:47:21: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:47:21: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:47:21: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:47:21: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:47:24: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:47:24: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:47:24: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:47:24: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:47:58: main.py:27 **  start
+INFO: 2017-08-27 19:47:58: main.py:29 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-27 19:47:58: main.py:30 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-27 19:47:58: main.py:31 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-27 19:47:58: main.py:32 **  读取数据集...
+INFO: 2017-08-27 19:48:01: main.py:43 **  train data sample counts 5088
+INFO: 2017-08-27 19:48:01: main.py:44 **  train data set batch size 1
+INFO: 2017-08-27 19:48:01: main.py:45 **  train data batch counts 5088
+INFO: 2017-08-27 19:48:03: main.py:52 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-27 19:48:03: main.py:83 **  0 0 1.76501321793 0.0980609878898
+INFO: 2017-08-27 19:48:03: main.py:83 **  0 0 2.66560745239 1.02500178665
+INFO: 2017-08-27 19:48:04: main.py:83 **  0 0 4.17450857162 1.35956468433
+INFO: 2017-08-27 19:48:04: main.py:83 **  0 0 5.12652426958 2.23565717787
+INFO: 2017-08-27 19:48:04: main.py:83 **  0 0 6.30864244699 2.88638510555
+INFO: 2017-08-27 19:48:04: main.py:83 **  0 0 7.32735484838 3.69174893945
+INFO: 2017-08-27 19:48:04: main.py:83 **  0 0 8.88593930006 3.9571614787
+INFO: 2017-08-27 19:48:04: main.py:83 **  0 0 10.1958019137 4.4570613429
+INFO: 2017-08-27 19:48:05: main.py:83 **  0 0 11.3549708724 5.10491495579
+INFO: 2017-08-27 19:48:05: main.py:83 **  0 0 12.3481149077 5.94963752478
+INFO: 2017-08-27 19:48:05: main.py:83 **  0 0 13.4620928168 6.66804807633
+INFO: 2017-08-27 19:48:05: main.py:83 **  0 0 14.5870227218 7.37826132029
+INFO: 2017-08-27 19:48:05: main.py:83 **  0 0 16.2341784835 7.5392415002
+INFO: 2017-08-27 19:48:05: main.py:83 **  0 0 18.0113481879 7.59086010978
+INFO: 2017-08-27 19:48:05: main.py:83 **  0 0 19.2368437648 8.11985991523
+INFO: 2017-08-27 19:48:06: main.py:83 **  0 0 20.3565974832 8.81844673678
+INFO: 2017-08-27 19:48:06: main.py:83 **  0 0 21.4068650603 9.54220752046
+INFO: 2017-08-27 19:48:06: main.py:83 **  0 0 22.5170368552 10.1786815934
+INFO: 2017-08-27 19:48:06: main.py:83 **  0 0 23.5686610341 10.9181557111
+INFO: 2017-08-27 19:48:06: main.py:83 **  0 0 24.774178803 11.4933206849
+INFO: 2017-08-27 19:48:06: main.py:83 **  0 0 25.6720414758 12.429133635
+INFO: 2017-08-27 19:48:06: main.py:83 **  0 0 26.8659012914 12.9226134829
+INFO: 2017-08-27 19:48:07: main.py:83 **  0 0 28.4253411889 13.129372742
+INFO: 2017-08-27 19:48:07: main.py:83 **  0 0 29.4142834544 13.912401285
+INFO: 2017-08-27 19:48:07: main.py:83 **  0 0 30.3505343795 14.787590947
+INFO: 2017-08-27 19:48:07: main.py:83 **  0 0 31.2933796048 15.6849150322
+INFO: 2017-08-27 19:48:07: main.py:83 **  0 0 32.3883581758 16.3103294633
+INFO: 2017-08-27 19:48:07: main.py:83 **  0 0 33.4068191648 17.0452246331
+INFO: 2017-08-27 19:48:07: main.py:83 **  0 0 34.9628939033 17.2263154052
+INFO: 2017-08-27 19:48:08: main.py:83 **  0 0 35.8321319222 18.1746066473
+INFO: 2017-08-27 19:48:08: main.py:83 **  0 0 37.1810930371 18.48119184
+INFO: 2017-08-27 19:48:08: main.py:83 **  0 0 38.3574470878 18.9628760777
+INFO: 2017-08-27 19:48:08: main.py:83 **  0 0 39.2832380533 19.809070047
+INFO: 2017-08-27 19:48:08: main.py:83 **  0 0 40.3551920652 20.4861307703
+INFO: 2017-08-27 19:48:08: main.py:83 **  0 0 41.3620399237 21.1499933563
+INFO: 2017-08-27 19:48:08: main.py:83 **  0 0 42.6620186567 21.4694807492
+INFO: 2017-08-27 19:48:09: main.py:83 **  0 0 43.8789145947 22.1026264392
+INFO: 2017-08-27 19:48:09: main.py:83 **  0 0 45.7653803825 22.103480573
+INFO: 2017-08-27 19:48:09: main.py:83 **  0 0 46.9925096035 22.7101904109
+INFO: 2017-08-27 19:48:09: main.py:83 **  0 0 47.8852418661 23.4771664694
+INFO: 2017-08-27 19:48:09: main.py:83 **  0 0 48.9939879179 24.115322943
+INFO: 2017-08-27 19:48:09: main.py:83 **  0 0 50.4117230177 24.495211567
+INFO: 2017-08-27 19:48:09: main.py:83 **  0 0 51.3440854549 25.4531052962
+INFO: 2017-08-27 19:48:10: main.py:83 **  0 0 52.2958418727 26.2359222427
+INFO: 2017-08-27 19:48:10: main.py:83 **  0 0 53.2659662366 27.1311057463
+INFO: 2017-08-27 19:48:10: main.py:83 **  0 0 54.2043486238 28.0608501688
+INFO: 2017-08-27 19:48:10: main.py:83 **  0 0 55.7695310712 28.3765197053
+INFO: 2017-08-27 19:48:10: main.py:83 **  0 0 57.3507118821 28.6094614819
+INFO: 2017-08-27 19:48:10: main.py:83 **  0 0 58.2296192646 29.3764578059
+INFO: 2017-08-27 19:48:11: main.py:83 **  0 0 59.2905619144 30.0320771292
+INFO: 2017-08-27 19:48:11: main.py:83 **  0 0 60.2247442603 30.8251808837
+INFO: 2017-08-27 19:48:11: main.py:83 **  0 0 62.0134561658 30.8252031339
+INFO: 2017-08-27 19:48:11: main.py:83 **  0 0 62.9514421821 31.6846191418
+INFO: 2017-08-27 19:48:11: main.py:83 **  0 0 63.9721965194 32.4548323882
+INFO: 2017-08-27 19:48:11: main.py:83 **  0 0 64.8318282962 33.3586439026
+INFO: 2017-08-27 19:48:11: main.py:83 **  0 0 65.7837551236 34.0994011891
+INFO: 2017-08-27 19:48:12: main.py:83 **  0 0 66.6321522593 34.9762489927
+INFO: 2017-08-27 19:48:12: main.py:83 **  0 0 67.609646678 35.6691850555
+INFO: 2017-08-27 19:48:12: main.py:83 **  0 0 68.6399232149 36.3565171492
+INFO: 2017-08-27 19:48:12: main.py:83 **  0 0 69.7850040197 37.0035344494
+INFO: 2017-08-27 19:48:12: main.py:83 **  0 0 71.4964139462 37.1050809306
+INFO: 2017-08-27 19:48:12: main.py:83 **  0 0 72.5386614799 37.7625521702
+INFO: 2017-08-27 19:48:12: main.py:83 **  0 0 73.6787405014 38.2828547639
+INFO: 2017-08-27 19:48:13: main.py:83 **  0 0 74.6384772062 38.9930759353
+INFO: 2017-08-27 19:48:13: main.py:83 **  0 0 75.622563839 39.6694588346
+INFO: 2017-08-27 19:48:13: main.py:83 **  0 0 76.7700200081 40.3033662123
+INFO: 2017-08-27 19:48:13: main.py:83 **  0 0 78.1196095943 40.6084741038
+INFO: 2017-08-27 19:48:13: main.py:83 **  0 0 79.2029340267 41.1908761543
+INFO: 2017-08-27 19:48:13: main.py:83 **  0 0 80.4300453663 41.5477143807
+INFO: 2017-08-27 19:48:13: main.py:83 **  0 0 81.4415464401 42.2671293897
+INFO: 2017-08-27 19:48:14: main.py:83 **  0 0 82.4189118743 43.0829959792
+INFO: 2017-08-27 19:48:14: main.py:83 **  0 0 83.2454262376 43.9645127935
+INFO: 2017-08-27 19:48:14: main.py:83 **  0 0 84.2149386406 44.7543431801
+INFO: 2017-08-27 19:48:14: main.py:83 **  0 0 85.998095274 44.7543603884
+INFO: 2017-08-27 19:48:14: main.py:83 **  0 0 86.7542327642 45.6555356489
+INFO: 2017-08-27 19:48:14: main.py:83 **  0 0 88.2135082483 46.0671757268
+INFO: 2017-08-27 19:48:14: main.py:83 **  0 0 89.0817260146 46.9199051665
+INFO: 2017-08-27 19:48:15: main.py:83 **  0 0 90.3416662812 47.5412425803
+INFO: 2017-08-27 19:48:15: main.py:83 **  0 0 91.1275610328 48.3872526096
+INFO: 2017-08-27 19:48:15: main.py:83 **  0 0 92.1148610711 49.1270251678
+INFO: 2017-08-27 19:48:15: main.py:83 **  0 0 92.9891538024 49.7873139189
+INFO: 2017-08-27 19:48:15: main.py:83 **  0 0 93.8129800558 50.53108577
+INFO: 2017-08-27 19:48:15: main.py:83 **  0 0 94.7010918856 51.2418254422
+INFO: 2017-08-27 19:48:15: main.py:83 **  0 0 95.7694853544 51.9805644559
+INFO: 2017-08-27 19:48:16: main.py:83 **  0 0 96.4677290916 52.9001009868
+INFO: 2017-08-27 19:48:16: main.py:83 **  0 0 98.3403863907 52.9001143746
+INFO: 2017-08-27 19:48:16: main.py:83 **  0 0 99.4970180988 53.5981784634
+INFO: 2017-08-27 19:48:16: main.py:83 **  0 0 100.273283601 54.4783653192
+INFO: 2017-08-27 19:48:16: main.py:83 **  0 0 101.216529012 55.3015758567
+INFO: 2017-08-27 19:48:16: main.py:83 **  0 0 102.119017661 56.0894417338
+INFO: 2017-08-27 19:48:16: main.py:83 **  0 0 102.876995444 56.8476889901
+INFO: 2017-08-27 19:48:17: main.py:83 **  0 0 104.220059276 57.261339473
+INFO: 2017-08-27 19:48:17: main.py:83 **  0 0 105.281593442 57.8178646438
+INFO: 2017-08-27 19:48:17: main.py:83 **  0 0 106.957246661 58.0005934112
+INFO: 2017-08-27 19:48:17: main.py:83 **  0 0 107.970118642 58.6348044746
+INFO: 2017-08-27 19:48:17: main.py:83 **  0 0 108.759764194 59.4655564301
+INFO: 2017-08-27 19:48:17: main.py:83 **  0 0 109.528581262 60.3252767198
+INFO: 2017-08-27 19:48:18: main.py:83 **  0 0 110.212380171 61.1897442214
+INFO: 2017-08-27 19:48:18: main.py:83 **  0 0 112.030937433 61.277699808
+INFO: 2017-08-27 19:48:18: main.py:83 **  0 0 113.07302928 61.9655402698
+INFO: 2017-08-27 19:48:18: main.py:83 **  0 0 114.095581293 62.6498274602
+INFO: 2017-08-27 19:48:18: main.py:83 **  0 0 115.17635107 63.4059340753
+INFO: 2017-08-27 19:48:18: main.py:83 **  0 0 115.953304052 64.2262833513
+INFO: 2017-08-27 19:48:18: main.py:83 **  0 0 117.384321213 64.8064657845
+INFO: 2017-08-27 19:48:19: main.py:83 **  0 0 118.0645051 65.7180445589
+INFO: 2017-08-27 19:48:19: main.py:83 **  0 0 119.076185584 66.5057847299
+INFO: 2017-08-27 19:48:19: main.py:83 **  0 0 120.005445957 67.2684328355
+INFO: 2017-08-27 19:48:19: main.py:83 **  0 0 120.984352767 67.9549121656
+INFO: 2017-08-27 19:48:19: main.py:83 **  0 0 121.895070672 68.7299790777
+INFO: 2017-08-27 19:48:19: main.py:83 **  0 0 122.980865717 69.297043363
+INFO: 2017-08-27 19:48:19: main.py:83 **  0 0 124.214713454 69.8848163284
+INFO: 2017-08-27 19:48:20: main.py:83 **  0 0 125.32669127 70.5697506465
+INFO: 2017-08-27 19:48:20: main.py:83 **  0 0 126.551303864 71.2697673835
+INFO: 2017-08-27 19:48:20: main.py:83 **  0 0 127.691073179 71.8054131664
+INFO: 2017-08-27 19:48:20: main.py:83 **  0 0 128.230755687 72.755342523
+INFO: 2017-08-27 19:48:20: main.py:83 **  0 0 129.694198728 73.0548045434
+INFO: 2017-08-27 19:48:20: main.py:83 **  0 0 130.486017346 73.8928079404
+INFO: 2017-08-27 19:48:20: main.py:83 **  0 0 131.649000525 74.6323162712
+INFO: 2017-08-27 19:48:21: main.py:83 **  0 0 132.689797044 75.2700975336
+INFO: 2017-08-27 19:48:21: main.py:83 **  0 0 133.34840703 76.1870074071
+INFO: 2017-08-27 19:48:21: main.py:83 **  0 0 135.038976192 76.3648246475
+INFO: 2017-08-27 19:48:21: main.py:83 **  0 0 135.91408205 77.1651827641
+INFO: 2017-08-27 19:48:21: main.py:83 **  0 0 136.806451321 77.8905475683
+INFO: 2017-08-27 19:48:21: main.py:83 **  0 0 137.686613858 78.719902987

@@ -18,7 +18,6 @@ def image_to_tensor(image, mean=0, std=1.):
 
 
 def label_to_tensor(label, threshold=0.5):
-    print label.shape
     label = (label > threshold).astype(np.float32)
     lab_tensor = torch.from_numpy(label).type(torch.FloatTensor)
     return lab_tensor
