@@ -3,6 +3,7 @@
     <words>
       <w>epoches</w>
       <w>imgs</w>
+      <w>logits</w>
       <w>optim</w>
     </words>
   </dictionary>

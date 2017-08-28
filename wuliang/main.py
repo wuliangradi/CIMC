@@ -18,6 +18,7 @@ from net import criterion, dice_loss
 from scripts import CarDataSet
 from scripts import random_resize
 
+
 def train():
     output_path = "/home/wuliang/wuliang/CIMC/wuliang/output"
     if not os.path.exists(output_path):
@@ -34,7 +35,7 @@ def train():
     data_set = CarDataSet([IMG_PATH,
                            IMG_LABEL_PATH,
                            IMG_MASK_PATH],
-                          transform= [lambda x, y: random_resize(x, y, 1280, 1918, 512, 512)])
+                          transform=[lambda x, y: random_resize(x, y, 1280, 1918, 512, 512)])
     train_data_loader = DataLoader(data_set,
                                    batch_size=BATH_SIZE,
                                    shuffle=False,
@@ -51,20 +52,23 @@ def train():
 
     logger.info("{}\n\n".format(type(net)))
     optimizer = optim.SGD(net.parameters(), lr=0.01, momentum=0.9, weight_decay=0.0005)
+    smooth_loss = 0.0
+    smooth_acc = 0.0
     sum_smooth_loss = 0
     sum_smooth_acc = 0
+    sum_iter = 0
+    it_smooth = 30
+
     for epoch in range(0, NUM_EPOCHES):
         net.train()
 
         for it, (img_tensor, label, img_mask_tensor) in enumerate(train_data_loader, 0):
             image_ = Variable(img_tensor.cuda())
             label_ = Variable(img_mask_tensor.cuda())
-            #
             # image_ = Variable(img_tensor)
             # label_ = Variable(img_mask_tensor)
             # image_ = F.adaptive_avg_pool2d(image_, output_size=[512, 512])
             # label_ = F.adaptive_avg_pool2d(label_, output_size=[512, 512])
-            print label_.data.size()
             logits = net(image_)
             probs = F.sigmoid(logits)
             masks = (probs > 0.5).float()
@@ -78,9 +82,23 @@ def train():
 
             sum_smooth_loss += loss.data[0]
             sum_smooth_acc += acc.data[0]
+            sum_iter += 1
 
-            logger.info("{epoch} {lr} {sum_smooth_loss} {sum_smooth_acc}".
-                        format(epoch=epoch, lr=0, sum_smooth_loss=sum_smooth_loss, sum_smooth_acc=sum_smooth_acc))
+            if it % it_smooth == 0:
+                smooth_loss = sum_smooth_loss / sum_iter
+                smooth_acc = sum_smooth_acc / sum_iter
+                sum_smooth_loss = 0.0
+                sum_smooth_acc = 0.0
+                sum_iter = 0
+
+            train_acc = acc.data[0]
+            train_loss = loss.data[0]
+
+            logger.info("epoch: {epoch} batch_num: {iter_num} lr: {lr} loss: {smooth_loss} acc: {smooth_acc}"
+                        "train_loss: {train_loss} train_acc: {train_acc}%".
+                        format(epoch=epoch, iter_num=it, lr=0, smooth_loss=smooth_loss / sum_iter,
+                               smooth_acc=smooth_acc / sum_iter, train_loss=round(train_loss, 4),
+                               train_acc=round(train_acc, 4)*100))
             # data_iter = iter(train_data_loader)
             # img_tensor, label, img_mask_tensor = data_iter.next()
             # start_time_all = time()
