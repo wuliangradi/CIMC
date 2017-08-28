@@ -1850,3 +1850,281 @@ INFO: 2017-08-29 00:08:21: main.py:33 **  读取数据集...
 INFO: 2017-08-29 00:08:24: main.py:44 **  train data sample counts 5088
 INFO: 2017-08-29 00:08:24: main.py:45 **  train data set batch size 1
 INFO: 2017-08-29 00:08:24: main.py:46 **  train data batch counts 5088
+INFO: 2017-08-29 00:18:15: main.py:28 **  start
+INFO: 2017-08-29 00:18:15: main.py:30 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-29 00:18:15: main.py:31 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-29 00:18:15: main.py:32 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-29 00:18:15: main.py:33 **  读取数据集...
+INFO: 2017-08-29 00:18:18: main.py:44 **  train data sample counts 5088
+INFO: 2017-08-29 00:18:18: main.py:45 **  train data set batch size 1
+INFO: 2017-08-29 00:18:18: main.py:46 **  train data batch counts 5088
+INFO: 2017-08-29 00:18:20: main.py:53 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-29 00:18:45: main.py:28 **  start
+INFO: 2017-08-29 00:18:45: main.py:30 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-29 00:18:45: main.py:31 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-29 00:18:45: main.py:32 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-29 00:18:45: main.py:33 **  读取数据集...
+INFO: 2017-08-29 00:18:48: main.py:44 **  train data sample counts 5088
+INFO: 2017-08-29 00:18:48: main.py:45 **  train data set batch size 8
+INFO: 2017-08-29 00:18:48: main.py:46 **  train data batch counts 636
+INFO: 2017-08-29 00:18:49: main.py:53 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-29 00:21:32: main.py:28 **  start
+INFO: 2017-08-29 00:21:32: main.py:30 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-29 00:21:32: main.py:31 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-29 00:21:32: main.py:32 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-29 00:21:32: main.py:33 **  读取数据集...
+INFO: 2017-08-29 00:21:35: main.py:44 **  train data sample counts 5088
+INFO: 2017-08-29 00:21:35: main.py:45 **  train data set batch size 8
+INFO: 2017-08-29 00:21:35: main.py:46 **  train data batch counts 636
+INFO: 2017-08-29 00:21:36: main.py:53 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-29 00:22:11: main.py:28 **  start
+INFO: 2017-08-29 00:22:11: main.py:30 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-29 00:22:11: main.py:31 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-29 00:22:11: main.py:32 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-29 00:22:11: main.py:33 **  读取数据集...
+INFO: 2017-08-29 00:22:14: main.py:44 **  train data sample counts 5088
+INFO: 2017-08-29 00:22:14: main.py:45 **  train data set batch size 8
+INFO: 2017-08-29 00:22:14: main.py:46 **  train data batch counts 636
+INFO: 2017-08-29 00:22:15: main.py:53 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-29 00:22:17: main.py:100 **  epoch: 0 batch_num: 0 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.3257 train_acc: 0.67%
+INFO: 2017-08-29 00:22:18: main.py:100 **  epoch: 0 batch_num: 1 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2577 train_acc: 0.68%
+INFO: 2017-08-29 00:22:19: main.py:100 **  epoch: 0 batch_num: 2 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.3425 train_acc: 1.46%
+INFO: 2017-08-29 00:22:19: main.py:100 **  epoch: 0 batch_num: 3 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2798 train_acc: 2.46%
+INFO: 2017-08-29 00:22:20: main.py:100 **  epoch: 0 batch_num: 4 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2708 train_acc: 4.16%
+INFO: 2017-08-29 00:22:21: main.py:100 **  epoch: 0 batch_num: 5 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2577 train_acc: 10.4%
+INFO: 2017-08-29 00:22:22: main.py:100 **  epoch: 0 batch_num: 6 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.3741 train_acc: 26.37%
+INFO: 2017-08-29 00:22:22: main.py:100 **  epoch: 0 batch_num: 7 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.22 train_acc: 21.01%
+INFO: 2017-08-29 00:22:23: main.py:100 **  epoch: 0 batch_num: 8 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2593 train_acc: 39.85%
+INFO: 2017-08-29 00:22:24: main.py:100 **  epoch: 0 batch_num: 9 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2974 train_acc: 32.84%
+INFO: 2017-08-29 00:22:25: main.py:100 **  epoch: 0 batch_num: 10 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2484 train_acc: 30.13%
+INFO: 2017-08-29 00:22:25: main.py:100 **  epoch: 0 batch_num: 11 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.2851 train_acc: 46.28%
+INFO: 2017-08-29 00:22:26: main.py:100 **  epoch: 0 batch_num: 12 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1708 train_acc: 47.23%
+INFO: 2017-08-29 00:22:27: main.py:100 **  epoch: 0 batch_num: 13 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1564 train_acc: 59.99%
+INFO: 2017-08-29 00:22:28: main.py:100 **  epoch: 0 batch_num: 14 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.211 train_acc: 62.27%
+INFO: 2017-08-29 00:22:28: main.py:100 **  epoch: 0 batch_num: 15 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1613 train_acc: 61.84%
+INFO: 2017-08-29 00:22:29: main.py:100 **  epoch: 0 batch_num: 16 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1773 train_acc: 54.46%
+INFO: 2017-08-29 00:22:30: main.py:100 **  epoch: 0 batch_num: 17 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.24 train_acc: 46.64%
+INFO: 2017-08-29 00:22:31: main.py:100 **  epoch: 0 batch_num: 18 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1772 train_acc: 61.02%
+INFO: 2017-08-29 00:22:32: main.py:100 **  epoch: 0 batch_num: 19 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1547 train_acc: 59.86%
+INFO: 2017-08-29 00:22:32: main.py:100 **  epoch: 0 batch_num: 20 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1701 train_acc: 68.23%
+INFO: 2017-08-29 00:22:33: main.py:100 **  epoch: 0 batch_num: 21 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1197 train_acc: 67.96%
+INFO: 2017-08-29 00:22:34: main.py:100 **  epoch: 0 batch_num: 22 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1246 train_acc: 76.53%
+INFO: 2017-08-29 00:22:35: main.py:100 **  epoch: 0 batch_num: 23 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.0803 train_acc: 73.54%
+INFO: 2017-08-29 00:22:35: main.py:100 **  epoch: 0 batch_num: 24 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.1078 train_acc: 68.92%
+INFO: 2017-08-29 00:22:36: main.py:100 **  epoch: 0 batch_num: 25 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.0387 train_acc: 71.48%
+INFO: 2017-08-29 00:22:37: main.py:100 **  epoch: 0 batch_num: 26 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.0401 train_acc: 80.74%
+INFO: 2017-08-29 00:22:38: main.py:100 **  epoch: 0 batch_num: 27 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.0182 train_acc: 70.29%
+INFO: 2017-08-29 00:22:39: main.py:100 **  epoch: 0 batch_num: 28 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 0.9801 train_acc: 74.45%
+INFO: 2017-08-29 00:22:39: main.py:100 **  epoch: 0 batch_num: 29 lr: 0 loss: 1.32574439049 acc: 0.00668253609911train_loss: 1.0603 train_acc: 69.14%
+INFO: 2017-08-29 00:22:40: main.py:100 **  epoch: 0 batch_num: 30 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 1.0576 train_acc: 78.55%
+INFO: 2017-08-29 00:22:41: main.py:100 **  epoch: 0 batch_num: 31 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.9615 train_acc: 79.45%
+INFO: 2017-08-29 00:22:42: main.py:100 **  epoch: 0 batch_num: 32 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.9751 train_acc: 78.34%
+INFO: 2017-08-29 00:22:42: main.py:100 **  epoch: 0 batch_num: 33 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.9694 train_acc: 84.15%
+INFO: 2017-08-29 00:22:43: main.py:100 **  epoch: 0 batch_num: 34 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.9562 train_acc: 71.92%
+INFO: 2017-08-29 00:22:44: main.py:100 **  epoch: 0 batch_num: 35 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.939 train_acc: 77.79%
+INFO: 2017-08-29 00:22:45: main.py:100 **  epoch: 0 batch_num: 36 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8316 train_acc: 78.35%
+INFO: 2017-08-29 00:22:45: main.py:100 **  epoch: 0 batch_num: 37 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.9462 train_acc: 74.96%
+INFO: 2017-08-29 00:22:46: main.py:100 **  epoch: 0 batch_num: 38 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.9533 train_acc: 72.09%
+INFO: 2017-08-29 00:22:47: main.py:100 **  epoch: 0 batch_num: 39 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8604 train_acc: 71.99%
+INFO: 2017-08-29 00:22:48: main.py:100 **  epoch: 0 batch_num: 40 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8869 train_acc: 73.02%
+INFO: 2017-08-29 00:22:49: main.py:100 **  epoch: 0 batch_num: 41 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8966 train_acc: 74.75%
+INFO: 2017-08-29 00:22:49: main.py:100 **  epoch: 0 batch_num: 42 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7679 train_acc: 81.85%
+INFO: 2017-08-29 00:22:50: main.py:100 **  epoch: 0 batch_num: 43 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7315 train_acc: 89.15%
+INFO: 2017-08-29 00:22:51: main.py:100 **  epoch: 0 batch_num: 44 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.6975 train_acc: 86.49%
+INFO: 2017-08-29 00:22:52: main.py:100 **  epoch: 0 batch_num: 45 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7414 train_acc: 85.85%
+INFO: 2017-08-29 00:22:53: main.py:100 **  epoch: 0 batch_num: 46 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8657 train_acc: 72.41%
+INFO: 2017-08-29 00:22:53: main.py:100 **  epoch: 0 batch_num: 47 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.9381 train_acc: 70.61%
+INFO: 2017-08-29 00:22:54: main.py:100 **  epoch: 0 batch_num: 48 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.6656 train_acc: 91.44%
+INFO: 2017-08-29 00:22:55: main.py:100 **  epoch: 0 batch_num: 49 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7229 train_acc: 77.19%
+INFO: 2017-08-29 00:22:56: main.py:100 **  epoch: 0 batch_num: 50 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7884 train_acc: 71.46%
+INFO: 2017-08-29 00:22:56: main.py:100 **  epoch: 0 batch_num: 51 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8839 train_acc: 66.84%
+INFO: 2017-08-29 00:22:57: main.py:100 **  epoch: 0 batch_num: 52 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8111 train_acc: 76.44%
+INFO: 2017-08-29 00:22:58: main.py:100 **  epoch: 0 batch_num: 53 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7395 train_acc: 77.93%
+INFO: 2017-08-29 00:22:59: main.py:100 **  epoch: 0 batch_num: 54 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8148 train_acc: 84.09%
+INFO: 2017-08-29 00:23:00: main.py:100 **  epoch: 0 batch_num: 55 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7041 train_acc: 84.42%
+INFO: 2017-08-29 00:23:00: main.py:100 **  epoch: 0 batch_num: 56 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.8973 train_acc: 71.25%
+INFO: 2017-08-29 00:23:01: main.py:100 **  epoch: 0 batch_num: 57 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7472 train_acc: 79.66%
+INFO: 2017-08-29 00:23:02: main.py:100 **  epoch: 0 batch_num: 58 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.706 train_acc: 79.75%
+INFO: 2017-08-29 00:23:03: main.py:100 **  epoch: 0 batch_num: 59 lr: 0 loss: 1.17797092597 acc: 0.48959178091train_loss: 0.7815 train_acc: 68.18%
+INFO: 2017-08-29 00:23:03: main.py:100 **  epoch: 0 batch_num: 60 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6102 train_acc: 80.87%
+INFO: 2017-08-29 00:23:04: main.py:100 **  epoch: 0 batch_num: 61 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.8273 train_acc: 76.74%
+INFO: 2017-08-29 00:23:05: main.py:100 **  epoch: 0 batch_num: 62 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.647 train_acc: 82.47%
+INFO: 2017-08-29 00:23:06: main.py:100 **  epoch: 0 batch_num: 63 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6208 train_acc: 89.53%
+INFO: 2017-08-29 00:23:07: main.py:100 **  epoch: 0 batch_num: 64 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.4932 train_acc: 90.04%
+INFO: 2017-08-29 00:23:07: main.py:100 **  epoch: 0 batch_num: 65 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5064 train_acc: 82.81%
+INFO: 2017-08-29 00:23:08: main.py:100 **  epoch: 0 batch_num: 66 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.7088 train_acc: 79.84%
+INFO: 2017-08-29 00:23:09: main.py:100 **  epoch: 0 batch_num: 67 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.804 train_acc: 68.42%
+INFO: 2017-08-29 00:23:10: main.py:100 **  epoch: 0 batch_num: 68 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6186 train_acc: 82.0%
+INFO: 2017-08-29 00:23:11: main.py:100 **  epoch: 0 batch_num: 69 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5256 train_acc: 86.98%
+INFO: 2017-08-29 00:23:11: main.py:100 **  epoch: 0 batch_num: 70 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5158 train_acc: 86.38%
+INFO: 2017-08-29 00:23:12: main.py:100 **  epoch: 0 batch_num: 71 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6089 train_acc: 76.32%
+INFO: 2017-08-29 00:23:13: main.py:100 **  epoch: 0 batch_num: 72 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 1.1493 train_acc: 51.68%
+INFO: 2017-08-29 00:23:14: main.py:100 **  epoch: 0 batch_num: 73 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5806 train_acc: 78.3%
+INFO: 2017-08-29 00:23:14: main.py:100 **  epoch: 0 batch_num: 74 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5227 train_acc: 83.42%
+INFO: 2017-08-29 00:23:15: main.py:100 **  epoch: 0 batch_num: 75 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5422 train_acc: 80.44%
+INFO: 2017-08-29 00:23:16: main.py:100 **  epoch: 0 batch_num: 76 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.4747 train_acc: 91.19%
+INFO: 2017-08-29 00:23:17: main.py:100 **  epoch: 0 batch_num: 77 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6858 train_acc: 71.4%
+INFO: 2017-08-29 00:23:18: main.py:100 **  epoch: 0 batch_num: 78 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.7605 train_acc: 82.72%
+INFO: 2017-08-29 00:23:18: main.py:100 **  epoch: 0 batch_num: 79 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.7474 train_acc: 58.16%
+INFO: 2017-08-29 00:23:19: main.py:100 **  epoch: 0 batch_num: 80 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.4653 train_acc: 83.62%
+INFO: 2017-08-29 00:23:20: main.py:100 **  epoch: 0 batch_num: 81 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6798 train_acc: 72.43%
+INFO: 2017-08-29 00:23:21: main.py:100 **  epoch: 0 batch_num: 82 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.531 train_acc: 87.55%
+INFO: 2017-08-29 00:23:21: main.py:100 **  epoch: 0 batch_num: 83 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5353 train_acc: 79.79%
+INFO: 2017-08-29 00:23:22: main.py:100 **  epoch: 0 batch_num: 84 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.5528 train_acc: 79.83%
+INFO: 2017-08-29 00:23:23: main.py:100 **  epoch: 0 batch_num: 85 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.4365 train_acc: 81.34%
+INFO: 2017-08-29 00:23:24: main.py:100 **  epoch: 0 batch_num: 86 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6118 train_acc: 75.16%
+INFO: 2017-08-29 00:23:25: main.py:100 **  epoch: 0 batch_num: 87 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.6449 train_acc: 81.39%
+INFO: 2017-08-29 00:23:25: main.py:100 **  epoch: 0 batch_num: 88 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.8499 train_acc: 63.36%
+INFO: 2017-08-29 00:23:26: main.py:100 **  epoch: 0 batch_num: 89 lr: 0 loss: 0.826363853614 acc: 0.777560685078train_loss: 0.9156 train_acc: 62.25%
+INFO: 2017-08-29 00:23:27: main.py:100 **  epoch: 0 batch_num: 90 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.6822 train_acc: 70.86%
+INFO: 2017-08-29 00:23:28: main.py:100 **  epoch: 0 batch_num: 91 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.5304 train_acc: 80.65%
+INFO: 2017-08-29 00:23:29: main.py:100 **  epoch: 0 batch_num: 92 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.7496 train_acc: 70.69%
+INFO: 2017-08-29 00:23:29: main.py:100 **  epoch: 0 batch_num: 93 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.3938 train_acc: 91.0%
+INFO: 2017-08-29 00:23:30: main.py:100 **  epoch: 0 batch_num: 94 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.5331 train_acc: 83.95%
+INFO: 2017-08-29 00:23:31: main.py:100 **  epoch: 0 batch_num: 95 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.6542 train_acc: 64.58%
+INFO: 2017-08-29 00:23:32: main.py:100 **  epoch: 0 batch_num: 96 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.617 train_acc: 68.37%
+INFO: 2017-08-29 00:23:33: main.py:100 **  epoch: 0 batch_num: 97 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.4628 train_acc: 85.91%
+INFO: 2017-08-29 00:23:33: main.py:100 **  epoch: 0 batch_num: 98 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.4217 train_acc: 88.14%
+INFO: 2017-08-29 00:23:34: main.py:100 **  epoch: 0 batch_num: 99 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.5998 train_acc: 81.5%
+INFO: 2017-08-29 00:23:35: main.py:100 **  epoch: 0 batch_num: 100 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.5546 train_acc: 76.57%
+INFO: 2017-08-29 00:23:36: main.py:100 **  epoch: 0 batch_num: 101 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.4338 train_acc: 88.37%
+INFO: 2017-08-29 00:23:37: main.py:100 **  epoch: 0 batch_num: 102 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.643 train_acc: 74.9%
+INFO: 2017-08-29 00:23:38: main.py:100 **  epoch: 0 batch_num: 103 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 1.1437 train_acc: 55.15%
+INFO: 2017-08-29 00:23:38: main.py:100 **  epoch: 0 batch_num: 104 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.6149 train_acc: 74.23%
+INFO: 2017-08-29 00:23:39: main.py:100 **  epoch: 0 batch_num: 105 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.3908 train_acc: 90.51%
+INFO: 2017-08-29 00:23:40: main.py:100 **  epoch: 0 batch_num: 106 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.4064 train_acc: 92.64%
+INFO: 2017-08-29 00:23:41: main.py:100 **  epoch: 0 batch_num: 107 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.5477 train_acc: 78.99%
+INFO: 2017-08-29 00:23:42: main.py:100 **  epoch: 0 batch_num: 108 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.3554 train_acc: 89.82%
+INFO: 2017-08-29 00:23:42: main.py:100 **  epoch: 0 batch_num: 109 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.2965 train_acc: 92.36%
+INFO: 2017-08-29 00:23:43: main.py:100 **  epoch: 0 batch_num: 110 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.6077 train_acc: 87.68%
+INFO: 2017-08-29 00:23:44: main.py:100 **  epoch: 0 batch_num: 111 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.5973 train_acc: 73.12%
+INFO: 2017-08-29 00:23:45: main.py:100 **  epoch: 0 batch_num: 112 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.4071 train_acc: 84.65%
+INFO: 2017-08-29 00:23:46: main.py:100 **  epoch: 0 batch_num: 113 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.4412 train_acc: 82.6%
+INFO: 2017-08-29 00:23:47: main.py:100 **  epoch: 0 batch_num: 114 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.4577 train_acc: 80.52%
+INFO: 2017-08-29 00:23:47: main.py:100 **  epoch: 0 batch_num: 115 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.7167 train_acc: 63.33%
+INFO: 2017-08-29 00:23:48: main.py:100 **  epoch: 0 batch_num: 116 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 1.0208 train_acc: 53.41%
+INFO: 2017-08-29 00:23:49: main.py:100 **  epoch: 0 batch_num: 117 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.823 train_acc: 54.9%
+INFO: 2017-08-29 00:23:50: main.py:100 **  epoch: 0 batch_num: 118 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.888 train_acc: 75.05%
+INFO: 2017-08-29 00:23:51: main.py:100 **  epoch: 0 batch_num: 119 lr: 0 loss: 0.641488252083 acc: 0.778811105092train_loss: 0.5773 train_acc: 74.26%
+INFO: 2017-08-29 00:23:51: main.py:100 **  epoch: 0 batch_num: 120 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.4618 train_acc: 87.2%
+INFO: 2017-08-29 00:23:52: main.py:100 **  epoch: 0 batch_num: 121 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.883 train_acc: 63.74%
+INFO: 2017-08-29 00:23:53: main.py:100 **  epoch: 0 batch_num: 122 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5033 train_acc: 101.61%
+INFO: 2017-08-29 00:23:54: main.py:100 **  epoch: 0 batch_num: 123 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.673 train_acc: 83.43%
+INFO: 2017-08-29 00:23:55: main.py:100 **  epoch: 0 batch_num: 124 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.4025 train_acc: 82.1%
+INFO: 2017-08-29 00:23:56: main.py:100 **  epoch: 0 batch_num: 125 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5184 train_acc: 83.2%
+INFO: 2017-08-29 00:23:56: main.py:100 **  epoch: 0 batch_num: 126 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 1.081 train_acc: 55.06%
+INFO: 2017-08-29 00:23:57: main.py:100 **  epoch: 0 batch_num: 127 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.3979 train_acc: 82.47%
+INFO: 2017-08-29 00:23:58: main.py:100 **  epoch: 0 batch_num: 128 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5149 train_acc: 84.8%
+INFO: 2017-08-29 00:23:59: main.py:100 **  epoch: 0 batch_num: 129 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.3882 train_acc: 85.6%
+INFO: 2017-08-29 00:24:00: main.py:100 **  epoch: 0 batch_num: 130 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5199 train_acc: 79.27%
+INFO: 2017-08-29 00:24:01: main.py:100 **  epoch: 0 batch_num: 131 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.785 train_acc: 68.24%
+INFO: 2017-08-29 00:24:01: main.py:100 **  epoch: 0 batch_num: 132 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5221 train_acc: 80.22%
+INFO: 2017-08-29 00:24:02: main.py:100 **  epoch: 0 batch_num: 133 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.711 train_acc: 72.9%
+INFO: 2017-08-29 00:24:03: main.py:100 **  epoch: 0 batch_num: 134 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.6087 train_acc: 81.7%
+INFO: 2017-08-29 00:24:04: main.py:100 **  epoch: 0 batch_num: 135 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.6085 train_acc: 73.14%
+INFO: 2017-08-29 00:24:05: main.py:100 **  epoch: 0 batch_num: 136 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.3928 train_acc: 81.45%
+INFO: 2017-08-29 00:24:06: main.py:100 **  epoch: 0 batch_num: 137 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.4451 train_acc: 85.49%
+INFO: 2017-08-29 00:24:06: main.py:100 **  epoch: 0 batch_num: 138 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.3423 train_acc: 88.45%
+INFO: 2017-08-29 00:24:07: main.py:100 **  epoch: 0 batch_num: 139 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.3398 train_acc: 92.07%
+INFO: 2017-08-29 00:24:08: main.py:100 **  epoch: 0 batch_num: 140 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.4092 train_acc: 87.95%
+INFO: 2017-08-29 00:24:09: main.py:100 **  epoch: 0 batch_num: 141 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5562 train_acc: 98.76%
+INFO: 2017-08-29 00:24:10: main.py:100 **  epoch: 0 batch_num: 142 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5584 train_acc: 82.11%
+INFO: 2017-08-29 00:24:11: main.py:100 **  epoch: 0 batch_num: 143 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5041 train_acc: 71.31%
+INFO: 2017-08-29 00:24:12: main.py:100 **  epoch: 0 batch_num: 144 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.5293 train_acc: 85.97%
+INFO: 2017-08-29 00:24:12: main.py:100 **  epoch: 0 batch_num: 145 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.7121 train_acc: 56.52%
+INFO: 2017-08-29 00:24:13: main.py:100 **  epoch: 0 batch_num: 146 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.4253 train_acc: 86.13%
+INFO: 2017-08-29 00:24:14: main.py:100 **  epoch: 0 batch_num: 147 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.479 train_acc: 103.04%
+INFO: 2017-08-29 00:24:15: main.py:100 **  epoch: 0 batch_num: 148 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.4479 train_acc: 85.15%
+INFO: 2017-08-29 00:24:16: main.py:100 **  epoch: 0 batch_num: 149 lr: 0 loss: 0.578264071544 acc: 0.78167437911train_loss: 0.4883 train_acc: 83.14%
+INFO: 2017-08-29 00:24:17: main.py:100 **  epoch: 0 batch_num: 150 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.3353 train_acc: 90.28%
+INFO: 2017-08-29 00:24:17: main.py:100 **  epoch: 0 batch_num: 151 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.3615 train_acc: 85.47%
+INFO: 2017-08-29 00:24:18: main.py:100 **  epoch: 0 batch_num: 152 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.415 train_acc: 77.75%
+INFO: 2017-08-29 00:24:19: main.py:100 **  epoch: 0 batch_num: 153 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.6109 train_acc: 74.93%
+INFO: 2017-08-29 00:24:20: main.py:100 **  epoch: 0 batch_num: 154 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.5654 train_acc: 96.71%
+INFO: 2017-08-29 00:24:21: main.py:100 **  epoch: 0 batch_num: 155 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.4666 train_acc: 96.29%
+INFO: 2017-08-29 00:24:22: main.py:100 **  epoch: 0 batch_num: 156 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.6837 train_acc: 63.92%
+INFO: 2017-08-29 00:24:22: main.py:100 **  epoch: 0 batch_num: 157 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.5282 train_acc: 81.23%
+INFO: 2017-08-29 00:24:23: main.py:100 **  epoch: 0 batch_num: 158 lr: 0 loss: 0.536088689168 acc: 0.818423587084train_loss: 0.39 train_acc: 106.25%
+INFO: 2017-08-29 00:26:12: main.py:28 **  start
+INFO: 2017-08-29 00:26:12: main.py:30 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-29 00:26:12: main.py:31 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-29 00:26:12: main.py:32 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-29 00:26:12: main.py:33 **  读取数据集...
+INFO: 2017-08-29 00:26:14: main.py:44 **  train data sample counts 5088
+INFO: 2017-08-29 00:26:15: main.py:45 **  train data set batch size 8
+INFO: 2017-08-29 00:26:15: main.py:46 **  train data batch counts 636
+INFO: 2017-08-29 00:26:16: main.py:53 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-29 00:26:18: main.py:101 **  epoch: 0 batch_num: 0 lr: 0 loss: 1.15972852707 acc: 0.651173710823train_loss: 1.1597 train_acc: 65.12%
+INFO: 2017-08-29 00:27:18: main.py:28 **  start
+INFO: 2017-08-29 00:27:18: main.py:30 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-29 00:27:18: main.py:31 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-29 00:27:18: main.py:32 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-29 00:27:18: main.py:33 **  读取数据集...
+INFO: 2017-08-29 00:27:21: main.py:44 **  train data sample counts 5088
+INFO: 2017-08-29 00:27:21: main.py:45 **  train data set batch size 16
+INFO: 2017-08-29 00:27:21: main.py:46 **  train data batch counts 318
+INFO: 2017-08-29 00:27:23: main.py:53 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-29 00:27:37: main.py:28 **  start
+INFO: 2017-08-29 00:27:37: main.py:30 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-08-29 00:27:37: main.py:31 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-08-29 00:27:37: main.py:32 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-08-29 00:27:37: main.py:33 **  读取数据集...
+INFO: 2017-08-29 00:27:40: main.py:44 **  train data sample counts 5088
+INFO: 2017-08-29 00:27:40: main.py:45 **  train data set batch size 8
+INFO: 2017-08-29 00:27:40: main.py:46 **  train data batch counts 636
+INFO: 2017-08-29 00:27:41: main.py:53 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-08-29 00:27:43: main.py:101 **  epoch: 0 batch_num: 0 lr: 0 loss: 1.2745 acc: 0.426  train_loss: 1.2745 train_acc: 42.6%
+INFO: 2017-08-29 00:28:06: main.py:101 **  epoch: 0 batch_num: 30 lr: 0 loss: 1.1396 acc: 0.6438  train_loss: 1.0329 train_acc: 76.0%
+INFO: 2017-08-29 00:28:29: main.py:101 **  epoch: 0 batch_num: 60 lr: 0 loss: 0.8729 acc: 0.777  train_loss: 0.7614 train_acc: 76.98%
+INFO: 2017-08-29 00:28:54: main.py:101 **  epoch: 0 batch_num: 90 lr: 0 loss: 0.6828 acc: 0.8018  train_loss: 0.6682 train_acc: 77.64%
+INFO: 2017-08-29 00:29:19: main.py:101 **  epoch: 0 batch_num: 120 lr: 0 loss: 0.6827 acc: 0.7597  train_loss: 1.2406 train_acc: 46.36%
+INFO: 2017-08-29 00:29:44: main.py:101 **  epoch: 0 batch_num: 150 lr: 0 loss: 0.5657 acc: 0.8316  train_loss: 0.549 train_acc: 104.31%
+INFO: 2017-08-29 00:30:10: main.py:101 **  epoch: 0 batch_num: 180 lr: 0 loss: 0.5914 acc: 0.7801  train_loss: 0.4945 train_acc: 73.58%
+INFO: 2017-08-29 00:30:37: main.py:101 **  epoch: 0 batch_num: 210 lr: 0 loss: 0.5126 acc: 0.8406  train_loss: 0.7354 train_acc: 66.31%
+INFO: 2017-08-29 00:31:04: main.py:101 **  epoch: 0 batch_num: 240 lr: 0 loss: 0.4312 acc: 0.8546  train_loss: 0.2832 train_acc: 84.37%
+INFO: 2017-08-29 00:31:32: main.py:101 **  epoch: 0 batch_num: 270 lr: 0 loss: 0.4134 acc: 0.8689  train_loss: 0.3139 train_acc: 85.62%
+INFO: 2017-08-29 00:31:59: main.py:101 **  epoch: 0 batch_num: 300 lr: 0 loss: 0.4104 acc: 0.8692  train_loss: 0.5676 train_acc: 74.57%
+INFO: 2017-08-29 00:32:26: main.py:101 **  epoch: 0 batch_num: 330 lr: 0 loss: 0.3774 acc: 0.8784  train_loss: 0.3415 train_acc: 85.65%
+INFO: 2017-08-29 00:32:53: main.py:101 **  epoch: 0 batch_num: 360 lr: 0 loss: 0.394 acc: 0.8775  train_loss: 0.3584 train_acc: 82.41%
+INFO: 2017-08-29 00:33:19: main.py:101 **  epoch: 0 batch_num: 390 lr: 0 loss: 0.3709 acc: 0.8772  train_loss: 0.1809 train_acc: 95.3%
+INFO: 2017-08-29 00:33:46: main.py:101 **  epoch: 0 batch_num: 420 lr: 0 loss: 0.3431 acc: 0.8985  train_loss: 0.2454 train_acc: 89.84%
+INFO: 2017-08-29 00:34:12: main.py:101 **  epoch: 0 batch_num: 450 lr: 0 loss: 0.3883 acc: 0.9123  train_loss: 0.3706 train_acc: 82.69%
+INFO: 2017-08-29 00:34:38: main.py:101 **  epoch: 0 batch_num: 480 lr: 0 loss: 0.3304 acc: 0.892  train_loss: 0.2693 train_acc: 91.19%
+INFO: 2017-08-29 00:35:05: main.py:101 **  epoch: 0 batch_num: 510 lr: 0 loss: 0.3927 acc: 0.8935  train_loss: 0.1693 train_acc: 95.4%
+INFO: 2017-08-29 00:35:31: main.py:101 **  epoch: 0 batch_num: 540 lr: 0 loss: 0.3431 acc: 0.9057  train_loss: 0.1345 train_acc: 96.29%
+INFO: 2017-08-29 00:35:57: main.py:101 **  epoch: 0 batch_num: 570 lr: 0 loss: 0.2865 acc: 0.9266  train_loss: 0.1968 train_acc: 92.75%
+INFO: 2017-08-29 00:36:24: main.py:101 **  epoch: 0 batch_num: 600 lr: 0 loss: 0.3105 acc: 0.9383  train_loss: 0.319 train_acc: 89.68%
+INFO: 2017-08-29 00:36:51: main.py:101 **  epoch: 0 batch_num: 630 lr: 0 loss: 0.2921 acc: 0.9471  train_loss: 0.2307 train_acc: 93.59%
+INFO: 2017-08-29 00:36:55: main.py:101 **  epoch: 0 batch_num: 635 lr: 0 loss: 0.2921 acc: 0.9471  train_loss: 0.335 train_acc: 84.84%
+INFO: 2017-08-29 00:36:57: main.py:101 **  epoch: 1 batch_num: 0 lr: 0 loss: 0.2143 acc: 0.9144  train_loss: 0.1637 train_acc: 94.85%
+INFO: 2017-08-29 00:37:24: main.py:101 **  epoch: 1 batch_num: 30 lr: 0 loss: 0.2347 acc: 0.9279  train_loss: 0.1969 train_acc: 94.52%
+INFO: 2017-08-29 00:37:50: main.py:101 **  epoch: 1 batch_num: 60 lr: 0 loss: 0.2943 acc: 0.9254  train_loss: 0.2931 train_acc: 88.27%
+INFO: 2017-08-29 00:38:16: main.py:101 **  epoch: 1 batch_num: 90 lr: 0 loss: 0.277 acc: 0.933  train_loss: 0.2978 train_acc: 105.58%
+INFO: 2017-08-29 00:38:42: main.py:101 **  epoch: 1 batch_num: 120 lr: 0 loss: 0.2755 acc: 0.9357  train_loss: 0.302 train_acc: 105.46%
+INFO: 2017-08-29 00:39:09: main.py:101 **  epoch: 1 batch_num: 150 lr: 0 loss: 0.2428 acc: 0.943  train_loss: 0.2182 train_acc: 91.92%
+INFO: 2017-08-29 00:39:35: main.py:101 **  epoch: 1 batch_num: 180 lr: 0 loss: 0.2299 acc: 0.9524  train_loss: 0.385 train_acc: 81.2%
+INFO: 2017-08-29 00:40:02: main.py:101 **  epoch: 1 batch_num: 210 lr: 0 loss: 0.2589 acc: 0.9408  train_loss: 0.4051 train_acc: 72.36%
+INFO: 2017-08-29 00:40:28: main.py:101 **  epoch: 1 batch_num: 240 lr: 0 loss: 0.2219 acc: 0.9435  train_loss: 0.1575 train_acc: 95.51%
+INFO: 2017-08-29 00:40:55: main.py:101 **  epoch: 1 batch_num: 270 lr: 0 loss: 0.2448 acc: 0.9262  train_loss: 0.49 train_acc: 81.93%
+INFO: 2017-08-29 00:41:22: main.py:101 **  epoch: 1 batch_num: 300 lr: 0 loss: 0.297 acc: 0.9119  train_loss: 0.2441 train_acc: 91.37%
+INFO: 2017-08-29 00:41:48: main.py:101 **  epoch: 1 batch_num: 330 lr: 0 loss: 0.2542 acc: 0.9344  train_loss: 0.1233 train_acc: 95.61%
+INFO: 2017-08-29 00:42:14: main.py:101 **  epoch: 1 batch_num: 360 lr: 0 loss: 0.2351 acc: 0.967  train_loss: 0.2149 train_acc: 109.1%
+INFO: 2017-08-29 00:42:41: main.py:101 **  epoch: 1 batch_num: 390 lr: 0 loss: 0.2688 acc: 0.9313  train_loss: 0.2497 train_acc: 88.08%
+INFO: 2017-08-29 00:43:08: main.py:101 **  epoch: 1 batch_num: 420 lr: 0 loss: 0.2051 acc: 0.9286  train_loss: 0.2989 train_acc: 107.63%
+INFO: 2017-08-29 00:43:35: main.py:101 **  epoch: 1 batch_num: 450 lr: 0 loss: 0.2225 acc: 0.9391  train_loss: 0.128 train_acc: 94.31%
+INFO: 2017-08-29 00:44:02: main.py:101 **  epoch: 1 batch_num: 480 lr: 0 loss: 0.2207 acc: 0.938  train_loss: 0.1537 train_acc: 93.47%
+INFO: 2017-08-29 00:44:28: main.py:101 **  epoch: 1 batch_num: 510 lr: 0 loss: 0.2118 acc: 0.9746  train_loss: 0.2561 train_acc: 91.07%

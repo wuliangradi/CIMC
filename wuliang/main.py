@@ -83,7 +83,6 @@ def train():
             sum_smooth_loss += loss.data[0]
             sum_smooth_acc += acc.data[0]
             sum_iter += 1
-
             if it % it_smooth == 0:
                 smooth_loss = sum_smooth_loss / sum_iter
                 smooth_acc = sum_smooth_acc / sum_iter
@@ -91,17 +90,18 @@ def train():
                 sum_smooth_acc = 0.0
                 sum_iter = 0
 
-            train_acc = acc.data[0]
-            train_loss = loss.data[0]
+            if it % it_smooth == 0 or it == len(train_data_loader) - 1:
+                train_acc = acc.data[0]
+                train_loss = loss.data[0]
 
-            logger.info("epoch: {epoch} batch_num: {iter_num} lr: {lr} loss: {smooth_loss} acc: {smooth_acc}"
-                        "train_loss: {train_loss} train_acc: {train_acc}%".
-                        format(epoch=epoch, iter_num=it, lr=0, smooth_loss=smooth_loss / sum_iter,
-                               smooth_acc=smooth_acc / sum_iter, train_loss=round(train_loss, 4),
-                               train_acc=round(train_acc, 4)*100))
-            # data_iter = iter(train_data_loader)
-            # img_tensor, label, img_mask_tensor = data_iter.next()
-            # start_time_all = time()
+                logger.info("epoch: {epoch} batch_num: {iter_num} lr: {lr} loss: {smooth_loss} acc: {smooth_acc}%  "
+                            "train_loss: {train_loss} train_acc: {train_acc}%".
+                            format(epoch=epoch, iter_num=it, lr=0, smooth_loss=round(smooth_loss, 4),
+                                   smooth_acc=round(smooth_acc, 4)*100, train_loss=round(train_loss, 4),
+                                   train_acc=round(train_acc, 4) * 100))
+                # data_iter = iter(train_data_loader)
+                # img_tensor, label, img_mask_tensor = data_iter.next()
+                # start_time_all = time()
 
 
 def predict():
