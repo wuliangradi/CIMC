@@ -1,10 +1,13 @@
 <component name="ProjectDictionaryState">
   <dictionary name="wuliang">
     <words>
+      <w>dataset</w>
       <w>epoches</w>
       <w>imgs</w>
       <w>logits</w>
       <w>optim</w>
+      <w>probs</w>
+      <w>wuliang</w>
     </words>
   </dictionary>
 </component>

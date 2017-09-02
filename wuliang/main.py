@@ -16,7 +16,32 @@ from config import NUM_EPOCHES
 from net import CarUNet
 from net import criterion, dice_loss
 from scripts import CarDataSet
+from scripts import get_train_valid
 from scripts import random_resize
+
+
+def predict_and_evaluate(net, test_loader, H, W):
+    test_acc = 0
+    test_loss = 0
+    test_num = 0
+    for it, (img_tensor, label, img_mask_tensor) in enumerate(test_loader, 0):
+        image_ = Variable(img_tensor.cuda(), volatile=True)
+        label_ = Variable(img_mask_tensor.cuda(), volatile=True)
+
+        logits = net(image_)
+        probs = F.sigmoid(logits)
+        masks = (probs > 0.5).float()
+
+        loss = criterion(logits, label_)
+        acc = dice_loss(masks, label_)
+        batch_size = len(img_mask_tensor)
+        test_num += batch_size
+        test_loss += batch_size * loss.data[0]
+        test_acc += batch_size * acc.data[0]
+
+    test_loss = test_loss / test_num
+    test_acc = test_acc / test_num
+    return test_loss, test_acc
 
 
 def train():
@@ -36,14 +61,25 @@ def train():
                            IMG_LABEL_PATH,
                            IMG_MASK_PATH],
                           transform=[lambda x, y: random_resize(x, y, 1280, 1918, 512, 512)])
+
+    valid_list, train_list = get_train_valid(logger=logger, proportion_valid=0.2, num_all=len(data_set))
     train_data_loader = DataLoader(data_set,
                                    batch_size=BATH_SIZE,
+                                   sampler=train_list[:],
                                    shuffle=False,
                                    drop_last=True,
                                    num_workers=4)
-    logger.info("train data sample counts {}".format(len(data_set)))
+
+    valid_data_loader = DataLoader(data_set,
+                                   sampler=valid_list[:],
+                                   shuffle=False,
+                                   drop_last=True,
+                                   num_workers=4)
+
+    logger.info("all data sample counts {}".format(len(data_set)))
     logger.info("train data set batch size {}".format(BATH_SIZE))
-    logger.info("train data batch counts {}".format(len(train_data_loader)))
+    logger.info("train data sample counts {}".format(len(train_data_loader) * BATH_SIZE))
+    logger.info("valid data sample counts {}".format(len(valid_data_loader)))
 
     num_channel = 3
     width, high = (data_set.high, data_set.width)
@@ -59,16 +95,15 @@ def train():
     sum_iter = 0
     it_smooth = 30
 
+    epoch_valid = 1
+
     for epoch in range(0, NUM_EPOCHES):
         net.train()
 
         for it, (img_tensor, label, img_mask_tensor) in enumerate(train_data_loader, 0):
             image_ = Variable(img_tensor.cuda())
             label_ = Variable(img_mask_tensor.cuda())
-            # image_ = Variable(img_tensor)
-            # label_ = Variable(img_mask_tensor)
-            # image_ = F.adaptive_avg_pool2d(image_, output_size=[512, 512])
-            # label_ = F.adaptive_avg_pool2d(label_, output_size=[512, 512])
+
             logits = net(image_)
             probs = F.sigmoid(logits)
             masks = (probs > 0.5).float()
@@ -97,11 +132,16 @@ def train():
                 logger.info("epoch: {epoch} batch_num: {iter_num} lr: {lr} loss: {smooth_loss} acc: {smooth_acc}%  "
                             "train_loss: {train_loss} train_acc: {train_acc}%".
                             format(epoch=epoch, iter_num=it, lr=0, smooth_loss=round(smooth_loss, 4),
-                                   smooth_acc=round(smooth_acc, 4)*100, train_loss=round(train_loss, 4),
+                                   smooth_acc=round(smooth_acc, 4) * 100, train_loss=round(train_loss, 4),
                                    train_acc=round(train_acc, 4) * 100))
                 # data_iter = iter(train_data_loader)
                 # img_tensor, label, img_mask_tensor = data_iter.next()
                 # start_time_all = time()
+        if epoch % epoch_valid == 0 or epoch == 0 or epoch == NUM_EPOCHES - 1:
+            net.eval()
+            valid_loss, valid_acc = predict_and_evaluate(net, valid_data_loader, high, width)
+            logger.info("epoch: {epoch} valid_loss: {valid_loss} valid_acc: {valid_acc}%".
+                        format(epoch=epoch, valid_loss=round(valid_loss, 4), valid_acc=round(valid_acc, 4)*100))
 
 
 def predict():
