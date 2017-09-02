@@ -87,6 +87,7 @@ def train():
     net.cuda()
 
     logger.info("{}\n\n".format(type(net)))
+    """
     optimizer = optim.SGD(net.parameters(), lr=0.01, momentum=0.9, weight_decay=0.0005)
     smooth_loss = 0.0
     smooth_acc = 0.0
@@ -134,15 +135,13 @@ def train():
                             format(epoch=epoch, iter_num=it, lr=0, smooth_loss=round(smooth_loss, 4),
                                    smooth_acc=round(smooth_acc, 4) * 100, train_loss=round(train_loss, 4),
                                    train_acc=round(train_acc, 4) * 100))
-                # data_iter = iter(train_data_loader)
-                # img_tensor, label, img_mask_tensor = data_iter.next()
-                # start_time_all = time()
+
         if epoch % epoch_valid == 0 or epoch == 0 or epoch == NUM_EPOCHES - 1:
             net.eval()
             valid_loss, valid_acc = predict_and_evaluate(net, valid_data_loader, high, width)
             logger.info("epoch: {epoch} valid_loss: {valid_loss} valid_acc: {valid_acc}%".
                         format(epoch=epoch, valid_loss=round(valid_loss, 4), valid_acc=round(valid_acc, 4)*100))
-
+        """
 
 def predict():
     pass
