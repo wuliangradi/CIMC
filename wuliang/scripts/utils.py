@@ -52,13 +52,13 @@ def split_train(length, num_valid, valid_file, train_file):
 
 def get_train_valid(logger, proportion_valid=0.2, num_all=None):
     if num_all is None:
-        print "please input your num"
+        raise Exception('sample nums of all dataset is necessary.')
     valid_num = int(num_all * proportion_valid)
 
-    logger.info("All data size is {}".format(num_all))
-    logger.info("All data size is {}".format(num_all))
+    logger.info("All dataset size is {}".format(num_all))
+    logger.info("Train dataset size is {}".format(num_all-valid_num))
 
-    logger.info("Valid data size is {}".format(valid_num))
+    logger.info("Valid dataset size is {}".format(valid_num))
 
     valid_file = "valid_list_{}".format(str(valid_num))
     train_file = "train_list_{}".format(str(num_all - valid_num))

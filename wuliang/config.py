@@ -13,3 +13,4 @@ IMG_LABEL_PATH = "/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv"
 
 BATH_SIZE = 8
 NUM_EPOCHES = 3
+EPOCH_VALID = 1

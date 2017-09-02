@@ -2315,3 +2315,96 @@ INFO: 2017-09-02 17:53:29: main.py:136 **  epoch: 2 batch_num: 450 lr: 0 loss: 0
 INFO: 2017-09-02 17:53:54: main.py:136 **  epoch: 2 batch_num: 480 lr: 0 loss: 0.1347 acc: 98.06%  train_loss: 0.1286 train_acc: 96.64%
 INFO: 2017-09-02 17:54:18: main.py:136 **  epoch: 2 batch_num: 507 lr: 0 loss: 0.1347 acc: 98.06%  train_loss: 0.1059 train_acc: 96.35%
 INFO: 2017-09-02 17:54:55: main.py:144 **  epoch: 2 valid_loss: 0.1302 valid_acc: 99.49%
+INFO: 2017-09-02 22:07:26: main.py:53 **  Start
+INFO: 2017-09-02 22:07:26: main.py:55 **  训练数据集--图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-09-02 22:07:26: main.py:56 **  训练数据集--掩膜图片存储路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-09-02 22:07:26: main.py:57 **  训练数据集--标签csv路径是/home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-09-02 22:07:26: main.py:58 **  读取数据集...
+INFO: 2017-09-02 22:07:29: utils.py:58 **  All data size is 5088
+INFO: 2017-09-02 22:07:29: utils.py:59 **  All data size is 5088
+INFO: 2017-09-02 22:07:29: utils.py:61 **  Valid data size is 1017
+INFO: 2017-09-02 22:07:29: main.py:79 **  all data sample counts 5088
+INFO: 2017-09-02 22:07:29: main.py:80 **  train data set batch size 8
+INFO: 2017-09-02 22:07:29: main.py:81 **  train data sample counts 4064
+INFO: 2017-09-02 22:07:29: main.py:82 **  valid data sample counts 1018
+INFO: 2017-09-02 22:07:31: main.py:89 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-09-02 22:12:56: main.py:53 **  Start
+INFO: 2017-09-02 22:12:56: main.py:55 **  训练数据集--图片存储路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-09-02 22:12:56: main.py:56 **  训练数据集--掩膜图片存储路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-09-02 22:12:56: main.py:57 **  训练数据集--标签csv路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-09-02 22:12:56: main.py:58 **  读取数据集...
+INFO: 2017-09-02 22:26:57: main.py:98 **  Start
+INFO: 2017-09-02 22:26:57: main.py:100 **  训练数据集--图片存储路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-09-02 22:26:57: main.py:101 **  训练数据集--掩膜图片存储路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-09-02 22:26:57: main.py:102 **  训练数据集--标签csv路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-09-02 22:26:57: main.py:103 **  读取数据集...
+INFO: 2017-09-02 22:27:00: utils.py:58 **  All dataset size is 5088
+INFO: 2017-09-02 22:27:00: utils.py:59 **  Train dataset size is 4071
+INFO: 2017-09-02 22:27:00: utils.py:61 **  Valid dataset size is 1017
+INFO: 2017-09-02 22:27:00: main.py:124 **  all data sample counts 5088
+INFO: 2017-09-02 22:27:00: main.py:125 **  train data set batch size 8
+INFO: 2017-09-02 22:27:00: main.py:126 **  train data sample counts 4064
+INFO: 2017-09-02 22:27:00: main.py:127 **  valid data sample counts 1018
+INFO: 2017-09-02 22:27:01: main.py:134 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-09-02 22:27:04: main.py:89 **  epoch: 0 batch_num: 0 lr: 0 loss: 1.3346 acc: 3.43%  train_loss: 1.3346 train_acc: 3.43%
+INFO: 2017-09-02 22:27:26: main.py:89 **  epoch: 0 batch_num: 30 lr: 0 loss: 1.2347 acc: 44.61%  train_loss: 1.1679 train_acc: 75.62%
+INFO: 2017-09-02 22:27:49: main.py:89 **  epoch: 0 batch_num: 60 lr: 0 loss: 0.9303 acc: 78.85%  train_loss: 0.7944 train_acc: 79.83%
+INFO: 2017-09-02 23:56:05: main.py:98 **  Start
+INFO: 2017-09-02 23:56:05: main.py:100 **  训练数据集--图片存储路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train
+INFO: 2017-09-02 23:56:05: main.py:101 **  训练数据集--掩膜图片存储路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks
+INFO: 2017-09-02 23:56:05: main.py:102 **  训练数据集--标签csv路径是 /home/wuliang/wuliang/CIMC/wuliang/dataset/train_masks.csv
+INFO: 2017-09-02 23:56:05: main.py:103 **  读取数据集...
+INFO: 2017-09-02 23:56:08: utils.py:58 **  All dataset size is 5088
+INFO: 2017-09-02 23:56:08: utils.py:59 **  Train dataset size is 4071
+INFO: 2017-09-02 23:56:08: utils.py:61 **  Valid dataset size is 1017
+INFO: 2017-09-02 23:56:08: main.py:124 **  all data sample counts 5088
+INFO: 2017-09-02 23:56:08: main.py:125 **  train data set batch size 8
+INFO: 2017-09-02 23:56:08: main.py:126 **  train data sample counts 4064
+INFO: 2017-09-02 23:56:08: main.py:127 **  valid data sample counts 1018
+INFO: 2017-09-02 23:56:09: main.py:134 **  <class 'net.net.CarUNet'>
+
+
+INFO: 2017-09-02 23:56:11: main.py:89 **  epoch: 0 batch_num: 0 lr: 0 loss: 1.2415 acc: 54.77%  train_loss: 1.2415 train_acc: 54.77%
+INFO: 2017-09-02 23:56:34: main.py:89 **  epoch: 0 batch_num: 30 lr: 0 loss: 1.2619 acc: 60.53%  train_loss: 1.1707 train_acc: 75.32%
+INFO: 2017-09-02 23:56:57: main.py:89 **  epoch: 0 batch_num: 60 lr: 0 loss: 1.1005 acc: 71.72%  train_loss: 0.9544 train_acc: 81.98%
+INFO: 2017-09-02 23:57:20: main.py:89 **  epoch: 0 batch_num: 90 lr: 0 loss: 0.879 acc: 76.7%  train_loss: 0.737 train_acc: 82.62%
+INFO: 2017-09-02 23:57:44: main.py:89 **  epoch: 0 batch_num: 120 lr: 0 loss: 0.74 acc: 78.44%  train_loss: 0.5799 train_acc: 91.99%
+INFO: 2017-09-02 23:58:08: main.py:89 **  epoch: 0 batch_num: 150 lr: 0 loss: 0.6284 acc: 77.23%  train_loss: 0.5457 train_acc: 78.02%
+INFO: 2017-09-02 23:58:32: main.py:89 **  epoch: 0 batch_num: 180 lr: 0 loss: 0.6323 acc: 79.46%  train_loss: 0.5709 train_acc: 79.06%
+INFO: 2017-09-02 23:58:57: main.py:89 **  epoch: 0 batch_num: 210 lr: 0 loss: 0.5817 acc: 79.3%  train_loss: 0.5677 train_acc: 74.14%
+INFO: 2017-09-02 23:59:24: main.py:89 **  epoch: 0 batch_num: 240 lr: 0 loss: 0.6082 acc: 80.73%  train_loss: 0.6244 train_acc: 70.12%
+INFO: 2017-09-02 23:59:51: main.py:89 **  epoch: 0 batch_num: 270 lr: 0 loss: 0.4958 acc: 87.7%  train_loss: 0.2739 train_acc: 93.6%
+INFO: 2017-09-03 00:00:18: main.py:89 **  epoch: 0 batch_num: 300 lr: 0 loss: 0.4965 acc: 82.06%  train_loss: 0.5927 train_acc: 70.74%
+INFO: 2017-09-03 00:00:44: main.py:89 **  epoch: 0 batch_num: 330 lr: 0 loss: 0.4039 acc: 87.89%  train_loss: 0.2355 train_acc: 93.65%
+INFO: 2017-09-03 00:01:10: main.py:89 **  epoch: 0 batch_num: 360 lr: 0 loss: 0.5494 acc: 82.15%  train_loss: 0.9946 train_acc: 48.61%
+INFO: 2017-09-03 00:01:38: main.py:89 **  epoch: 0 batch_num: 390 lr: 0 loss: 0.479 acc: 84.43%  train_loss: 0.3292 train_acc: 87.98%
+INFO: 2017-09-03 00:02:05: main.py:89 **  epoch: 0 batch_num: 420 lr: 0 loss: 0.3995 acc: 87.0%  train_loss: 0.4795 train_acc: 96.79%
+INFO: 2017-09-03 00:02:32: main.py:89 **  epoch: 0 batch_num: 450 lr: 0 loss: 0.4324 acc: 85.9%  train_loss: 0.239 train_acc: 92.09%
+INFO: 2017-09-03 00:03:00: main.py:89 **  epoch: 0 batch_num: 480 lr: 0 loss: 0.4639 acc: 84.65%  train_loss: 0.7628 train_acc: 69.7%
+INFO: 2017-09-03 00:03:23: main.py:89 **  epoch: 0 batch_num: 507 lr: 0 loss: 0.4639 acc: 84.65%  train_loss: 1.2034 train_acc: 62.37%
+INFO: 2017-09-03 00:04:00: main.py:147 **  epoch: 0 valid_loss: 0.5948 valid_acc: 86.84%
+INFO: 2017-09-03 00:04:01: main.py:89 **  epoch: 1 batch_num: 0 lr: 0 loss: 0.8046 acc: 74.49%  train_loss: 0.8046 train_acc: 74.49%
+INFO: 2017-09-03 00:04:28: main.py:89 **  epoch: 1 batch_num: 30 lr: 0 loss: 0.4292 acc: 87.23%  train_loss: 0.7416 train_acc: 100.3%
+INFO: 2017-09-03 00:04:55: main.py:89 **  epoch: 1 batch_num: 60 lr: 0 loss: 0.3064 acc: 92.34%  train_loss: 0.194 train_acc: 94.05%
+INFO: 2017-09-03 00:05:22: main.py:89 **  epoch: 1 batch_num: 90 lr: 0 loss: 0.3673 acc: 88.99%  train_loss: 0.4151 train_acc: 76.52%
+INFO: 2017-09-03 00:05:49: main.py:89 **  epoch: 1 batch_num: 120 lr: 0 loss: 0.3422 acc: 90.36%  train_loss: 0.2167 train_acc: 95.4%
+INFO: 2017-09-03 00:06:17: main.py:89 **  epoch: 1 batch_num: 150 lr: 0 loss: 0.3674 acc: 88.11%  train_loss: 0.288 train_acc: 88.33%
+INFO: 2017-09-03 00:06:44: main.py:89 **  epoch: 1 batch_num: 180 lr: 0 loss: 0.2968 acc: 91.82%  train_loss: 0.1178 train_acc: 96.86%
+INFO: 2017-09-03 00:07:11: main.py:89 **  epoch: 1 batch_num: 210 lr: 0 loss: 0.278 acc: 92.4%  train_loss: 0.2754 train_acc: 85.7%
+INFO: 2017-09-03 00:07:38: main.py:89 **  epoch: 1 batch_num: 240 lr: 0 loss: 0.2492 acc: 94.29%  train_loss: 0.4525 train_acc: 79.39%
+INFO: 2017-09-03 00:08:04: main.py:89 **  epoch: 1 batch_num: 270 lr: 0 loss: 0.3116 acc: 91.27%  train_loss: 0.4219 train_acc: 107.63%
+INFO: 2017-09-03 00:08:31: main.py:89 **  epoch: 1 batch_num: 300 lr: 0 loss: 0.2617 acc: 92.85%  train_loss: 0.1058 train_acc: 96.76%
+INFO: 2017-09-03 00:08:58: main.py:89 **  epoch: 1 batch_num: 330 lr: 0 loss: 0.2405 acc: 94.09%  train_loss: 0.131 train_acc: 97.13%
+INFO: 2017-09-03 00:09:25: main.py:89 **  epoch: 1 batch_num: 360 lr: 0 loss: 0.2545 acc: 93.52%  train_loss: 0.222 train_acc: 91.87%
+INFO: 2017-09-03 00:09:53: main.py:89 **  epoch: 1 batch_num: 390 lr: 0 loss: 0.3348 acc: 90.15%  train_loss: 0.6335 train_acc: 87.79%
+INFO: 2017-09-03 00:10:21: main.py:89 **  epoch: 1 batch_num: 420 lr: 0 loss: 0.2811 acc: 91.68%  train_loss: 0.3805 train_acc: 91.26%
+INFO: 2017-09-03 00:10:48: main.py:89 **  epoch: 1 batch_num: 450 lr: 0 loss: 0.3464 acc: 90.42%  train_loss: 0.1204 train_acc: 96.66%
+INFO: 2017-09-03 00:11:16: main.py:89 **  epoch: 1 batch_num: 480 lr: 0 loss: 0.3029 acc: 91.92%  train_loss: 0.4454 train_acc: 97.15%
+INFO: 2017-09-03 00:11:42: main.py:89 **  epoch: 1 batch_num: 507 lr: 0 loss: 0.3029 acc: 91.92%  train_loss: 0.2241 train_acc: 88.9%
+INFO: 2017-09-03 00:12:23: main.py:147 **  epoch: 1 valid_loss: 0.2086 valid_acc: 96.86%
+INFO: 2017-09-03 00:12:25: main.py:89 **  epoch: 2 batch_num: 0 lr: 0 loss: 0.1899 acc: 92.21%  train_loss: 0.1899 train_acc: 92.21%
+INFO: 2017-09-03 00:12:53: main.py:89 **  epoch: 2 batch_num: 30 lr: 0 loss: 0.2799 acc: 92.68%  train_loss: 0.1508 train_acc: 93.31%
