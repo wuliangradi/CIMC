@@ -24,8 +24,8 @@
       <file leaf-file-name="train_seg_net.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/software/car-segment/train_seg_net.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="398" column="0" lean-forward="false" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="422" column="50" lean-forward="true" selection-start-line="422" selection-start-column="50" selection-end-line="422" selection-end-column="50" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -189,7 +189,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="-4" width="1217" height="1036" extended-state="6" />
+    <frame x="1985" y="-4" width="1215" height="1028" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03421728" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -224,6 +224,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/software/car-segment/dataset/tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="104" column="40" lean-forward="false" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/car-segment/train_seg_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7110">
+          <caret line="398" column="0" lean-forward="false" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/software/car-segment/common.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -650,8 +668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/software/car-segment/train_seg_net.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="398" column="0" lean-forward="false" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="422" column="50" lean-forward="true" selection-start-line="422" selection-start-column="50" selection-end-line="422" selection-end-column="50" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>

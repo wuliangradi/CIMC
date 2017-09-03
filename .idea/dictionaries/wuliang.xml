@@ -8,6 +8,7 @@
       <w>imgs</w>
       <w>logits</w>
       <w>optim</w>
+      <w>prec</w>
       <w>probs</w>
       <w>wuliang</w>
     </words>
