@@ -1,3 +1,4 @@
 data/
 .DS_Store
-wuliang/dataset
+car_mask/dataset
+car_mask/output

@@ -143,45 +143,31 @@ class CarUNet(nn.Module):
 
         out = self.center(out)
 
-        # out = F.upsample_bilinear(out, scale_factor=2)  # 16
         out = F.upsample(out, scale_factor=2, mode='bilinear')  # 16
-
         out = torch.cat([down6, out], 1)
         out = self.up6(out)
 
-        # out = F.upsample_bilinear(out, scale_factor=2)  # 32
         out = F.upsample(out, scale_factor=2, mode='bilinear')  # 32
-
         out = torch.cat([down5, out], 1)
         out = self.up5(out)
 
-        # out = F.upsample_bilinear(out, scale_factor=2)  # 64
         out = F.upsample(out, scale_factor=2, mode='bilinear')  # 64
-
         out = torch.cat([down4, out], 1)
         out = self.up4(out)
 
-        # out = F.upsample_bilinear(out, scale_factor=2)  # 128
         out = F.upsample(out, scale_factor=2, mode='bilinear')  # 128
-
         out = torch.cat([down3, out], 1)
         out = self.up3(out)
 
-        # out = F.upsample_bilinear(out, scale_factor=2)  # 128
         out = F.upsample(out, scale_factor=2, mode='bilinear')  # 128
-
         out = torch.cat([down2, out], 1)
         out = self.up2(out)
 
-        # out = F.upsample_bilinear(out, scale_factor=2)  # 256
         out = F.upsample(out, scale_factor=2, mode='bilinear')  # 256
-
         out = torch.cat([down1, out], 1)
         out = self.up1(out)
-        # out = F.upsample_bilinear(out, scale_factor=1)  # 1024
-        out = F.upsample(out, scale_factor=1, mode='bilinear')  # 1024
-
-        # x = F.upsample_bilinear(x, scale_factor=1)
+        out = F.upsample(out, size=[1920, 1280], mode='bilinear')  # 1024
+        x = F.upsample(x, size=[1920, 1280], mode='bilinear')  # 1024
         out = torch.cat([x, out], 1)
         out = self.up0(out)
 

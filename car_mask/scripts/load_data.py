@@ -94,34 +94,49 @@ def random_resize(image_, label_, high, width, target_high, target_width):
            label_[start_high:(start_high + target_high), start_width:(start_width + target_width)]
 
 
+def clip_(image_, start_high, start_width, target_high, target_width):
+    return image_[start_high:(start_high + target_high), start_width:(start_width + target_width), :]
+
+
 class CarDataSet(Dataset):
-    def __init__(self, root, transform=None, target_transform=None):
+    def __init__(self, root, transform=None, target_transform=None, is_predict=False):
         self.root_img = root[0]
-        self.root_img_mask = root[2]
         self.transform = transform
         self.target_transform = target_transform
         self.imgs = get_image_list(root[0])
-        self.labels = get_image_label(self.imgs, root[1])
+        self.is_predict = is_predict
+        if not is_predict:
+            self.labels = get_image_label(self.imgs, root[1])
+            self.root_img_mask = root[2]
         self.width = np.asarray(jpg_loader(os.path.join(self.root_img, self.imgs[0]))).shape[1]
         self.high = np.asarray(jpg_loader(os.path.join(self.root_img, self.imgs[0]))).shape[0]
 
     def __getitem__(self, index):
-        img_name, label = self.imgs[index], self.labels[index]
+        img_name = self.imgs[index]
         img = jpg_loader(os.path.join(self.root_img, img_name))
-
-        img_mask_name = get_image_mask_name(self.root_img_mask, img_name)
-        img_mask = gif_loader(os.path.join(self.root_img_mask, img_mask_name))
-
+        img = img.resize((1024, 512), Image.ANTIALIAS)
         img_arr = np.asarray(img) / 255.0
-        img_mask_arr = np.asarray(img_mask)
+        if not self.is_predict:
+            label = self.labels[index]
+            img_mask_name = get_image_mask_name(self.root_img_mask, img_name)
+            img_mask = gif_loader(os.path.join(self.root_img_mask, img_mask_name))
+            img_mask = img_mask.resize((1920, 1280), Image.ANTIALIAS)
 
-        if self.transform:
-            for tran in self.transform:
-                img_arr, img_mask_arr = tran(img_arr, img_mask_arr)
+            img_mask_arr = np.asarray(img_mask)
 
-        img_tensor = image_to_tensor(img_arr)
-        img_mask_tensor = label_to_tensor(img_mask_arr)
-        return img_tensor, label, img_mask_tensor
+            if self.transform:
+                for tran in self.transform:
+                    img_arr, img_mask_arr = tran(img_arr, img_mask_arr)
+            img_mask_tensor = label_to_tensor(img_mask_arr)
+            img_tensor = image_to_tensor(img_arr)
+            return img_tensor, label, img_mask_tensor
+
+        else:
+            if self.transform:
+                for tran in self.transform:
+                    img_arr = tran(img_arr)
+            img_tensor = image_to_tensor(img_arr)
+            return img_tensor,img_name
 
     def __len__(self):
         return len(self.imgs)
