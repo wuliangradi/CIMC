@@ -99,10 +99,11 @@ def clip_(image_, start_high, start_width, target_high, target_width):
 
 
 class CarDataSet(Dataset):
-    def __init__(self, root, transform=None, target_transform=None, is_predict=False):
+    def __init__(self, root, transform=None, target_transform=None, transform_img=None, is_predict=False):
         self.root_img = root[0]
         self.transform = transform
         self.target_transform = target_transform
+        self.transform_img = transform_img
         self.imgs = get_image_list(root[0])
         self.is_predict = is_predict
         if not is_predict:
@@ -114,13 +115,18 @@ class CarDataSet(Dataset):
     def __getitem__(self, index):
         img_name = self.imgs[index]
         img = jpg_loader(os.path.join(self.root_img, img_name))
-        img = img.resize((1024, 512), Image.ANTIALIAS)
-        img_arr = np.asarray(img) / 255.0
+
         if not self.is_predict:
             label = self.labels[index]
             img_mask_name = get_image_mask_name(self.root_img_mask, img_name)
             img_mask = gif_loader(os.path.join(self.root_img_mask, img_mask_name))
-            img_mask = img_mask.resize((1920, 1280), Image.ANTIALIAS)
+            if self.transform_img:
+                for tran in self.transform_img:
+                    img, img_mask = tran(img, img_mask)
+
+            img = img.resize((1024, 512), Image.BILINEAR)
+            img_arr = np.asarray(img) / 255.0
+            img_mask = img_mask.resize((1024, 512), Image.BILINEAR)
 
             img_mask_arr = np.asarray(img_mask)
 
@@ -132,6 +138,8 @@ class CarDataSet(Dataset):
             return img_tensor, label, img_mask_tensor
 
         else:
+            img = img.resize((1024, 512), Image.BILINEAR)
+            img_arr = np.asarray(img) / 255.0
             if self.transform:
                 for tran in self.transform:
                     img_arr = tran(img_arr)

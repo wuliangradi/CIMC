@@ -102,7 +102,9 @@ def randomHorizontalFlip2(image, label, u=0.5):
     return image, label
 
 
-def randomShiftScaleRotate2(image, label, shift_limit=(-0.0625,0.0625), scale_limit=(-0.1,0.1), rotate_limit=(-45,45), aspect_limit = (0,0),  borderMode=cv2.BORDER_CONSTANT, u=0.5):
+def randomShiftScaleRotate2(image, label, shift_limit=(-0.0625,0.0625), 
+                            scale_limit=(-0.1,0.1), rotate_limit=(-45,45), 
+                            aspect_limit = (0,0),  borderMode=cv2.BORDER_CONSTANT, u=0.5):
     #cv2.BORDER_REFLECT_101
 
     if random.random() < u:

@@ -13,7 +13,6 @@ from torch.autograd import Variable
 from torch.utils.data import DataLoader
 
 import log
-from config import BATH_SIZE
 from config import EPOCH_VALID
 from config import IMG_PATH, IMG_LABEL_PATH, IMG_MASK_PATH
 from config import IMG_TEST_PATH
@@ -23,12 +22,15 @@ from net import criterion, dice_loss
 from scripts import CarDataSet
 from scripts import get_train_valid
 from scripts import run_length_encode
+from scripts import color_enhance
+from scripts import random_rotate
+from scripts import peroective
 
 parser = argparse.ArgumentParser(description='PyTorch ImageNet Training')
 
 parser.add_argument('-j', '--workers', default=4, type=int, metavar='N',
                     help='number of data loading workers (default: 4)')
-parser.add_argument('--epochs', default=30, type=int, metavar='N',
+parser.add_argument('--epochs', default=50, type=int, metavar='N',
                     help='number of total epochs to run')
 parser.add_argument('--start_epoch', default=0, type=int, metavar='N',
                     help='manual epoch number (useful on restarts)')
@@ -38,17 +40,12 @@ parser.add_argument('--lr', '--learning_rate', default=0.01, type=float,
                     metavar='LR', help='initial learning rate')
 parser.add_argument('--momentum', default=0.9, type=float, metavar='M',
                     help='momentum')
-parser.add_argument('--weight_decay', '--wd', default=1e-4, type=float,
+parser.add_argument('--weight_decay', '--wd', default=0.0005, type=float,
                     metavar='W', help='weight decay (default: 1e-4)')
 parser.add_argument('--print_freq', '-p', default=10, type=int,
                     metavar='N', help='print frequency (default: 10)')
 parser.add_argument('--resume', default='', type=str, metavar='PATH',
                     help='path to latest checkpoint (default: none)')
-# parser.add_argument('-e', '--evaluate', dest='evaluate', action='store_true',
-#                     help='evaluate model on validation set')
-# parser.add_argument('--pretrained', dest='pretrained', action='store_true',
-#                     help='use pre-trained model')
-
 
 best_prec1 = 0
 
@@ -98,7 +95,7 @@ def train(epoch, net, optimizer, train_data_loader):
     sum_smooth_loss = 0
     sum_smooth_acc = 0
     sum_iter = 0
-    it_smooth = 30
+    it_smooth = 100
 
     for it, (img_tensor, label, img_mask_tensor) in enumerate(train_data_loader):
         image_ = Variable(img_tensor.cuda())
@@ -155,7 +152,7 @@ def predict():
     test_loader = DataLoader(data_set,
                              shuffle=False,
                              drop_last=True,
-                             # sampler=[1],
+                             # sampler=[6],
                              num_workers=args.workers)
     num_channel = 3
     width, high = (data_set.high, data_set.width)
@@ -165,8 +162,10 @@ def predict():
     args.start_epoch = checkpoint['epoch']
     best_prec1 = checkpoint['best_prec1']
     model.load_state_dict(checkpoint['state_dict'])
+    print best_prec1
     import csv
-    csv_file = open("submission.csv", "wb")
+    # import matplotlib.pyplot as plt
+    csv_file = open("submission_v2.csv", "wb")
     writer = csv.writer(csv_file, delimiter=',')
     writer.writerow(["img", "rle_mask"])
     for it, (img_tensor, name) in enumerate(test_loader):
@@ -188,6 +187,7 @@ def predict():
         img_out_ = np.asarray(img_out)
 
         # run_length_encode(img_out_)
+
         # plt.figure()
         # plt.imshow(img_out_, interpolation='None')
         # plt.show()
@@ -203,20 +203,24 @@ def save_checkpoint(state, is_best, filename='checkpoint.pth.tar'):
         shutil.copyfile(filename, 'model_best.pth.tar')
 
 
-def main():
+def train_model():
     global args, best_prec1, logger
     args = parser.parse_args()
 
     data_set = CarDataSet([IMG_PATH,
                            IMG_LABEL_PATH,
                            IMG_MASK_PATH],
-                          # transform=[lambda x, y: random_resize(x, y, 1280, 1918, 512, 512)]
                           )
+    data_set_aug = CarDataSet([IMG_PATH,
+                               IMG_LABEL_PATH,
+                               IMG_MASK_PATH],
+                              transform_img=[color_enhance, peroective, random_rotate]
+                              )
 
     logger = log.init_log(logfile="./train_log.txt", log_name="train data")
     valid_list, train_list = get_train_valid(logger=logger, proportion_valid=0.2, num_all=len(data_set))
     logger.info("Loading dataset...")
-    train_loader = DataLoader(data_set,
+    train_loader = DataLoader(data_set_aug,
                               batch_size=args.batch_size,
                               sampler=train_list[:],
                               shuffle=False,
@@ -230,8 +234,8 @@ def main():
                               num_workers=args.workers)
 
     logger.info("All data sample counts {}".format(len(data_set)))
-    logger.info("Train data batch size {}".format(BATH_SIZE))
-    logger.info("Train data sample counts {}".format(len(train_loader) * BATH_SIZE))
+    logger.info("Train data batch size {}".format(args.batch_size))
+    logger.info("Train data sample counts {}".format(len(train_loader) * args.batch_size))
     logger.info("Valid data sample counts {}".format(len(valid_loader)))
 
     num_channel = 3
@@ -241,6 +245,14 @@ def main():
     optimizer = optim.SGD(model.parameters(), lr=args.lr,
                           momentum=args.momentum,
                           weight_decay=args.weight_decay)
+
+    initial_checkpoint = "model_best.pth.tar"
+    if initial_checkpoint is not None:
+        checkpoint = torch.load(initial_checkpoint)
+        args.start_epoch = checkpoint['epoch']
+        optimizer.load_state_dict(checkpoint['optimizer'])
+        model.load_state_dict(checkpoint['state_dict'])
+
     for epoch in range(args.start_epoch, args.epochs):
         # train for one epoch
         model.train()
@@ -269,7 +281,7 @@ if __name__ == '__main__':
     # if sys.argv[1] == "predict":
     #     predict()
     # print "\nprogram run succeed"
-    # main()
+    train_model()
     # predict()
     # model_names = sorted(name for name in models.__dict__
     #                      if name.islower() and not name.startswith("__")
@@ -277,8 +289,3 @@ if __name__ == '__main__':
     # print model_names
     # model = torch.load('checkpoint.pth.tar')
     # print model
-    with open("/home/wuliang/wuliang/CIMC/car_mask/output/submission.csv") as fp:
-        for line in fp.readlines():
-            li = line.strip().split()
-            if len(li) == 2:
-                print li

@@ -4912,3 +4912,2377 @@ INFO: 2017-09-13 01:43:31: main.py:144 **  Train=>
 Epoch: 16	Batch_num: 570	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0164	train_acc: 99.2%
 INFO: 2017-09-13 01:43:57: main.py:144 **  Train=>
 Epoch: 16	Batch_num: 600	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0185	train_acc: 99.07%
+INFO: 2017-09-15 22:40:22: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:40:22: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:40:22: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:40:22: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:40:22: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:40:22: main.py:233 **  Train data batch size 8
+INFO: 2017-09-15 22:40:22: main.py:234 **  Train data sample counts 8136
+INFO: 2017-09-15 22:40:22: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:42:06: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:42:06: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:42:06: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:42:06: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:42:06: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:42:06: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 22:42:06: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 22:42:06: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:43:57: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:43:57: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:43:57: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:43:57: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:43:57: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:43:57: main.py:233 **  Train data batch size 2
+INFO: 2017-09-15 22:43:57: main.py:234 **  Train data sample counts 4070
+INFO: 2017-09-15 22:43:57: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:44:00: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.418	acc: 37.300%	train_loss: 1.4184	train_acc: 37.3%
+INFO: 2017-09-15 22:44:21: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 30	lr: 0.000	loss: 1.317	acc: 42.370%	train_loss: 1.165	train_acc: 29.29%
+INFO: 2017-09-15 22:44:42: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 60	lr: 0.000	loss: 1.049	acc: 44.450%	train_loss: 1.0266	train_acc: 45.73%
+INFO: 2017-09-15 22:45:02: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 90	lr: 0.000	loss: 0.843	acc: 61.970%	train_loss: 0.8832	train_acc: 54.57%
+INFO: 2017-09-15 22:48:23: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:48:23: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:48:23: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:48:23: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:48:23: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:48:23: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 22:48:23: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 22:48:23: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:49:34: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:49:34: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:49:34: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:49:34: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:49:34: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:49:34: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 22:49:34: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 22:49:34: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:51:47: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:51:47: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:51:47: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:51:47: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:51:47: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:51:47: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 22:51:47: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 22:51:47: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:51:50: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.402	acc: 38.320%	train_loss: 1.4023	train_acc: 38.32%
+INFO: 2017-09-15 22:52:14: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:52:14: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:52:14: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:52:14: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:52:14: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:52:14: main.py:233 **  Train data batch size 8
+INFO: 2017-09-15 22:52:14: main.py:234 **  Train data sample counts 4064
+INFO: 2017-09-15 22:52:14: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:58:07: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:58:07: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:58:07: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:58:07: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:58:07: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:58:07: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 22:58:07: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 22:58:07: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 22:59:44: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 22:59:44: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 22:59:44: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 22:59:44: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 22:59:44: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 22:59:44: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 22:59:44: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 22:59:44: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:00:15: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:00:15: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:00:15: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:00:15: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:00:15: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:00:15: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 23:00:15: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 23:00:15: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:01:22: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:01:22: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:01:22: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:01:22: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:01:22: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:01:22: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 23:01:22: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 23:01:22: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:01:25: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.323	acc: 11.000%	train_loss: 1.3233	train_acc: 11.0%
+INFO: 2017-09-15 23:02:31: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:02:31: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:02:31: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:02:31: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:02:31: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:02:31: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 23:02:31: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 23:02:31: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:03:05: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:03:05: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:03:05: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:03:05: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:03:05: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:03:05: main.py:233 **  Train data batch size 2
+INFO: 2017-09-15 23:03:05: main.py:234 **  Train data sample counts 4070
+INFO: 2017-09-15 23:03:05: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:03:08: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.369	acc: 16.360%	train_loss: 1.3694	train_acc: 16.36%
+INFO: 2017-09-15 23:03:29: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 30	lr: 0.000	loss: 1.216	acc: 35.080%	train_loss: 1.0628	train_acc: 42.83%
+INFO: 2017-09-15 23:04:41: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:04:41: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:04:41: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:04:41: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:04:41: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:04:41: main.py:233 **  Train data batch size 2
+INFO: 2017-09-15 23:04:41: main.py:234 **  Train data sample counts 4070
+INFO: 2017-09-15 23:04:41: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:04:44: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.383	acc: 30.590%	train_loss: 1.383	train_acc: 30.59%
+INFO: 2017-09-15 23:05:05: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 30	lr: 0.000	loss: 1.260	acc: 42.410%	train_loss: 1.1257	train_acc: 48.99%
+INFO: 2017-09-15 23:05:26: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 60	lr: 0.000	loss: 1.027	acc: 55.430%	train_loss: 1.044	train_acc: 46.08%
+INFO: 2017-09-15 23:05:47: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 90	lr: 0.000	loss: 0.844	acc: 62.270%	train_loss: 0.9095	train_acc: 53.67%
+INFO: 2017-09-15 23:06:08: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 120	lr: 0.000	loss: 0.829	acc: 60.880%	train_loss: 0.8002	train_acc: 62.54%
+INFO: 2017-09-15 23:06:30: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 150	lr: 0.000	loss: 0.817	acc: 61.440%	train_loss: 0.6531	train_acc: 77.1%
+INFO: 2017-09-15 23:06:53: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 180	lr: 0.000	loss: 0.775	acc: 64.870%	train_loss: 0.7828	train_acc: 66.61%
+INFO: 2017-09-15 23:07:15: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 210	lr: 0.000	loss: 0.793	acc: 62.040%	train_loss: 0.7629	train_acc: 61.1%
+INFO: 2017-09-15 23:07:38: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 240	lr: 0.000	loss: 0.751	acc: 65.870%	train_loss: 0.7159	train_acc: 68.71%
+INFO: 2017-09-15 23:08:01: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 270	lr: 0.000	loss: 0.746	acc: 65.800%	train_loss: 0.6779	train_acc: 70.21%
+INFO: 2017-09-15 23:08:24: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 300	lr: 0.000	loss: 0.784	acc: 63.560%	train_loss: 0.7965	train_acc: 62.03%
+INFO: 2017-09-15 23:08:47: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 330	lr: 0.000	loss: 0.757	acc: 64.990%	train_loss: 0.699	train_acc: 67.08%
+INFO: 2017-09-15 23:09:10: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 360	lr: 0.000	loss: 0.771	acc: 62.880%	train_loss: 0.6932	train_acc: 67.63%
+INFO: 2017-09-15 23:09:33: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 390	lr: 0.000	loss: 0.741	acc: 65.010%	train_loss: 0.7294	train_acc: 64.59%
+INFO: 2017-09-15 23:09:57: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 420	lr: 0.000	loss: 0.762	acc: 63.350%	train_loss: 0.5982	train_acc: 75.14%
+INFO: 2017-09-15 23:10:20: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 450	lr: 0.000	loss: 0.756	acc: 63.450%	train_loss: 0.8758	train_acc: 53.43%
+INFO: 2017-09-15 23:10:43: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 480	lr: 0.000	loss: 0.743	acc: 64.250%	train_loss: 0.7659	train_acc: 62.45%
+INFO: 2017-09-15 23:11:06: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 510	lr: 0.000	loss: 0.749	acc: 63.250%	train_loss: 0.621	train_acc: 73.24%
+INFO: 2017-09-15 23:11:29: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 540	lr: 0.000	loss: 0.736	acc: 64.480%	train_loss: 0.6456	train_acc: 72.81%
+INFO: 2017-09-15 23:11:52: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 570	lr: 0.000	loss: 0.749	acc: 63.170%	train_loss: 0.7956	train_acc: 58.24%
+INFO: 2017-09-15 23:12:16: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 600	lr: 0.000	loss: 0.730	acc: 64.220%	train_loss: 0.7059	train_acc: 61.0%
+INFO: 2017-09-15 23:12:39: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 630	lr: 0.000	loss: 0.749	acc: 62.650%	train_loss: 0.8279	train_acc: 56.3%
+INFO: 2017-09-15 23:13:02: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 660	lr: 0.000	loss: 0.761	acc: 61.410%	train_loss: 0.7407	train_acc: 64.63%
+INFO: 2017-09-15 23:13:25: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 690	lr: 0.000	loss: 0.699	acc: 67.240%	train_loss: 0.6123	train_acc: 72.41%
+INFO: 2017-09-15 23:13:48: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 720	lr: 0.000	loss: 0.767	acc: 61.270%	train_loss: 0.7449	train_acc: 60.86%
+INFO: 2017-09-15 23:14:11: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 750	lr: 0.000	loss: 0.748	acc: 62.480%	train_loss: 0.8364	train_acc: 54.68%
+INFO: 2017-09-15 23:14:35: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 780	lr: 0.000	loss: 0.729	acc: 64.420%	train_loss: 0.6399	train_acc: 72.14%
+INFO: 2017-09-15 23:14:58: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 810	lr: 0.000	loss: 0.723	acc: 64.690%	train_loss: 0.7309	train_acc: 59.49%
+INFO: 2017-09-15 23:15:21: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 840	lr: 0.000	loss: 0.743	acc: 61.110%	train_loss: 0.842	train_acc: 53.67%
+INFO: 2017-09-15 23:15:44: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 870	lr: 0.000	loss: 0.760	acc: 61.470%	train_loss: 0.6903	train_acc: 67.17%
+INFO: 2017-09-15 23:16:07: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 900	lr: 0.000	loss: 0.713	acc: 65.490%	train_loss: 0.8016	train_acc: 58.71%
+INFO: 2017-09-15 23:16:30: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 930	lr: 0.000	loss: 0.696	acc: 66.470%	train_loss: 0.7168	train_acc: 61.12%
+INFO: 2017-09-15 23:16:53: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 960	lr: 0.000	loss: 0.747	acc: 61.620%	train_loss: 0.8271	train_acc: 54.42%
+INFO: 2017-09-15 23:17:16: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 990	lr: 0.000	loss: 0.722	acc: 64.270%	train_loss: 0.7576	train_acc: 62.98%
+INFO: 2017-09-15 23:17:39: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1020	lr: 0.000	loss: 0.744	acc: 62.410%	train_loss: 0.7869	train_acc: 62.17%
+INFO: 2017-09-15 23:18:02: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1050	lr: 0.000	loss: 0.728	acc: 64.290%	train_loss: 0.6722	train_acc: 70.54%
+INFO: 2017-09-15 23:18:25: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1080	lr: 0.000	loss: 0.725	acc: 63.840%	train_loss: 0.6528	train_acc: 71.09%
+INFO: 2017-09-15 23:18:48: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1110	lr: 0.000	loss: 0.727	acc: 63.660%	train_loss: 0.6204	train_acc: 72.71%
+INFO: 2017-09-15 23:19:11: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1140	lr: 0.000	loss: 0.737	acc: 62.550%	train_loss: 0.7434	train_acc: 59.99%
+INFO: 2017-09-15 23:19:34: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1170	lr: 0.000	loss: 0.722	acc: 63.950%	train_loss: 0.8178	train_acc: 55.89%
+INFO: 2017-09-15 23:19:58: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1200	lr: 0.000	loss: 0.747	acc: 61.540%	train_loss: 0.7988	train_acc: 57.97%
+INFO: 2017-09-15 23:20:21: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1230	lr: 0.000	loss: 0.690	acc: 67.550%	train_loss: 0.7048	train_acc: 67.43%
+INFO: 2017-09-15 23:20:44: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1260	lr: 0.000	loss: 0.707	acc: 65.490%	train_loss: 0.6782	train_acc: 65.99%
+INFO: 2017-09-15 23:21:07: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1290	lr: 0.000	loss: 0.710	acc: 65.640%	train_loss: 0.6722	train_acc: 71.8%
+INFO: 2017-09-15 23:21:30: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1320	lr: 0.000	loss: 0.695	acc: 67.120%	train_loss: 0.6197	train_acc: 75.7%
+INFO: 2017-09-15 23:22:27: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:22:27: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:22:27: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:22:27: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:22:27: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:22:27: main.py:233 **  Train data batch size 2
+INFO: 2017-09-15 23:22:27: main.py:234 **  Train data sample counts 4070
+INFO: 2017-09-15 23:22:27: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:23:17: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:23:17: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:23:17: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:23:17: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:23:17: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:23:17: main.py:233 **  Train data batch size 2
+INFO: 2017-09-15 23:23:17: main.py:234 **  Train data sample counts 4070
+INFO: 2017-09-15 23:23:17: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:23:19: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.307	acc: 12.710%	train_loss: 1.3071	train_acc: 12.71%
+INFO: 2017-09-15 23:23:40: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:23:40: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:23:40: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:23:40: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:23:40: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:23:40: main.py:233 **  Train data batch size 8
+INFO: 2017-09-15 23:23:40: main.py:234 **  Train data sample counts 4064
+INFO: 2017-09-15 23:23:40: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:23:55: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:23:55: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:23:55: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:23:55: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:23:55: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:23:55: main.py:233 **  Train data batch size 6
+INFO: 2017-09-15 23:23:55: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 23:23:55: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:24:07: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:24:07: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:24:07: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:24:07: main.py:218 **  Loading dataset...
+INFO: 2017-09-15 23:24:07: main.py:232 **  All data sample counts 5088
+INFO: 2017-09-15 23:24:07: main.py:233 **  Train data batch size 4
+INFO: 2017-09-15 23:24:07: main.py:234 **  Train data sample counts 4068
+INFO: 2017-09-15 23:24:07: main.py:235 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:24:10: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.385	acc: 23.760%	train_loss: 1.385	train_acc: 23.76%
+INFO: 2017-09-15 23:24:34: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 30	lr: 0.000	loss: 0.953	acc: 80.100%	train_loss: 0.6542	train_acc: 92.7%
+INFO: 2017-09-15 23:24:58: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 60	lr: 0.000	loss: 0.379	acc: 94.270%	train_loss: 0.2165	train_acc: 94.93%
+INFO: 2017-09-15 23:25:23: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 90	lr: 0.000	loss: 0.200	acc: 94.230%	train_loss: 0.1982	train_acc: 93.26%
+INFO: 2017-09-15 23:25:49: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 120	lr: 0.000	loss: 0.121	acc: 96.350%	train_loss: 0.1127	train_acc: 96.35%
+INFO: 2017-09-15 23:26:15: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 150	lr: 0.000	loss: 0.100	acc: 96.830%	train_loss: 0.0957	train_acc: 97.23%
+INFO: 2017-09-15 23:26:42: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 180	lr: 0.000	loss: 0.078	acc: 97.360%	train_loss: 0.0599	train_acc: 97.93%
+INFO: 2017-09-15 23:27:09: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 210	lr: 0.000	loss: 0.071	acc: 97.540%	train_loss: 0.0758	train_acc: 97.32%
+INFO: 2017-09-15 23:27:35: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 240	lr: 0.000	loss: 0.064	acc: 97.770%	train_loss: 0.0535	train_acc: 98.2%
+INFO: 2017-09-15 23:28:02: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 270	lr: 0.000	loss: 0.056	acc: 97.960%	train_loss: 0.0487	train_acc: 98.2%
+INFO: 2017-09-15 23:28:28: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 300	lr: 0.000	loss: 0.053	acc: 98.000%	train_loss: 0.0498	train_acc: 98.04%
+INFO: 2017-09-15 23:28:55: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 330	lr: 0.000	loss: 0.051	acc: 98.050%	train_loss: 0.0517	train_acc: 98.13%
+INFO: 2017-09-15 23:29:22: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 360	lr: 0.000	loss: 0.049	acc: 98.140%	train_loss: 0.0418	train_acc: 98.47%
+INFO: 2017-09-15 23:29:48: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 390	lr: 0.000	loss: 0.045	acc: 98.280%	train_loss: 0.041	train_acc: 98.44%
+INFO: 2017-09-15 23:31:05: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-15 23:31:05: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-15 23:31:05: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-15 23:31:05: main.py:223 **  Loading dataset...
+INFO: 2017-09-15 23:31:05: main.py:237 **  All data sample counts 5088
+INFO: 2017-09-15 23:31:05: main.py:238 **  Train data batch size 4
+INFO: 2017-09-15 23:31:05: main.py:239 **  Train data sample counts 4068
+INFO: 2017-09-15 23:31:05: main.py:240 **  Valid data sample counts 1018
+INFO: 2017-09-15 23:31:08: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.424	acc: 35.180%	train_loss: 1.4241	train_acc: 35.18%
+INFO: 2017-09-15 23:31:58: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 60	lr: 0.000	loss: 0.752	acc: 81.820%	train_loss: 0.1964	train_acc: 94.59%
+INFO: 2017-09-15 23:32:50: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 120	lr: 0.000	loss: 0.145	acc: 95.510%	train_loss: 0.1158	train_acc: 95.76%
+INFO: 2017-09-15 23:33:42: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 180	lr: 0.000	loss: 0.092	acc: 96.810%	train_loss: 0.071	train_acc: 97.33%
+INFO: 2017-09-15 23:34:34: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 240	lr: 0.000	loss: 0.072	acc: 97.430%	train_loss: 0.0648	train_acc: 97.72%
+INFO: 2017-09-15 23:35:26: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 300	lr: 0.000	loss: 0.053	acc: 98.010%	train_loss: 0.0461	train_acc: 98.11%
+INFO: 2017-09-15 23:36:18: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 360	lr: 0.000	loss: 0.051	acc: 98.020%	train_loss: 0.0411	train_acc: 98.47%
+INFO: 2017-09-15 23:37:10: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 420	lr: 0.000	loss: 0.046	acc: 98.170%	train_loss: 0.059	train_acc: 97.5%
+INFO: 2017-09-15 23:38:02: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 480	lr: 0.000	loss: 0.044	acc: 98.260%	train_loss: 0.0687	train_acc: 97.22%
+INFO: 2017-09-15 23:38:55: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 540	lr: 0.000	loss: 0.058	acc: 97.670%	train_loss: 0.045	train_acc: 98.45%
+INFO: 2017-09-15 23:39:48: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 600	lr: 0.000	loss: 0.043	acc: 98.250%	train_loss: 0.0439	train_acc: 97.89%
+INFO: 2017-09-15 23:40:40: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 660	lr: 0.000	loss: 0.039	acc: 98.430%	train_loss: 0.0488	train_acc: 98.18%
+INFO: 2017-09-15 23:41:32: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 720	lr: 0.000	loss: 0.038	acc: 98.410%	train_loss: 0.0357	train_acc: 98.47%
+INFO: 2017-09-15 23:42:26: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 780	lr: 0.000	loss: 0.036	acc: 98.500%	train_loss: 0.0366	train_acc: 98.32%
+INFO: 2017-09-15 23:43:19: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 840	lr: 0.000	loss: 0.034	acc: 98.550%	train_loss: 0.0374	train_acc: 98.4%
+INFO: 2017-09-15 23:44:11: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 900	lr: 0.000	loss: 0.035	acc: 98.520%	train_loss: 0.0308	train_acc: 98.64%
+INFO: 2017-09-15 23:45:03: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 960	lr: 0.000	loss: 0.034	acc: 98.560%	train_loss: 0.039	train_acc: 98.32%
+INFO: 2017-09-15 23:45:53: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1016	lr: 0.000	loss: 0.034	acc: 98.560%	train_loss: 0.034	train_acc: 98.51%
+INFO: 2017-09-15 23:46:58: main.py:83 **  Validate=>
+Epoch: 0	Valid_loss: 0.033	Valid_acc: 98.570%
+INFO: 2017-09-15 23:47:00: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 0	lr: 0.000	loss: 0.027	acc: 98.840%	train_loss: 0.0269	train_acc: 98.84%
+INFO: 2017-09-15 23:47:53: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 60	lr: 0.000	loss: 0.034	acc: 98.530%	train_loss: 0.0321	train_acc: 98.58%
+INFO: 2017-09-15 23:48:45: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 120	lr: 0.000	loss: 0.033	acc: 98.590%	train_loss: 0.0308	train_acc: 98.68%
+INFO: 2017-09-15 23:49:37: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 180	lr: 0.000	loss: 0.034	acc: 98.560%	train_loss: 0.0287	train_acc: 98.64%
+INFO: 2017-09-15 23:50:29: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 240	lr: 0.000	loss: 0.032	acc: 98.640%	train_loss: 0.0301	train_acc: 98.75%
+INFO: 2017-09-15 23:51:21: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 300	lr: 0.000	loss: 0.030	acc: 98.650%	train_loss: 0.0298	train_acc: 98.62%
+INFO: 2017-09-15 23:52:13: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 360	lr: 0.000	loss: 0.030	acc: 98.650%	train_loss: 0.028	train_acc: 98.78%
+INFO: 2017-09-15 23:53:07: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 420	lr: 0.000	loss: 0.031	acc: 98.630%	train_loss: 0.0388	train_acc: 98.3%
+INFO: 2017-09-15 23:54:00: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 480	lr: 0.000	loss: 0.030	acc: 98.650%	train_loss: 0.028	train_acc: 98.6%
+INFO: 2017-09-15 23:54:52: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 540	lr: 0.000	loss: 0.030	acc: 98.670%	train_loss: 0.0299	train_acc: 98.79%
+INFO: 2017-09-15 23:55:44: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 600	lr: 0.000	loss: 0.029	acc: 98.690%	train_loss: 0.0317	train_acc: 98.43%
+INFO: 2017-09-15 23:56:37: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 660	lr: 0.000	loss: 0.029	acc: 98.730%	train_loss: 0.0313	train_acc: 98.79%
+INFO: 2017-09-15 23:57:30: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 720	lr: 0.000	loss: 0.028	acc: 98.710%	train_loss: 0.0311	train_acc: 98.56%
+INFO: 2017-09-15 23:58:22: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 780	lr: 0.000	loss: 0.028	acc: 98.750%	train_loss: 0.0293	train_acc: 98.57%
+INFO: 2017-09-15 23:59:14: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 840	lr: 0.000	loss: 0.028	acc: 98.720%	train_loss: 0.0321	train_acc: 98.58%
+INFO: 2017-09-16 00:00:09: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 900	lr: 0.000	loss: 0.027	acc: 98.760%	train_loss: 0.0234	train_acc: 98.93%
+INFO: 2017-09-16 00:01:02: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 960	lr: 0.000	loss: 0.027	acc: 98.740%	train_loss: 0.0309	train_acc: 98.56%
+INFO: 2017-09-16 00:03:09: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-16 00:03:09: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-16 00:03:09: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-16 00:03:09: main.py:223 **  Loading dataset...
+INFO: 2017-09-16 00:03:09: main.py:237 **  All data sample counts 5088
+INFO: 2017-09-16 00:03:09: main.py:238 **  Train data batch size 4
+INFO: 2017-09-16 00:03:09: main.py:239 **  Train data sample counts 4068
+INFO: 2017-09-16 00:03:09: main.py:240 **  Valid data sample counts 1018
+INFO: 2017-09-16 00:06:10: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-16 00:06:10: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-16 00:06:10: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-16 00:06:10: main.py:223 **  Loading dataset...
+INFO: 2017-09-16 00:06:10: main.py:237 **  All data sample counts 5088
+INFO: 2017-09-16 00:06:10: main.py:238 **  Train data batch size 4
+INFO: 2017-09-16 00:06:10: main.py:239 **  Train data sample counts 4068
+INFO: 2017-09-16 00:06:10: main.py:240 **  Valid data sample counts 1018
+INFO: 2017-09-16 00:06:13: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.432	acc: 35.950%	train_loss: 1.4316	train_acc: 35.95%
+INFO: 2017-09-16 00:07:03: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 60	lr: 0.000	loss: 0.994	acc: 72.860%	train_loss: 0.3185	train_acc: 95.75%
+INFO: 2017-09-16 00:07:57: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 120	lr: 0.000	loss: 0.189	acc: 94.900%	train_loss: 0.2263	train_acc: 91.63%
+INFO: 2017-09-16 00:08:52: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 180	lr: 0.000	loss: 0.100	acc: 96.660%	train_loss: 0.0735	train_acc: 97.2%
+INFO: 2017-09-16 00:09:48: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 240	lr: 0.000	loss: 0.066	acc: 97.680%	train_loss: 0.0586	train_acc: 97.92%
+INFO: 2017-09-16 00:10:45: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 300	lr: 0.000	loss: 0.056	acc: 97.900%	train_loss: 0.0458	train_acc: 98.2%
+INFO: 2017-09-16 00:11:41: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 360	lr: 0.000	loss: 0.052	acc: 98.020%	train_loss: 0.0391	train_acc: 98.53%
+INFO: 2017-09-16 00:12:37: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 420	lr: 0.000	loss: 0.046	acc: 98.200%	train_loss: 0.0584	train_acc: 97.55%
+INFO: 2017-09-16 00:13:34: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 480	lr: 0.000	loss: 0.043	acc: 98.300%	train_loss: 0.0399	train_acc: 98.26%
+INFO: 2017-09-16 00:14:30: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 540	lr: 0.000	loss: 0.040	acc: 98.390%	train_loss: 0.0409	train_acc: 98.59%
+INFO: 2017-09-16 00:15:27: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 600	lr: 0.000	loss: 0.038	acc: 98.440%	train_loss: 0.0425	train_acc: 98.02%
+INFO: 2017-09-16 00:16:24: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 660	lr: 0.000	loss: 0.039	acc: 98.460%	train_loss: 0.0451	train_acc: 98.35%
+INFO: 2017-09-16 00:17:20: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 720	lr: 0.000	loss: 0.037	acc: 98.460%	train_loss: 0.0349	train_acc: 98.54%
+INFO: 2017-09-16 00:18:17: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 780	lr: 0.000	loss: 0.037	acc: 98.480%	train_loss: 0.0382	train_acc: 98.33%
+INFO: 2017-09-16 00:19:13: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 840	lr: 0.000	loss: 0.043	acc: 98.220%	train_loss: 0.0457	train_acc: 98.04%
+INFO: 2017-09-16 00:20:10: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 900	lr: 0.000	loss: 0.037	acc: 98.470%	train_loss: 0.0283	train_acc: 98.81%
+INFO: 2017-09-16 00:21:06: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 960	lr: 0.000	loss: 0.036	acc: 98.520%	train_loss: 0.0381	train_acc: 98.37%
+INFO: 2017-09-16 00:21:58: main.py:144 **  Train=>
+Epoch: 0	Batch_num: 1016	lr: 0.000	loss: 0.036	acc: 98.520%	train_loss: 0.0354	train_acc: 98.49%
+INFO: 2017-09-16 00:23:07: main.py:83 **  Validate=>
+Epoch: 0	Valid_loss: 0.034	Valid_acc: 98.540%
+INFO: 2017-09-16 00:23:11: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 0	lr: 0.000	loss: 0.028	acc: 98.850%	train_loss: 0.0281	train_acc: 98.85%
+INFO: 2017-09-16 00:24:07: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 60	lr: 0.000	loss: 0.032	acc: 98.640%	train_loss: 0.0281	train_acc: 98.77%
+INFO: 2017-09-16 00:25:03: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 120	lr: 0.000	loss: 0.033	acc: 98.640%	train_loss: 0.0288	train_acc: 98.76%
+INFO: 2017-09-16 00:26:00: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 180	lr: 0.000	loss: 0.033	acc: 98.620%	train_loss: 0.0294	train_acc: 98.7%
+INFO: 2017-09-16 00:26:56: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 240	lr: 0.000	loss: 0.032	acc: 98.660%	train_loss: 0.0324	train_acc: 98.68%
+INFO: 2017-09-16 00:27:52: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 300	lr: 0.000	loss: 0.029	acc: 98.720%	train_loss: 0.032	train_acc: 98.47%
+INFO: 2017-09-16 00:28:48: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 360	lr: 0.000	loss: 0.030	acc: 98.710%	train_loss: 0.0267	train_acc: 98.9%
+INFO: 2017-09-16 00:29:44: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 420	lr: 0.000	loss: 0.030	acc: 98.700%	train_loss: 0.0422	train_acc: 98.13%
+INFO: 2017-09-16 00:30:41: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 480	lr: 0.000	loss: 0.032	acc: 98.640%	train_loss: 0.0316	train_acc: 98.54%
+INFO: 2017-09-16 00:31:37: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 540	lr: 0.000	loss: 0.030	acc: 98.710%	train_loss: 0.0305	train_acc: 98.86%
+INFO: 2017-09-16 00:32:33: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 600	lr: 0.000	loss: 0.029	acc: 98.750%	train_loss: 0.0339	train_acc: 98.38%
+INFO: 2017-09-16 00:33:29: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 660	lr: 0.000	loss: 0.029	acc: 98.770%	train_loss: 0.0355	train_acc: 98.62%
+INFO: 2017-09-16 00:34:26: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 720	lr: 0.000	loss: 0.029	acc: 98.740%	train_loss: 0.0319	train_acc: 98.56%
+INFO: 2017-09-16 00:35:22: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 780	lr: 0.000	loss: 0.028	acc: 98.840%	train_loss: 0.0286	train_acc: 98.67%
+INFO: 2017-09-16 00:36:18: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 840	lr: 0.000	loss: 0.027	acc: 98.820%	train_loss: 0.0269	train_acc: 98.84%
+INFO: 2017-09-16 00:37:14: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 900	lr: 0.000	loss: 0.027	acc: 98.850%	train_loss: 0.0225	train_acc: 99.03%
+INFO: 2017-09-16 00:38:10: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 960	lr: 0.000	loss: 0.027	acc: 98.860%	train_loss: 0.0309	train_acc: 98.66%
+INFO: 2017-09-16 00:39:03: main.py:144 **  Train=>
+Epoch: 1	Batch_num: 1016	lr: 0.000	loss: 0.027	acc: 98.860%	train_loss: 0.0306	train_acc: 98.64%
+INFO: 2017-09-16 00:40:11: main.py:83 **  Validate=>
+Epoch: 1	Valid_loss: 0.026	Valid_acc: 98.880%
+INFO: 2017-09-16 00:40:15: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 0	lr: 0.000	loss: 0.022	acc: 99.080%	train_loss: 0.0224	train_acc: 99.08%
+INFO: 2017-09-16 00:41:11: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 60	lr: 0.000	loss: 0.025	acc: 98.890%	train_loss: 0.0242	train_acc: 98.93%
+INFO: 2017-09-16 00:42:07: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 120	lr: 0.000	loss: 0.026	acc: 98.900%	train_loss: 0.0239	train_acc: 98.98%
+INFO: 2017-09-16 00:43:03: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 180	lr: 0.000	loss: 0.026	acc: 98.890%	train_loss: 0.0219	train_acc: 99.01%
+INFO: 2017-09-16 00:43:59: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 240	lr: 0.000	loss: 0.026	acc: 98.890%	train_loss: 0.0271	train_acc: 98.89%
+INFO: 2017-09-16 00:44:56: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 300	lr: 0.000	loss: 0.025	acc: 98.900%	train_loss: 0.0253	train_acc: 98.82%
+INFO: 2017-09-16 00:45:52: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 360	lr: 0.000	loss: 0.025	acc: 98.940%	train_loss: 0.0225	train_acc: 99.08%
+INFO: 2017-09-16 00:46:48: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 420	lr: 0.000	loss: 0.025	acc: 98.900%	train_loss: 0.0316	train_acc: 98.63%
+INFO: 2017-09-16 00:47:44: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 480	lr: 0.000	loss: 0.026	acc: 98.870%	train_loss: 0.0263	train_acc: 98.72%
+INFO: 2017-09-16 00:48:40: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 540	lr: 0.000	loss: 0.025	acc: 98.910%	train_loss: 0.026	train_acc: 99.02%
+INFO: 2017-09-16 00:49:37: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 600	lr: 0.000	loss: 0.024	acc: 98.960%	train_loss: 0.0294	train_acc: 98.61%
+INFO: 2017-09-16 00:50:33: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 660	lr: 0.000	loss: 0.024	acc: 98.970%	train_loss: 0.027	train_acc: 98.96%
+INFO: 2017-09-16 00:51:29: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 720	lr: 0.000	loss: 0.025	acc: 98.900%	train_loss: 0.0297	train_acc: 98.67%
+INFO: 2017-09-16 00:52:25: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 780	lr: 0.000	loss: 0.024	acc: 98.980%	train_loss: 0.0239	train_acc: 98.88%
+INFO: 2017-09-16 00:53:21: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 840	lr: 0.000	loss: 0.023	acc: 98.970%	train_loss: 0.0243	train_acc: 98.95%
+INFO: 2017-09-16 00:54:17: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 900	lr: 0.000	loss: 0.024	acc: 98.970%	train_loss: 0.0212	train_acc: 99.08%
+INFO: 2017-09-16 00:55:13: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 960	lr: 0.000	loss: 0.024	acc: 98.950%	train_loss: 0.025	train_acc: 98.89%
+INFO: 2017-09-16 00:56:06: main.py:144 **  Train=>
+Epoch: 2	Batch_num: 1016	lr: 0.000	loss: 0.024	acc: 98.950%	train_loss: 0.027	train_acc: 98.79%
+INFO: 2017-09-16 00:57:14: main.py:83 **  Validate=>
+Epoch: 2	Valid_loss: 0.025	Valid_acc: 98.920%
+INFO: 2017-09-16 00:57:17: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 0	lr: 0.000	loss: 0.021	acc: 99.140%	train_loss: 0.0206	train_acc: 99.14%
+INFO: 2017-09-16 00:58:13: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 60	lr: 0.000	loss: 0.023	acc: 98.990%	train_loss: 0.0216	train_acc: 99.03%
+INFO: 2017-09-16 00:59:09: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 120	lr: 0.000	loss: 0.023	acc: 99.010%	train_loss: 0.0218	train_acc: 99.06%
+INFO: 2017-09-16 01:00:06: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 180	lr: 0.000	loss: 0.024	acc: 98.990%	train_loss: 0.0205	train_acc: 99.05%
+INFO: 2017-09-16 01:01:02: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 240	lr: 0.000	loss: 0.024	acc: 98.960%	train_loss: 0.0256	train_acc: 98.95%
+INFO: 2017-09-16 01:01:58: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 300	lr: 0.000	loss: 0.023	acc: 99.000%	train_loss: 0.0205	train_acc: 99.05%
+INFO: 2017-09-16 01:02:55: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 360	lr: 0.000	loss: 0.022	acc: 99.030%	train_loss: 0.0208	train_acc: 99.12%
+INFO: 2017-09-16 01:03:51: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 420	lr: 0.000	loss: 0.023	acc: 98.990%	train_loss: 0.0276	train_acc: 98.79%
+INFO: 2017-09-16 01:04:47: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 480	lr: 0.000	loss: 0.023	acc: 98.990%	train_loss: 0.0216	train_acc: 98.96%
+INFO: 2017-09-16 01:05:43: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 540	lr: 0.000	loss: 0.023	acc: 99.000%	train_loss: 0.0243	train_acc: 99.06%
+INFO: 2017-09-16 01:06:39: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 600	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0255	train_acc: 98.81%
+INFO: 2017-09-16 01:07:36: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 660	lr: 0.000	loss: 0.022	acc: 99.060%	train_loss: 0.022	train_acc: 99.16%
+INFO: 2017-09-16 01:08:32: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 720	lr: 0.000	loss: 0.022	acc: 99.020%	train_loss: 0.0261	train_acc: 98.86%
+INFO: 2017-09-16 01:09:28: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 780	lr: 0.000	loss: 0.022	acc: 99.060%	train_loss: 0.0214	train_acc: 98.98%
+INFO: 2017-09-16 01:10:24: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 840	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0223	train_acc: 99.02%
+INFO: 2017-09-16 01:11:21: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 900	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0199	train_acc: 99.12%
+INFO: 2017-09-16 01:12:17: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 960	lr: 0.000	loss: 0.022	acc: 99.050%	train_loss: 0.0228	train_acc: 98.97%
+INFO: 2017-09-16 01:13:09: main.py:144 **  Train=>
+Epoch: 3	Batch_num: 1016	lr: 0.000	loss: 0.022	acc: 99.050%	train_loss: 0.0226	train_acc: 98.96%
+INFO: 2017-09-16 01:14:18: main.py:83 **  Validate=>
+Epoch: 3	Valid_loss: 0.024	Valid_acc: 98.970%
+INFO: 2017-09-16 01:14:21: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 0	lr: 0.000	loss: 0.019	acc: 99.190%	train_loss: 0.0192	train_acc: 99.19%
+INFO: 2017-09-16 01:15:18: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 60	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0209	train_acc: 99.07%
+INFO: 2017-09-16 01:16:14: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 120	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0198	train_acc: 99.16%
+INFO: 2017-09-16 01:17:10: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 180	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.019	train_acc: 99.11%
+INFO: 2017-09-16 01:18:06: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 240	lr: 0.000	loss: 0.022	acc: 99.060%	train_loss: 0.0225	train_acc: 99.06%
+INFO: 2017-09-16 01:19:03: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 300	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0201	train_acc: 99.07%
+INFO: 2017-09-16 01:19:59: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 360	lr: 0.000	loss: 0.021	acc: 99.080%	train_loss: 0.0191	train_acc: 99.17%
+INFO: 2017-09-16 01:20:55: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 420	lr: 0.000	loss: 0.022	acc: 99.030%	train_loss: 0.0254	train_acc: 98.85%
+INFO: 2017-09-16 01:21:51: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 480	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0205	train_acc: 99.01%
+INFO: 2017-09-16 01:22:48: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 540	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0219	train_acc: 99.14%
+INFO: 2017-09-16 01:23:44: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 600	lr: 0.000	loss: 0.020	acc: 99.100%	train_loss: 0.0233	train_acc: 98.86%
+INFO: 2017-09-16 01:24:40: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 660	lr: 0.000	loss: 0.021	acc: 99.100%	train_loss: 0.0213	train_acc: 99.17%
+INFO: 2017-09-16 01:25:36: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 720	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0251	train_acc: 98.91%
+INFO: 2017-09-16 01:26:33: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 780	lr: 0.000	loss: 0.022	acc: 99.050%	train_loss: 0.0219	train_acc: 98.96%
+INFO: 2017-09-16 01:27:29: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 840	lr: 0.000	loss: 0.020	acc: 99.090%	train_loss: 0.0222	train_acc: 99.02%
+INFO: 2017-09-16 01:28:25: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 900	lr: 0.000	loss: 0.020	acc: 99.100%	train_loss: 0.0201	train_acc: 99.1%
+INFO: 2017-09-16 01:29:21: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 960	lr: 0.000	loss: 0.021	acc: 99.090%	train_loss: 0.0215	train_acc: 99.02%
+INFO: 2017-09-16 01:30:13: main.py:144 **  Train=>
+Epoch: 4	Batch_num: 1016	lr: 0.000	loss: 0.021	acc: 99.090%	train_loss: 0.0202	train_acc: 99.07%
+INFO: 2017-09-16 01:31:22: main.py:83 **  Validate=>
+Epoch: 4	Valid_loss: 0.023	Valid_acc: 98.990%
+INFO: 2017-09-16 01:31:26: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 0	lr: 0.000	loss: 0.019	acc: 99.190%	train_loss: 0.0189	train_acc: 99.19%
+INFO: 2017-09-16 01:32:22: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 60	lr: 0.000	loss: 0.020	acc: 99.080%	train_loss: 0.0185	train_acc: 99.18%
+INFO: 2017-09-16 01:33:18: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 120	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0183	train_acc: 99.19%
+INFO: 2017-09-16 01:34:14: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 180	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0183	train_acc: 99.14%
+INFO: 2017-09-16 01:35:10: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 240	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0212	train_acc: 99.11%
+INFO: 2017-09-16 01:36:06: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 300	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0193	train_acc: 99.11%
+INFO: 2017-09-16 01:37:02: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 360	lr: 0.000	loss: 0.021	acc: 99.080%	train_loss: 0.0187	train_acc: 99.2%
+INFO: 2017-09-16 01:37:58: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 420	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0245	train_acc: 98.89%
+INFO: 2017-09-16 01:38:54: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 480	lr: 0.000	loss: 0.021	acc: 99.090%	train_loss: 0.0186	train_acc: 99.09%
+INFO: 2017-09-16 01:39:50: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 540	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.021	train_acc: 99.19%
+INFO: 2017-09-16 01:40:46: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 600	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0234	train_acc: 98.86%
+INFO: 2017-09-16 01:41:42: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 660	lr: 0.000	loss: 0.020	acc: 99.140%	train_loss: 0.0216	train_acc: 99.15%
+INFO: 2017-09-16 01:42:38: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 720	lr: 0.000	loss: 0.020	acc: 99.120%	train_loss: 0.0227	train_acc: 98.99%
+INFO: 2017-09-16 01:43:34: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 780	lr: 0.000	loss: 0.020	acc: 99.130%	train_loss: 0.0204	train_acc: 99.03%
+INFO: 2017-09-16 01:44:30: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 840	lr: 0.000	loss: 0.019	acc: 99.120%	train_loss: 0.0207	train_acc: 99.07%
+INFO: 2017-09-16 01:45:27: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 900	lr: 0.000	loss: 0.020	acc: 99.130%	train_loss: 0.0201	train_acc: 99.11%
+INFO: 2017-09-16 01:46:23: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 960	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0211	train_acc: 99.04%
+INFO: 2017-09-16 01:47:15: main.py:144 **  Train=>
+Epoch: 5	Batch_num: 1016	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0193	train_acc: 99.13%
+INFO: 2017-09-16 01:48:23: main.py:83 **  Validate=>
+Epoch: 5	Valid_loss: 0.021	Valid_acc: 99.070%
+INFO: 2017-09-16 01:48:27: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 0	lr: 0.000	loss: 0.018	acc: 99.230%	train_loss: 0.0177	train_acc: 99.23%
+INFO: 2017-09-16 01:49:23: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 60	lr: 0.000	loss: 0.019	acc: 99.130%	train_loss: 0.0175	train_acc: 99.21%
+INFO: 2017-09-16 01:50:19: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 120	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0166	train_acc: 99.26%
+INFO: 2017-09-16 01:51:15: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 180	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0181	train_acc: 99.16%
+INFO: 2017-09-16 01:52:12: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 240	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0196	train_acc: 99.16%
+INFO: 2017-09-16 01:53:08: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 300	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0198	train_acc: 99.09%
+INFO: 2017-09-16 01:54:04: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 360	lr: 0.000	loss: 0.072	acc: 97.270%	train_loss: 0.0576	train_acc: 97.81%
+INFO: 2017-09-16 01:55:00: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 420	lr: 0.000	loss: 0.059	acc: 97.600%	train_loss: 0.0641	train_acc: 97.13%
+INFO: 2017-09-16 01:55:56: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 480	lr: 0.000	loss: 0.037	acc: 98.420%	train_loss: 0.0321	train_acc: 98.5%
+INFO: 2017-09-16 01:56:52: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 540	lr: 0.000	loss: 0.035	acc: 98.500%	train_loss: 0.0322	train_acc: 98.84%
+INFO: 2017-09-16 01:57:48: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 600	lr: 0.000	loss: 0.030	acc: 98.690%	train_loss: 0.032	train_acc: 98.44%
+INFO: 2017-09-16 01:58:45: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 660	lr: 0.000	loss: 0.029	acc: 98.790%	train_loss: 0.0327	train_acc: 98.78%
+INFO: 2017-09-16 01:59:41: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 720	lr: 0.000	loss: 0.028	acc: 98.800%	train_loss: 0.029	train_acc: 98.71%
+INFO: 2017-09-16 02:00:37: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 780	lr: 0.000	loss: 0.026	acc: 98.880%	train_loss: 0.0288	train_acc: 98.71%
+INFO: 2017-09-16 02:01:32: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 840	lr: 0.000	loss: 0.025	acc: 98.890%	train_loss: 0.027	train_acc: 98.83%
+INFO: 2017-09-16 02:02:29: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 900	lr: 0.000	loss: 0.026	acc: 98.900%	train_loss: 0.0235	train_acc: 98.97%
+INFO: 2017-09-16 02:03:25: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 960	lr: 0.000	loss: 0.026	acc: 98.890%	train_loss: 0.0281	train_acc: 98.78%
+INFO: 2017-09-16 02:04:17: main.py:144 **  Train=>
+Epoch: 6	Batch_num: 1016	lr: 0.000	loss: 0.026	acc: 98.890%	train_loss: 0.0278	train_acc: 98.79%
+INFO: 2017-09-16 02:05:25: main.py:83 **  Validate=>
+Epoch: 6	Valid_loss: 0.073	Valid_acc: 97.100%
+INFO: 2017-09-16 02:05:28: main.py:144 **  Train=>
+Epoch: 7	Batch_num: 0	lr: 0.000	loss: 0.021	acc: 99.140%	train_loss: 0.0208	train_acc: 99.14%
+INFO: 2017-09-16 02:06:24: main.py:144 **  Train=>
+Epoch: 7	Batch_num: 60	lr: 0.000	loss: 0.023	acc: 98.970%	train_loss: 0.023	train_acc: 98.97%
+INFO: 2017-09-16 09:18:40: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-16 09:18:40: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-16 09:18:40: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-16 09:18:40: main.py:219 **  Loading dataset...
+INFO: 2017-09-16 09:18:40: main.py:233 **  All data sample counts 5088
+INFO: 2017-09-16 09:18:40: main.py:234 **  Train data batch size 4
+INFO: 2017-09-16 09:18:40: main.py:235 **  Train data sample counts 4068
+INFO: 2017-09-16 09:18:40: main.py:236 **  Valid data sample counts 1018
+INFO: 2017-09-16 09:18:44: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.435	acc: 37.700%	train_loss: 1.4355	train_acc: 37.7%
+INFO: 2017-09-16 09:19:29: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 60	lr: 0.000	loss: 0.862	acc: 81.060%	train_loss: 0.2752	train_acc: 94.26%
+INFO: 2017-09-16 09:20:16: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 120	lr: 0.000	loss: 0.173	acc: 95.070%	train_loss: 0.1661	train_acc: 94.15%
+INFO: 2017-09-16 09:21:07: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 180	lr: 0.000	loss: 0.126	acc: 95.790%	train_loss: 0.0736	train_acc: 97.22%
+INFO: 2017-09-16 09:21:58: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 240	lr: 0.000	loss: 0.076	acc: 97.360%	train_loss: 0.0627	train_acc: 97.83%
+INFO: 2017-09-16 09:22:49: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 300	lr: 0.000	loss: 0.059	acc: 97.830%	train_loss: 0.0642	train_acc: 97.51%
+INFO: 2017-09-16 09:23:41: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 360	lr: 0.000	loss: 0.053	acc: 97.970%	train_loss: 0.043	train_acc: 98.41%
+INFO: 2017-09-16 09:24:33: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 420	lr: 0.000	loss: 0.048	acc: 98.170%	train_loss: 0.0597	train_acc: 97.56%
+INFO: 2017-09-16 09:25:25: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 480	lr: 0.000	loss: 0.048	acc: 98.110%	train_loss: 0.0426	train_acc: 98.08%
+INFO: 2017-09-16 09:26:17: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 540	lr: 0.000	loss: 0.045	acc: 98.230%	train_loss: 0.0428	train_acc: 98.52%
+INFO: 2017-09-16 09:27:09: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 600	lr: 0.000	loss: 0.054	acc: 97.870%	train_loss: 0.0767	train_acc: 96.42%
+INFO: 2017-09-16 09:28:02: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 660	lr: 0.000	loss: 0.046	acc: 98.210%	train_loss: 0.0532	train_acc: 98.02%
+INFO: 2017-09-16 09:28:54: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 720	lr: 0.000	loss: 0.043	acc: 98.260%	train_loss: 0.0365	train_acc: 98.47%
+INFO: 2017-09-16 09:29:46: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 780	lr: 0.000	loss: 0.038	acc: 98.450%	train_loss: 0.0383	train_acc: 98.23%
+INFO: 2017-09-16 09:30:38: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 840	lr: 0.000	loss: 0.035	acc: 98.510%	train_loss: 0.0395	train_acc: 98.33%
+INFO: 2017-09-16 09:31:31: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 900	lr: 0.000	loss: 0.035	acc: 98.530%	train_loss: 0.0294	train_acc: 98.8%
+INFO: 2017-09-16 09:32:24: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 960	lr: 0.000	loss: 0.036	acc: 98.480%	train_loss: 0.0404	train_acc: 98.27%
+INFO: 2017-09-16 09:33:14: main.py:139 **  Train=>
+Epoch: 0	Batch_num: 1016	lr: 0.000	loss: 0.036	acc: 98.480%	train_loss: 0.0372	train_acc: 98.43%
+INFO: 2017-09-16 09:34:18: main.py:78 **  Validate=>
+Epoch: 0	Valid_loss: 0.052	Valid_acc: 97.780%
+INFO: 2017-09-16 09:34:22: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 0	lr: 0.000	loss: 0.030	acc: 98.750%	train_loss: 0.0305	train_acc: 98.75%
+INFO: 2017-09-16 09:35:14: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 60	lr: 0.000	loss: 0.032	acc: 98.620%	train_loss: 0.03	train_acc: 98.69%
+INFO: 2017-09-16 09:36:06: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 120	lr: 0.000	loss: 0.033	acc: 98.640%	train_loss: 0.0296	train_acc: 98.74%
+INFO: 2017-09-16 09:36:59: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 180	lr: 0.000	loss: 0.036	acc: 98.510%	train_loss: 0.0312	train_acc: 98.62%
+INFO: 2017-09-16 09:37:51: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 240	lr: 0.000	loss: 0.033	acc: 98.630%	train_loss: 0.0331	train_acc: 98.67%
+INFO: 2017-09-16 09:38:44: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 300	lr: 0.000	loss: 0.030	acc: 98.700%	train_loss: 0.0297	train_acc: 98.59%
+INFO: 2017-09-16 09:39:37: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 360	lr: 0.000	loss: 0.030	acc: 98.680%	train_loss: 0.0296	train_acc: 98.72%
+INFO: 2017-09-16 09:40:29: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 420	lr: 0.000	loss: 0.032	acc: 98.640%	train_loss: 0.04	train_acc: 98.27%
+INFO: 2017-09-16 09:41:23: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 480	lr: 0.000	loss: 0.031	acc: 98.660%	train_loss: 0.0304	train_acc: 98.58%
+INFO: 2017-09-16 09:42:17: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 540	lr: 0.000	loss: 0.031	acc: 98.660%	train_loss: 0.0299	train_acc: 98.87%
+INFO: 2017-09-16 09:43:10: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 600	lr: 0.000	loss: 0.029	acc: 98.720%	train_loss: 0.0339	train_acc: 98.38%
+INFO: 2017-09-16 09:44:03: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 660	lr: 0.000	loss: 0.030	acc: 98.740%	train_loss: 0.034	train_acc: 98.66%
+INFO: 2017-09-16 09:44:55: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 720	lr: 0.000	loss: 0.030	acc: 98.700%	train_loss: 0.0305	train_acc: 98.65%
+INFO: 2017-09-16 09:45:50: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 780	lr: 0.000	loss: 0.028	acc: 98.800%	train_loss: 0.0272	train_acc: 98.72%
+INFO: 2017-09-16 09:46:43: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 840	lr: 0.000	loss: 0.027	acc: 98.800%	train_loss: 0.0282	train_acc: 98.77%
+INFO: 2017-09-16 09:47:37: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 900	lr: 0.000	loss: 0.027	acc: 98.800%	train_loss: 0.0232	train_acc: 98.96%
+INFO: 2017-09-16 09:48:37: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 960	lr: 0.000	loss: 0.028	acc: 98.780%	train_loss: 0.0305	train_acc: 98.62%
+INFO: 2017-09-16 09:49:30: main.py:139 **  Train=>
+Epoch: 1	Batch_num: 1016	lr: 0.000	loss: 0.028	acc: 98.780%	train_loss: 0.032	train_acc: 98.58%
+INFO: 2017-09-16 09:50:37: main.py:78 **  Validate=>
+Epoch: 1	Valid_loss: 0.028	Valid_acc: 98.770%
+INFO: 2017-09-16 09:50:41: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 0	lr: 0.000	loss: 0.023	acc: 98.970%	train_loss: 0.0233	train_acc: 98.97%
+INFO: 2017-09-16 09:51:42: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 60	lr: 0.000	loss: 0.026	acc: 98.830%	train_loss: 0.0231	train_acc: 98.95%
+INFO: 2017-09-16 09:52:45: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 120	lr: 0.000	loss: 0.026	acc: 98.850%	train_loss: 0.0244	train_acc: 98.93%
+INFO: 2017-09-16 09:53:49: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 180	lr: 0.000	loss: 0.027	acc: 98.820%	train_loss: 0.0236	train_acc: 98.89%
+INFO: 2017-09-16 09:54:52: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 240	lr: 0.000	loss: 0.027	acc: 98.830%	train_loss: 0.027	train_acc: 98.88%
+INFO: 2017-09-16 09:56:00: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 300	lr: 0.000	loss: 0.025	acc: 98.860%	train_loss: 0.0276	train_acc: 98.72%
+INFO: 2017-09-16 09:56:55: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 360	lr: 0.000	loss: 0.027	acc: 98.800%	train_loss: 0.0283	train_acc: 98.8%
+INFO: 2017-09-16 09:57:50: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 420	lr: 0.000	loss: 0.027	acc: 98.810%	train_loss: 0.033	train_acc: 98.53%
+INFO: 2017-09-16 09:58:44: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 480	lr: 0.000	loss: 0.026	acc: 98.830%	train_loss: 0.0284	train_acc: 98.64%
+INFO: 2017-09-16 09:59:36: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 540	lr: 0.000	loss: 0.028	acc: 98.780%	train_loss: 0.0278	train_acc: 98.93%
+INFO: 2017-09-16 10:00:28: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 600	lr: 0.000	loss: 0.025	acc: 98.860%	train_loss: 0.0298	train_acc: 98.59%
+INFO: 2017-09-16 10:01:21: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 660	lr: 0.000	loss: 0.026	acc: 98.890%	train_loss: 0.0287	train_acc: 98.89%
+INFO: 2017-09-16 10:02:13: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 720	lr: 0.000	loss: 0.026	acc: 98.860%	train_loss: 0.0275	train_acc: 98.79%
+INFO: 2017-09-16 10:03:07: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 780	lr: 0.000	loss: 0.025	acc: 98.930%	train_loss: 0.024	train_acc: 98.89%
+INFO: 2017-09-16 10:04:02: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 840	lr: 0.000	loss: 0.024	acc: 98.920%	train_loss: 0.0267	train_acc: 98.87%
+INFO: 2017-09-16 10:04:56: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 900	lr: 0.000	loss: 0.024	acc: 98.940%	train_loss: 0.0218	train_acc: 99.04%
+INFO: 2017-09-16 10:05:51: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 960	lr: 0.000	loss: 0.024	acc: 98.930%	train_loss: 0.0249	train_acc: 98.86%
+INFO: 2017-09-16 10:06:42: main.py:139 **  Train=>
+Epoch: 2	Batch_num: 1016	lr: 0.000	loss: 0.024	acc: 98.930%	train_loss: 0.026	train_acc: 98.82%
+INFO: 2017-09-16 10:07:54: main.py:78 **  Validate=>
+Epoch: 2	Valid_loss: 0.025	Valid_acc: 98.900%
+INFO: 2017-09-16 10:07:59: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 0	lr: 0.000	loss: 0.022	acc: 99.080%	train_loss: 0.0216	train_acc: 99.08%
+INFO: 2017-09-16 10:08:58: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 60	lr: 0.000	loss: 0.023	acc: 98.950%	train_loss: 0.0216	train_acc: 99.02%
+INFO: 2017-09-16 10:09:53: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 120	lr: 0.000	loss: 0.024	acc: 98.980%	train_loss: 0.023	train_acc: 99.02%
+INFO: 2017-09-16 10:10:51: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 180	lr: 0.000	loss: 0.025	acc: 98.930%	train_loss: 0.0213	train_acc: 99.02%
+INFO: 2017-09-16 10:11:51: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 240	lr: 0.000	loss: 0.024	acc: 98.940%	train_loss: 0.0241	train_acc: 99.02%
+INFO: 2017-09-16 10:12:51: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 300	lr: 0.000	loss: 0.023	acc: 98.970%	train_loss: 0.0231	train_acc: 98.93%
+INFO: 2017-09-16 10:13:50: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 360	lr: 0.000	loss: 0.024	acc: 98.920%	train_loss: 0.0219	train_acc: 99.11%
+INFO: 2017-09-16 10:14:51: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 420	lr: 0.000	loss: 0.024	acc: 98.930%	train_loss: 0.0284	train_acc: 98.73%
+INFO: 2017-09-16 10:15:53: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 480	lr: 0.000	loss: 0.024	acc: 98.940%	train_loss: 0.0234	train_acc: 98.86%
+INFO: 2017-09-16 10:16:45: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 540	lr: 0.000	loss: 0.024	acc: 98.950%	train_loss: 0.0257	train_acc: 99.0%
+INFO: 2017-09-16 10:17:37: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 600	lr: 0.000	loss: 0.023	acc: 98.990%	train_loss: 0.0254	train_acc: 98.73%
+INFO: 2017-09-16 10:18:29: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 660	lr: 0.000	loss: 0.023	acc: 99.010%	train_loss: 0.025	train_acc: 99.04%
+INFO: 2017-09-16 10:19:22: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 720	lr: 0.000	loss: 0.023	acc: 98.960%	train_loss: 0.0257	train_acc: 98.87%
+INFO: 2017-09-16 10:20:14: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 780	lr: 0.000	loss: 0.022	acc: 99.020%	train_loss: 0.0218	train_acc: 98.98%
+INFO: 2017-09-16 10:21:06: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 840	lr: 0.000	loss: 0.022	acc: 99.000%	train_loss: 0.0239	train_acc: 98.97%
+INFO: 2017-09-16 10:21:58: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 900	lr: 0.000	loss: 0.022	acc: 99.030%	train_loss: 0.0203	train_acc: 99.11%
+INFO: 2017-09-16 10:22:50: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 960	lr: 0.000	loss: 0.022	acc: 99.000%	train_loss: 0.023	train_acc: 98.96%
+INFO: 2017-09-16 10:23:39: main.py:139 **  Train=>
+Epoch: 3	Batch_num: 1016	lr: 0.000	loss: 0.022	acc: 99.000%	train_loss: 0.0235	train_acc: 98.94%
+INFO: 2017-09-16 10:24:43: main.py:78 **  Validate=>
+Epoch: 3	Valid_loss: 0.025	Valid_acc: 98.920%
+INFO: 2017-09-16 10:24:47: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 0	lr: 0.000	loss: 0.020	acc: 99.140%	train_loss: 0.02	train_acc: 99.14%
+INFO: 2017-09-16 10:25:39: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 60	lr: 0.000	loss: 0.022	acc: 99.000%	train_loss: 0.0243	train_acc: 98.91%
+INFO: 2017-09-16 10:26:31: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 120	lr: 0.000	loss: 0.023	acc: 99.000%	train_loss: 0.021	train_acc: 99.11%
+INFO: 2017-09-16 10:27:27: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 180	lr: 0.000	loss: 0.023	acc: 98.990%	train_loss: 0.0201	train_acc: 99.06%
+INFO: 2017-09-16 10:28:32: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 240	lr: 0.000	loss: 0.023	acc: 99.000%	train_loss: 0.0231	train_acc: 99.05%
+INFO: 2017-09-16 10:29:25: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 300	lr: 0.000	loss: 0.022	acc: 99.020%	train_loss: 0.0218	train_acc: 99.0%
+INFO: 2017-09-16 10:30:19: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 360	lr: 0.000	loss: 0.022	acc: 99.010%	train_loss: 0.0198	train_acc: 99.16%
+INFO: 2017-09-16 10:31:21: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 420	lr: 0.000	loss: 0.023	acc: 98.990%	train_loss: 0.0257	train_acc: 98.77%
+INFO: 2017-09-16 10:32:18: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 480	lr: 0.000	loss: 0.022	acc: 99.010%	train_loss: 0.0207	train_acc: 98.99%
+INFO: 2017-09-16 10:33:10: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 540	lr: 0.000	loss: 0.022	acc: 99.030%	train_loss: 0.0236	train_acc: 99.08%
+INFO: 2017-09-16 10:34:02: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 600	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0249	train_acc: 98.75%
+INFO: 2017-09-16 10:34:54: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 660	lr: 0.000	loss: 0.022	acc: 99.060%	train_loss: 0.022	train_acc: 99.14%
+INFO: 2017-09-16 10:35:46: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 720	lr: 0.000	loss: 0.022	acc: 99.030%	train_loss: 0.0247	train_acc: 98.91%
+INFO: 2017-09-16 10:36:39: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 780	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0202	train_acc: 99.05%
+INFO: 2017-09-16 10:37:31: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 840	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0226	train_acc: 99.02%
+INFO: 2017-09-16 10:38:23: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 900	lr: 0.000	loss: 0.021	acc: 99.080%	train_loss: 0.019	train_acc: 99.15%
+INFO: 2017-09-16 10:39:15: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 960	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0227	train_acc: 98.97%
+INFO: 2017-09-16 10:40:04: main.py:139 **  Train=>
+Epoch: 4	Batch_num: 1016	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0225	train_acc: 98.99%
+INFO: 2017-09-16 10:41:08: main.py:78 **  Validate=>
+Epoch: 4	Valid_loss: 0.022	Valid_acc: 99.020%
+INFO: 2017-09-16 10:41:12: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 0	lr: 0.000	loss: 0.019	acc: 99.200%	train_loss: 0.0187	train_acc: 99.2%
+INFO: 2017-09-16 10:42:04: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 60	lr: 0.000	loss: 0.020	acc: 99.080%	train_loss: 0.0197	train_acc: 99.11%
+INFO: 2017-09-16 10:42:56: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 120	lr: 0.000	loss: 0.021	acc: 99.080%	train_loss: 0.0198	train_acc: 99.16%
+INFO: 2017-09-16 10:43:48: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 180	lr: 0.000	loss: 0.021	acc: 99.080%	train_loss: 0.0188	train_acc: 99.13%
+INFO: 2017-09-16 10:44:40: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 240	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0218	train_acc: 99.08%
+INFO: 2017-09-16 10:45:33: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 300	lr: 0.000	loss: 0.021	acc: 99.060%	train_loss: 0.0188	train_acc: 99.12%
+INFO: 2017-09-16 10:46:25: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 360	lr: 0.000	loss: 0.020	acc: 99.080%	train_loss: 0.0186	train_acc: 99.21%
+INFO: 2017-09-16 10:47:17: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 420	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0237	train_acc: 98.87%
+INFO: 2017-09-16 10:48:09: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 480	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0196	train_acc: 99.04%
+INFO: 2017-09-16 10:49:01: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 540	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0223	train_acc: 99.13%
+INFO: 2017-09-16 10:49:53: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 600	lr: 0.000	loss: 0.020	acc: 99.090%	train_loss: 0.023	train_acc: 98.85%
+INFO: 2017-09-16 10:50:46: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 660	lr: 0.000	loss: 0.021	acc: 99.110%	train_loss: 0.0207	train_acc: 99.19%
+INFO: 2017-09-16 10:51:38: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 720	lr: 0.000	loss: 0.021	acc: 99.080%	train_loss: 0.0239	train_acc: 98.93%
+INFO: 2017-09-16 10:52:30: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 780	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0194	train_acc: 99.08%
+INFO: 2017-09-16 10:53:22: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 840	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0221	train_acc: 99.05%
+INFO: 2017-09-16 10:54:14: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 900	lr: 0.000	loss: 0.020	acc: 99.120%	train_loss: 0.0185	train_acc: 99.18%
+INFO: 2017-09-16 10:55:06: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 960	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0223	train_acc: 98.98%
+INFO: 2017-09-16 10:55:55: main.py:139 **  Train=>
+Epoch: 5	Batch_num: 1016	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0198	train_acc: 99.11%
+INFO: 2017-09-16 10:56:59: main.py:78 **  Validate=>
+Epoch: 5	Valid_loss: 0.021	Valid_acc: 99.070%
+INFO: 2017-09-16 10:57:03: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 0	lr: 0.000	loss: 0.018	acc: 99.240%	train_loss: 0.0178	train_acc: 99.24%
+INFO: 2017-09-16 10:57:56: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 60	lr: 0.000	loss: 0.019	acc: 99.110%	train_loss: 0.0187	train_acc: 99.15%
+INFO: 2017-09-16 10:58:50: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 120	lr: 0.000	loss: 0.020	acc: 99.120%	train_loss: 0.019	train_acc: 99.19%
+INFO: 2017-09-16 10:59:43: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 180	lr: 0.000	loss: 0.020	acc: 99.120%	train_loss: 0.0181	train_acc: 99.16%
+INFO: 2017-09-16 11:00:36: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 240	lr: 0.000	loss: 0.020	acc: 99.100%	train_loss: 0.0211	train_acc: 99.12%
+INFO: 2017-09-16 11:01:31: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 300	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0186	train_acc: 99.13%
+INFO: 2017-09-16 11:02:24: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 360	lr: 0.000	loss: 0.019	acc: 99.120%	train_loss: 0.0184	train_acc: 99.22%
+INFO: 2017-09-16 11:03:19: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 420	lr: 0.000	loss: 0.020	acc: 99.090%	train_loss: 0.0223	train_acc: 98.94%
+INFO: 2017-09-16 11:04:23: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 480	lr: 0.000	loss: 0.020	acc: 99.100%	train_loss: 0.0187	train_acc: 99.07%
+INFO: 2017-09-16 11:05:18: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 540	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0216	train_acc: 99.14%
+INFO: 2017-09-16 11:06:13: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 600	lr: 0.000	loss: 0.019	acc: 99.130%	train_loss: 0.0223	train_acc: 98.89%
+INFO: 2017-09-16 11:07:17: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 660	lr: 0.000	loss: 0.020	acc: 99.150%	train_loss: 0.0198	train_acc: 99.2%
+INFO: 2017-09-16 11:08:13: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 720	lr: 0.000	loss: 0.019	acc: 99.120%	train_loss: 0.0227	train_acc: 98.98%
+INFO: 2017-09-16 11:09:06: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 780	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0197	train_acc: 99.06%
+INFO: 2017-09-16 11:10:01: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 840	lr: 0.000	loss: 0.019	acc: 99.130%	train_loss: 0.0213	train_acc: 99.08%
+INFO: 2017-09-16 11:10:58: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 900	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0183	train_acc: 99.18%
+INFO: 2017-09-16 11:11:56: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 960	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.021	train_acc: 99.03%
+INFO: 2017-09-16 11:12:50: main.py:139 **  Train=>
+Epoch: 6	Batch_num: 1016	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0196	train_acc: 99.11%
+INFO: 2017-09-16 11:13:56: main.py:78 **  Validate=>
+Epoch: 6	Valid_loss: 0.021	Valid_acc: 99.050%
+INFO: 2017-09-16 11:13:58: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 0	lr: 0.000	loss: 0.018	acc: 99.240%	train_loss: 0.0177	train_acc: 99.24%
+INFO: 2017-09-16 11:14:55: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 60	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0176	train_acc: 99.21%
+INFO: 2017-09-16 11:15:53: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 120	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.019	train_acc: 99.17%
+INFO: 2017-09-16 11:16:51: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 180	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0178	train_acc: 99.18%
+INFO: 2017-09-16 11:17:45: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 240	lr: 0.000	loss: 0.020	acc: 99.130%	train_loss: 0.0199	train_acc: 99.17%
+INFO: 2017-09-16 11:18:37: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 300	lr: 0.000	loss: 0.019	acc: 99.130%	train_loss: 0.0178	train_acc: 99.16%
+INFO: 2017-09-16 11:19:32: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 360	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0181	train_acc: 99.23%
+INFO: 2017-09-16 11:20:27: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 420	lr: 0.000	loss: 0.019	acc: 99.130%	train_loss: 0.0219	train_acc: 98.97%
+INFO: 2017-09-16 11:21:21: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 480	lr: 0.000	loss: 0.019	acc: 99.130%	train_loss: 0.018	train_acc: 99.11%
+INFO: 2017-09-16 11:22:14: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 540	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0204	train_acc: 99.18%
+INFO: 2017-09-16 11:23:07: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 600	lr: 0.000	loss: 0.018	acc: 99.160%	train_loss: 0.0213	train_acc: 98.93%
+INFO: 2017-09-16 11:24:01: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 660	lr: 0.000	loss: 0.019	acc: 99.170%	train_loss: 0.0191	train_acc: 99.22%
+INFO: 2017-09-16 11:24:54: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 720	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0217	train_acc: 99.02%
+INFO: 2017-09-16 11:25:46: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 780	lr: 0.000	loss: 0.019	acc: 99.160%	train_loss: 0.0183	train_acc: 99.13%
+INFO: 2017-09-16 11:26:39: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 840	lr: 0.000	loss: 0.018	acc: 99.160%	train_loss: 0.021	train_acc: 99.08%
+INFO: 2017-09-16 11:27:31: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 900	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0176	train_acc: 99.21%
+INFO: 2017-09-16 11:28:23: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 960	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0199	train_acc: 99.09%
+INFO: 2017-09-16 11:29:12: main.py:139 **  Train=>
+Epoch: 7	Batch_num: 1016	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0177	train_acc: 99.2%
+INFO: 2017-09-16 11:30:16: main.py:78 **  Validate=>
+Epoch: 7	Valid_loss: 0.021	Valid_acc: 99.080%
+INFO: 2017-09-16 11:30:19: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 0	lr: 0.000	loss: 0.017	acc: 99.260%	train_loss: 0.0173	train_acc: 99.26%
+INFO: 2017-09-16 11:31:11: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 60	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0168	train_acc: 99.24%
+INFO: 2017-09-16 11:32:03: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 120	lr: 0.000	loss: 0.019	acc: 99.170%	train_loss: 0.0177	train_acc: 99.21%
+INFO: 2017-09-16 11:32:56: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 180	lr: 0.000	loss: 0.019	acc: 99.170%	train_loss: 0.0179	train_acc: 99.19%
+INFO: 2017-09-16 11:33:48: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 240	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0193	train_acc: 99.19%
+INFO: 2017-09-16 11:34:41: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 300	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0178	train_acc: 99.15%
+INFO: 2017-09-16 11:35:33: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 360	lr: 0.000	loss: 0.018	acc: 99.160%	train_loss: 0.0175	train_acc: 99.26%
+INFO: 2017-09-16 11:36:25: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 420	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0206	train_acc: 99.02%
+INFO: 2017-09-16 11:37:17: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 480	lr: 0.000	loss: 0.019	acc: 99.160%	train_loss: 0.0178	train_acc: 99.1%
+INFO: 2017-09-16 11:38:09: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 540	lr: 0.000	loss: 0.019	acc: 99.160%	train_loss: 0.0202	train_acc: 99.21%
+INFO: 2017-09-16 11:39:02: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 600	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0193	train_acc: 99.03%
+INFO: 2017-09-16 11:39:54: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 660	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0189	train_acc: 99.23%
+INFO: 2017-09-16 11:40:46: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 720	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0214	train_acc: 99.04%
+INFO: 2017-09-16 11:41:38: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 780	lr: 0.000	loss: 0.019	acc: 99.180%	train_loss: 0.0186	train_acc: 99.13%
+INFO: 2017-09-16 11:42:30: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 840	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0206	train_acc: 99.09%
+INFO: 2017-09-16 11:43:22: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 900	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0174	train_acc: 99.2%
+INFO: 2017-09-16 11:44:15: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 960	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.019	train_acc: 99.14%
+INFO: 2017-09-16 11:45:03: main.py:139 **  Train=>
+Epoch: 8	Batch_num: 1016	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0167	train_acc: 99.25%
+INFO: 2017-09-16 11:46:08: main.py:78 **  Validate=>
+Epoch: 8	Valid_loss: 0.020	Valid_acc: 99.110%
+INFO: 2017-09-16 11:46:11: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 0	lr: 0.000	loss: 0.017	acc: 99.300%	train_loss: 0.0165	train_acc: 99.3%
+INFO: 2017-09-16 11:47:03: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 60	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0171	train_acc: 99.22%
+INFO: 2017-09-16 11:47:55: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 120	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0163	train_acc: 99.26%
+INFO: 2017-09-16 11:48:47: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 180	lr: 0.000	loss: 0.019	acc: 99.160%	train_loss: 0.0175	train_acc: 99.2%
+INFO: 2017-09-16 11:49:39: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 240	lr: 0.000	loss: 0.019	acc: 99.160%	train_loss: 0.0213	train_acc: 99.12%
+INFO: 2017-09-16 11:50:31: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 300	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0175	train_acc: 99.16%
+INFO: 2017-09-16 11:51:24: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 360	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0172	train_acc: 99.27%
+INFO: 2017-09-16 11:52:16: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 420	lr: 0.000	loss: 0.018	acc: 99.160%	train_loss: 0.0203	train_acc: 99.04%
+INFO: 2017-09-16 11:53:08: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 480	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0173	train_acc: 99.12%
+INFO: 2017-09-16 11:54:03: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 540	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0193	train_acc: 99.22%
+INFO: 2017-09-16 11:54:58: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 600	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.019	train_acc: 99.04%
+INFO: 2017-09-16 11:55:50: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 660	lr: 0.000	loss: 0.018	acc: 99.210%	train_loss: 0.0184	train_acc: 99.24%
+INFO: 2017-09-16 11:56:42: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 720	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0204	train_acc: 99.08%
+INFO: 2017-09-16 11:57:34: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 780	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0175	train_acc: 99.18%
+INFO: 2017-09-16 11:58:26: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 840	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0199	train_acc: 99.12%
+INFO: 2017-09-16 11:59:18: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 900	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0171	train_acc: 99.23%
+INFO: 2017-09-16 12:00:10: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 960	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0185	train_acc: 99.16%
+INFO: 2017-09-16 12:00:58: main.py:139 **  Train=>
+Epoch: 9	Batch_num: 1016	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0167	train_acc: 99.25%
+INFO: 2017-09-16 12:02:02: main.py:78 **  Validate=>
+Epoch: 9	Valid_loss: 0.020	Valid_acc: 99.120%
+INFO: 2017-09-16 12:02:06: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 0	lr: 0.000	loss: 0.016	acc: 99.310%	train_loss: 0.0162	train_acc: 99.31%
+INFO: 2017-09-16 12:02:58: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 60	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0168	train_acc: 99.24%
+INFO: 2017-09-16 12:03:50: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 120	lr: 0.000	loss: 0.018	acc: 99.210%	train_loss: 0.0157	train_acc: 99.31%
+INFO: 2017-09-16 12:04:42: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 180	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0171	train_acc: 99.21%
+INFO: 2017-09-16 12:05:34: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 240	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0201	train_acc: 99.16%
+INFO: 2017-09-16 12:06:26: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 300	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0173	train_acc: 99.18%
+INFO: 2017-09-16 12:07:18: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 360	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0173	train_acc: 99.25%
+INFO: 2017-09-16 12:08:10: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 420	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0191	train_acc: 99.08%
+INFO: 2017-09-16 12:09:02: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 480	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0174	train_acc: 99.12%
+INFO: 2017-09-16 12:09:54: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 540	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0194	train_acc: 99.22%
+INFO: 2017-09-16 12:10:46: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 600	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0182	train_acc: 99.07%
+INFO: 2017-09-16 12:11:38: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 660	lr: 0.000	loss: 0.018	acc: 99.230%	train_loss: 0.0175	train_acc: 99.28%
+INFO: 2017-09-16 12:12:30: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 720	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0208	train_acc: 99.06%
+INFO: 2017-09-16 12:13:22: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 780	lr: 0.000	loss: 0.018	acc: 99.210%	train_loss: 0.0172	train_acc: 99.2%
+INFO: 2017-09-16 12:14:14: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 840	lr: 0.000	loss: 0.017	acc: 99.200%	train_loss: 0.0195	train_acc: 99.13%
+INFO: 2017-09-16 12:15:06: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 900	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.017	train_acc: 99.23%
+INFO: 2017-09-16 12:15:58: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 960	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0179	train_acc: 99.19%
+INFO: 2017-09-16 12:16:46: main.py:139 **  Train=>
+Epoch: 10	Batch_num: 1016	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.016	train_acc: 99.28%
+INFO: 2017-09-16 12:17:50: main.py:78 **  Validate=>
+Epoch: 10	Valid_loss: 0.019	Valid_acc: 99.140%
+INFO: 2017-09-16 12:17:55: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 0	lr: 0.000	loss: 0.016	acc: 99.310%	train_loss: 0.0162	train_acc: 99.31%
+INFO: 2017-09-16 12:18:46: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 60	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0161	train_acc: 99.27%
+INFO: 2017-09-16 12:19:39: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 120	lr: 0.000	loss: 0.018	acc: 99.220%	train_loss: 0.0155	train_acc: 99.3%
+INFO: 2017-09-16 12:20:31: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 180	lr: 0.000	loss: 0.018	acc: 99.210%	train_loss: 0.0174	train_acc: 99.19%
+INFO: 2017-09-16 12:21:23: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 240	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0185	train_acc: 99.21%
+INFO: 2017-09-16 12:22:15: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 300	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0164	train_acc: 99.2%
+INFO: 2017-09-16 12:23:07: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 360	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0171	train_acc: 99.26%
+INFO: 2017-09-16 12:24:00: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 420	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0202	train_acc: 99.04%
+INFO: 2017-09-16 12:24:52: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 480	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0167	train_acc: 99.15%
+INFO: 2017-09-16 12:25:44: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 540	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0187	train_acc: 99.25%
+INFO: 2017-09-16 12:26:36: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 600	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.018	train_acc: 99.09%
+INFO: 2017-09-16 12:27:29: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 660	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.017	train_acc: 99.3%
+INFO: 2017-09-16 12:28:21: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 720	lr: 0.000	loss: 0.019	acc: 99.160%	train_loss: 0.0225	train_acc: 98.98%
+INFO: 2017-09-16 12:29:13: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 780	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0168	train_acc: 99.19%
+INFO: 2017-09-16 12:30:05: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 840	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0194	train_acc: 99.14%
+INFO: 2017-09-16 12:30:57: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 900	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0176	train_acc: 99.22%
+INFO: 2017-09-16 12:31:50: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 960	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0189	train_acc: 99.14%
+INFO: 2017-09-16 12:32:38: main.py:139 **  Train=>
+Epoch: 11	Batch_num: 1016	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0186	train_acc: 99.15%
+INFO: 2017-09-16 12:33:43: main.py:78 **  Validate=>
+Epoch: 11	Valid_loss: 0.022	Valid_acc: 99.050%
+INFO: 2017-09-16 12:33:45: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 0	lr: 0.000	loss: 0.018	acc: 99.240%	train_loss: 0.0177	train_acc: 99.24%
+INFO: 2017-09-16 12:34:37: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 60	lr: 0.000	loss: 0.019	acc: 99.140%	train_loss: 0.0172	train_acc: 99.24%
+INFO: 2017-09-16 12:35:30: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 120	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.017	train_acc: 99.26%
+INFO: 2017-09-16 12:36:22: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 180	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0167	train_acc: 99.22%
+INFO: 2017-09-16 12:37:14: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 240	lr: 0.000	loss: 0.019	acc: 99.160%	train_loss: 0.0186	train_acc: 99.22%
+INFO: 2017-09-16 12:38:06: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 300	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0165	train_acc: 99.21%
+INFO: 2017-09-16 12:38:59: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 360	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0179	train_acc: 99.21%
+INFO: 2017-09-16 12:39:51: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 420	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0198	train_acc: 99.04%
+INFO: 2017-09-16 12:40:43: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 480	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.017	train_acc: 99.14%
+INFO: 2017-09-16 12:41:35: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 540	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0189	train_acc: 99.25%
+INFO: 2017-09-16 12:42:28: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 600	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0193	train_acc: 99.02%
+INFO: 2017-09-16 12:43:20: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 660	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0169	train_acc: 99.31%
+INFO: 2017-09-16 12:44:12: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 720	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0204	train_acc: 99.08%
+INFO: 2017-09-16 12:45:04: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 780	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0163	train_acc: 99.23%
+INFO: 2017-09-16 12:45:57: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 840	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0186	train_acc: 99.17%
+INFO: 2017-09-16 12:46:49: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 900	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.017	train_acc: 99.24%
+INFO: 2017-09-16 12:47:41: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 960	lr: 0.000	loss: 0.018	acc: 99.220%	train_loss: 0.0186	train_acc: 99.16%
+INFO: 2017-09-16 12:48:30: main.py:139 **  Train=>
+Epoch: 12	Batch_num: 1016	lr: 0.000	loss: 0.018	acc: 99.220%	train_loss: 0.016	train_acc: 99.28%
+INFO: 2017-09-16 12:49:34: main.py:78 **  Validate=>
+Epoch: 12	Valid_loss: 0.019	Valid_acc: 99.140%
+INFO: 2017-09-16 12:49:37: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 0	lr: 0.000	loss: 0.016	acc: 99.330%	train_loss: 0.0158	train_acc: 99.33%
+INFO: 2017-09-16 12:50:29: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 60	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0157	train_acc: 99.29%
+INFO: 2017-09-16 12:51:21: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 120	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0158	train_acc: 99.3%
+INFO: 2017-09-16 12:52:13: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 180	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0162	train_acc: 99.25%
+INFO: 2017-09-16 12:53:05: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 240	lr: 0.000	loss: 0.018	acc: 99.210%	train_loss: 0.0177	train_acc: 99.24%
+INFO: 2017-09-16 12:53:58: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 300	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0168	train_acc: 99.17%
+INFO: 2017-09-16 12:54:50: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 360	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0172	train_acc: 99.25%
+INFO: 2017-09-16 12:55:42: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 420	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0185	train_acc: 99.12%
+INFO: 2017-09-16 12:56:34: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 480	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0161	train_acc: 99.18%
+INFO: 2017-09-16 12:57:26: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 540	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0183	train_acc: 99.26%
+INFO: 2017-09-16 12:58:19: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 600	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0176	train_acc: 99.11%
+INFO: 2017-09-16 12:59:11: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 660	lr: 0.000	loss: 0.017	acc: 99.260%	train_loss: 0.0166	train_acc: 99.32%
+INFO: 2017-09-16 13:00:03: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 720	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0207	train_acc: 99.06%
+INFO: 2017-09-16 13:00:55: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 780	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.017	train_acc: 99.2%
+INFO: 2017-09-16 13:01:48: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 840	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0181	train_acc: 99.18%
+INFO: 2017-09-16 13:02:40: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 900	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0182	train_acc: 99.19%
+INFO: 2017-09-16 13:03:32: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 960	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0177	train_acc: 99.21%
+INFO: 2017-09-16 13:04:20: main.py:139 **  Train=>
+Epoch: 13	Batch_num: 1016	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0155	train_acc: 99.31%
+INFO: 2017-09-16 13:05:24: main.py:78 **  Validate=>
+Epoch: 13	Valid_loss: 0.019	Valid_acc: 99.160%
+INFO: 2017-09-16 13:05:28: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 0	lr: 0.000	loss: 0.016	acc: 99.320%	train_loss: 0.0156	train_acc: 99.32%
+INFO: 2017-09-16 13:06:20: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 60	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0157	train_acc: 99.29%
+INFO: 2017-09-16 13:07:12: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 120	lr: 0.000	loss: 0.017	acc: 99.250%	train_loss: 0.0155	train_acc: 99.31%
+INFO: 2017-09-16 13:08:05: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 180	lr: 0.000	loss: 0.017	acc: 99.250%	train_loss: 0.016	train_acc: 99.26%
+INFO: 2017-09-16 13:08:57: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 240	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0175	train_acc: 99.24%
+INFO: 2017-09-16 13:09:49: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 300	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0163	train_acc: 99.22%
+INFO: 2017-09-16 13:10:41: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 360	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0165	train_acc: 99.29%
+INFO: 2017-09-16 13:11:34: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 420	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0178	train_acc: 99.13%
+INFO: 2017-09-16 13:12:26: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 480	lr: 0.000	loss: 0.017	acc: 99.250%	train_loss: 0.0158	train_acc: 99.21%
+INFO: 2017-09-16 13:13:18: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 540	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0181	train_acc: 99.27%
+INFO: 2017-09-16 13:14:10: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 600	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0175	train_acc: 99.11%
+INFO: 2017-09-16 13:15:03: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 660	lr: 0.000	loss: 0.017	acc: 99.270%	train_loss: 0.0168	train_acc: 99.31%
+INFO: 2017-09-16 13:15:55: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 720	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0206	train_acc: 99.06%
+INFO: 2017-09-16 13:16:47: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 780	lr: 0.000	loss: 0.017	acc: 99.250%	train_loss: 0.016	train_acc: 99.23%
+INFO: 2017-09-16 13:17:39: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 840	lr: 0.000	loss: 0.016	acc: 99.250%	train_loss: 0.0173	train_acc: 99.22%
+INFO: 2017-09-16 13:18:32: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 900	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0175	train_acc: 99.21%
+INFO: 2017-09-16 13:19:24: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 960	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0175	train_acc: 99.22%
+INFO: 2017-09-16 13:20:13: main.py:139 **  Train=>
+Epoch: 14	Batch_num: 1016	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0153	train_acc: 99.32%
+INFO: 2017-09-16 13:21:17: main.py:78 **  Validate=>
+Epoch: 14	Valid_loss: 0.018	Valid_acc: 99.180%
+INFO: 2017-09-16 13:21:21: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 0	lr: 0.000	loss: 0.015	acc: 99.340%	train_loss: 0.0153	train_acc: 99.34%
+INFO: 2017-09-16 13:22:13: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 60	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0153	train_acc: 99.31%
+INFO: 2017-09-16 13:23:05: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 120	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0152	train_acc: 99.33%
+INFO: 2017-09-16 13:23:57: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 180	lr: 0.000	loss: 0.017	acc: 99.260%	train_loss: 0.0156	train_acc: 99.27%
+INFO: 2017-09-16 13:24:50: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 240	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0176	train_acc: 99.25%
+INFO: 2017-09-16 13:25:42: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 300	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0161	train_acc: 99.22%
+INFO: 2017-09-16 13:26:34: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 360	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0171	train_acc: 99.24%
+INFO: 2017-09-16 13:27:27: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 420	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.019	train_acc: 99.08%
+INFO: 2017-09-16 13:28:19: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 480	lr: 0.000	loss: 0.018	acc: 99.220%	train_loss: 0.0166	train_acc: 99.16%
+INFO: 2017-09-16 13:29:11: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 540	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0184	train_acc: 99.24%
+INFO: 2017-09-16 13:30:03: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 600	lr: 0.000	loss: 0.016	acc: 99.250%	train_loss: 0.0174	train_acc: 99.12%
+INFO: 2017-09-16 13:30:56: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 660	lr: 0.000	loss: 0.017	acc: 99.270%	train_loss: 0.016	train_acc: 99.34%
+INFO: 2017-09-16 13:31:48: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 720	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0197	train_acc: 99.1%
+INFO: 2017-09-16 13:32:40: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 780	lr: 0.000	loss: 0.017	acc: 99.260%	train_loss: 0.0159	train_acc: 99.24%
+INFO: 2017-09-16 13:33:32: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 840	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0176	train_acc: 99.21%
+INFO: 2017-09-16 13:34:25: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 900	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0166	train_acc: 99.24%
+INFO: 2017-09-16 13:35:17: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 960	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0159	train_acc: 99.29%
+INFO: 2017-09-16 13:36:06: main.py:139 **  Train=>
+Epoch: 15	Batch_num: 1016	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0151	train_acc: 99.32%
+INFO: 2017-09-16 13:37:10: main.py:78 **  Validate=>
+Epoch: 15	Valid_loss: 0.018	Valid_acc: 99.180%
+INFO: 2017-09-16 13:37:13: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 0	lr: 0.000	loss: 0.015	acc: 99.340%	train_loss: 0.0153	train_acc: 99.34%
+INFO: 2017-09-16 13:38:05: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 60	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0149	train_acc: 99.33%
+INFO: 2017-09-16 13:38:57: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 120	lr: 0.000	loss: 0.016	acc: 99.280%	train_loss: 0.0152	train_acc: 99.33%
+INFO: 2017-09-16 13:39:49: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 180	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0155	train_acc: 99.27%
+INFO: 2017-09-16 13:40:42: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 240	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0182	train_acc: 99.22%
+INFO: 2017-09-16 13:41:34: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 300	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0158	train_acc: 99.23%
+INFO: 2017-09-16 13:42:26: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 360	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0165	train_acc: 99.27%
+INFO: 2017-09-16 13:43:19: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 420	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0169	train_acc: 99.19%
+INFO: 2017-09-16 13:44:11: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 480	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0152	train_acc: 99.23%
+INFO: 2017-09-16 13:45:03: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 540	lr: 0.000	loss: 0.017	acc: 99.250%	train_loss: 0.0179	train_acc: 99.28%
+INFO: 2017-09-16 13:45:55: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 600	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.017	train_acc: 99.15%
+INFO: 2017-09-16 13:46:48: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 660	lr: 0.000	loss: 0.017	acc: 99.250%	train_loss: 0.017	train_acc: 99.3%
+INFO: 2017-09-16 13:47:40: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 720	lr: 0.000	loss: 0.017	acc: 99.230%	train_loss: 0.0188	train_acc: 99.14%
+INFO: 2017-09-16 13:48:32: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 780	lr: 0.000	loss: 0.017	acc: 99.270%	train_loss: 0.0158	train_acc: 99.25%
+INFO: 2017-09-16 13:49:25: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 840	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0166	train_acc: 99.24%
+INFO: 2017-09-16 13:50:17: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 900	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0166	train_acc: 99.25%
+INFO: 2017-09-16 13:51:09: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 960	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0158	train_acc: 99.28%
+INFO: 2017-09-16 13:51:58: main.py:139 **  Train=>
+Epoch: 16	Batch_num: 1016	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0152	train_acc: 99.31%
+INFO: 2017-09-16 13:53:02: main.py:78 **  Validate=>
+Epoch: 16	Valid_loss: 0.019	Valid_acc: 99.160%
+INFO: 2017-09-16 13:53:05: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 0	lr: 0.000	loss: 0.015	acc: 99.340%	train_loss: 0.0152	train_acc: 99.34%
+INFO: 2017-09-16 13:53:57: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 60	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0147	train_acc: 99.33%
+INFO: 2017-09-16 13:54:49: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 120	lr: 0.000	loss: 0.016	acc: 99.290%	train_loss: 0.0146	train_acc: 99.35%
+INFO: 2017-09-16 13:55:42: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 180	lr: 0.000	loss: 0.016	acc: 99.280%	train_loss: 0.0154	train_acc: 99.28%
+INFO: 2017-09-16 13:56:34: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 240	lr: 0.000	loss: 0.017	acc: 99.250%	train_loss: 0.0176	train_acc: 99.24%
+INFO: 2017-09-16 13:57:26: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 300	lr: 0.000	loss: 0.016	acc: 99.250%	train_loss: 0.0163	train_acc: 99.2%
+INFO: 2017-09-16 13:58:18: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 360	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0162	train_acc: 99.29%
+INFO: 2017-09-16 13:59:10: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 420	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0171	train_acc: 99.17%
+INFO: 2017-09-16 14:00:02: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 480	lr: 0.000	loss: 0.016	acc: 99.280%	train_loss: 0.0152	train_acc: 99.25%
+INFO: 2017-09-16 14:00:54: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 540	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.017	train_acc: 99.31%
+INFO: 2017-09-16 14:01:46: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 600	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0164	train_acc: 99.18%
+INFO: 2017-09-16 14:02:38: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 660	lr: 0.000	loss: 0.016	acc: 99.280%	train_loss: 0.016	train_acc: 99.34%
+INFO: 2017-09-16 14:03:30: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 720	lr: 0.000	loss: 0.016	acc: 99.250%	train_loss: 0.0182	train_acc: 99.16%
+INFO: 2017-09-16 14:04:22: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 780	lr: 0.000	loss: 0.016	acc: 99.280%	train_loss: 0.0157	train_acc: 99.26%
+INFO: 2017-09-16 14:05:14: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 840	lr: 0.000	loss: 0.016	acc: 99.270%	train_loss: 0.0167	train_acc: 99.23%
+INFO: 2017-09-16 14:06:06: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 900	lr: 0.000	loss: 0.016	acc: 99.280%	train_loss: 0.0168	train_acc: 99.24%
+INFO: 2017-09-16 14:06:58: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 960	lr: 0.000	loss: 0.016	acc: 99.290%	train_loss: 0.0153	train_acc: 99.31%
+INFO: 2017-09-16 14:07:46: main.py:139 **  Train=>
+Epoch: 17	Batch_num: 1016	lr: 0.000	loss: 0.016	acc: 99.290%	train_loss: 0.0153	train_acc: 99.32%
+INFO: 2017-09-16 14:08:50: main.py:78 **  Validate=>
+Epoch: 17	Valid_loss: 0.019	Valid_acc: 99.140%
+INFO: 2017-09-16 14:08:53: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 0	lr: 0.000	loss: 0.015	acc: 99.330%	train_loss: 0.0155	train_acc: 99.33%
+INFO: 2017-09-16 14:09:45: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 60	lr: 0.000	loss: 0.016	acc: 99.260%	train_loss: 0.0156	train_acc: 99.28%
+INFO: 2017-09-16 14:10:37: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 120	lr: 0.000	loss: 0.016	acc: 99.300%	train_loss: 0.0147	train_acc: 99.34%
+INFO: 2017-09-16 14:11:30: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 180	lr: 0.000	loss: 0.016	acc: 99.290%	train_loss: 0.0153	train_acc: 99.3%
+INFO: 2017-09-16 14:12:22: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 240	lr: 0.000	loss: 0.017	acc: 99.240%	train_loss: 0.0181	train_acc: 99.24%
+INFO: 2017-09-16 14:13:14: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 300	lr: 0.000	loss: 0.038	acc: 98.480%	train_loss: 0.0556	train_acc: 97.65%
+INFO: 2017-09-16 14:14:06: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 360	lr: 0.000	loss: 0.076	acc: 97.270%	train_loss: 0.0371	train_acc: 98.52%
+INFO: 2017-09-16 14:14:59: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 420	lr: 0.000	loss: 0.039	acc: 98.380%	train_loss: 0.0575	train_acc: 97.57%
+INFO: 2017-09-16 14:15:51: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 480	lr: 0.000	loss: 0.032	acc: 98.630%	train_loss: 0.0272	train_acc: 98.7%
+INFO: 2017-09-16 14:16:43: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 540	lr: 0.000	loss: 0.028	acc: 98.790%	train_loss: 0.0261	train_acc: 98.99%
+INFO: 2017-09-16 14:17:36: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 600	lr: 0.000	loss: 0.024	acc: 98.930%	train_loss: 0.0293	train_acc: 98.67%
+INFO: 2017-09-16 14:18:28: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 660	lr: 0.000	loss: 0.026	acc: 98.920%	train_loss: 0.0276	train_acc: 98.99%
+INFO: 2017-09-16 14:19:20: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 720	lr: 0.000	loss: 0.024	acc: 98.970%	train_loss: 0.0276	train_acc: 98.79%
+INFO: 2017-09-16 14:20:12: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 780	lr: 0.000	loss: 0.023	acc: 99.000%	train_loss: 0.0232	train_acc: 98.91%
+INFO: 2017-09-16 14:21:05: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 840	lr: 0.000	loss: 0.022	acc: 99.020%	train_loss: 0.0238	train_acc: 98.97%
+INFO: 2017-09-16 14:21:57: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 900	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0186	train_acc: 99.18%
+INFO: 2017-09-16 14:22:49: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 960	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0235	train_acc: 98.97%
+INFO: 2017-09-16 14:23:38: main.py:139 **  Train=>
+Epoch: 18	Batch_num: 1016	lr: 0.000	loss: 0.021	acc: 99.050%	train_loss: 0.0264	train_acc: 98.88%
+INFO: 2017-09-16 14:24:42: main.py:78 **  Validate=>
+Epoch: 18	Valid_loss: 0.056	Valid_acc: 97.890%
+INFO: 2017-09-16 14:24:45: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 0	lr: 0.000	loss: 0.019	acc: 99.210%	train_loss: 0.0186	train_acc: 99.21%
+INFO: 2017-09-16 14:25:37: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 60	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0182	train_acc: 99.18%
+INFO: 2017-09-16 14:26:29: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 120	lr: 0.000	loss: 0.021	acc: 99.110%	train_loss: 0.0198	train_acc: 99.16%
+INFO: 2017-09-16 14:27:22: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 180	lr: 0.000	loss: 0.021	acc: 99.070%	train_loss: 0.0179	train_acc: 99.16%
+INFO: 2017-09-16 14:28:14: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 240	lr: 0.000	loss: 0.021	acc: 99.100%	train_loss: 0.0203	train_acc: 99.13%
+INFO: 2017-09-16 14:29:06: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 300	lr: 0.000	loss: 0.020	acc: 99.100%	train_loss: 0.0186	train_acc: 99.12%
+INFO: 2017-09-16 14:29:58: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 360	lr: 0.000	loss: 0.020	acc: 99.110%	train_loss: 0.0179	train_acc: 99.24%
+INFO: 2017-09-16 14:30:51: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 420	lr: 0.000	loss: 0.020	acc: 99.100%	train_loss: 0.0234	train_acc: 98.89%
+INFO: 2017-09-16 14:31:43: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 480	lr: 0.000	loss: 0.020	acc: 99.100%	train_loss: 0.0185	train_acc: 99.09%
+INFO: 2017-09-16 14:32:35: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 540	lr: 0.000	loss: 0.019	acc: 99.130%	train_loss: 0.0205	train_acc: 99.17%
+INFO: 2017-09-16 14:33:27: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 600	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0226	train_acc: 98.91%
+INFO: 2017-09-16 14:34:20: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 660	lr: 0.000	loss: 0.019	acc: 99.180%	train_loss: 0.018	train_acc: 99.28%
+INFO: 2017-09-16 14:35:12: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 720	lr: 0.000	loss: 0.019	acc: 99.150%	train_loss: 0.0211	train_acc: 99.04%
+INFO: 2017-09-16 14:36:04: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 780	lr: 0.000	loss: 0.019	acc: 99.170%	train_loss: 0.0183	train_acc: 99.14%
+INFO: 2017-09-16 14:36:56: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 840	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0201	train_acc: 99.12%
+INFO: 2017-09-16 14:37:48: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 900	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0178	train_acc: 99.2%
+INFO: 2017-09-16 14:38:40: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 960	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.019	train_acc: 99.14%
+INFO: 2017-09-16 14:39:28: main.py:139 **  Train=>
+Epoch: 19	Batch_num: 1016	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0207	train_acc: 99.09%
+INFO: 2017-09-16 14:40:32: main.py:78 **  Validate=>
+Epoch: 19	Valid_loss: 0.019	Valid_acc: 99.160%
+INFO: 2017-09-16 14:40:35: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 0	lr: 0.000	loss: 0.016	acc: 99.330%	train_loss: 0.0156	train_acc: 99.33%
+INFO: 2017-09-16 14:41:27: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 60	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.0165	train_acc: 99.25%
+INFO: 2017-09-16 14:42:19: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 120	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0172	train_acc: 99.26%
+INFO: 2017-09-16 14:43:11: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 180	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.017	train_acc: 99.21%
+INFO: 2017-09-16 14:44:04: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 240	lr: 0.000	loss: 0.019	acc: 99.170%	train_loss: 0.0192	train_acc: 99.18%
+INFO: 2017-09-16 14:44:56: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 300	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.0163	train_acc: 99.22%
+INFO: 2017-09-16 14:45:48: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 360	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0172	train_acc: 99.26%
+INFO: 2017-09-16 14:46:40: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 420	lr: 0.000	loss: 0.018	acc: 99.170%	train_loss: 0.0212	train_acc: 98.99%
+INFO: 2017-09-16 14:47:32: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 480	lr: 0.000	loss: 0.018	acc: 99.180%	train_loss: 0.017	train_acc: 99.14%
+INFO: 2017-09-16 14:48:24: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 540	lr: 0.000	loss: 0.018	acc: 99.190%	train_loss: 0.019	train_acc: 99.23%
+INFO: 2017-09-16 14:49:16: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 600	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0204	train_acc: 98.99%
+INFO: 2017-09-16 14:50:08: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 660	lr: 0.000	loss: 0.018	acc: 99.220%	train_loss: 0.0171	train_acc: 99.3%
+INFO: 2017-09-16 14:51:00: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 720	lr: 0.000	loss: 0.018	acc: 99.200%	train_loss: 0.0197	train_acc: 99.11%
+INFO: 2017-09-16 14:51:52: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 780	lr: 0.000	loss: 0.018	acc: 99.220%	train_loss: 0.0168	train_acc: 99.2%
+INFO: 2017-09-16 14:52:44: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 840	lr: 0.000	loss: 0.017	acc: 99.210%	train_loss: 0.0194	train_acc: 99.14%
+INFO: 2017-09-16 14:53:38: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 900	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0169	train_acc: 99.23%
+INFO: 2017-09-16 14:54:30: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 960	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0175	train_acc: 99.21%
+INFO: 2017-09-16 14:55:19: main.py:139 **  Train=>
+Epoch: 20	Batch_num: 1016	lr: 0.000	loss: 0.017	acc: 99.220%	train_loss: 0.0194	train_acc: 99.15%
+INFO: 2017-09-16 14:56:23: main.py:78 **  Validate=>
+Epoch: 20	Valid_loss: 0.019	Valid_acc: 99.150%
+INFO: 2017-09-16 14:56:26: main.py:139 **  Train=>
+Epoch: 21	Batch_num: 0	lr: 0.000	loss: 0.015	acc: 99.340%	train_loss: 0.0152	train_acc: 99.34%
+INFO: 2017-09-17 00:37:06: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 00:37:06: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 00:37:06: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 00:37:06: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 00:37:06: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 00:37:06: main.py:229 **  Train data batch size 4
+INFO: 2017-09-17 00:37:06: main.py:230 **  Train data sample counts 0
+INFO: 2017-09-17 00:37:06: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 00:45:58: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 00:45:58: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 00:45:58: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 00:45:58: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 00:45:58: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 00:45:58: main.py:229 **  Train data batch size 2
+INFO: 2017-09-17 00:45:58: main.py:230 **  Train data sample counts 4070
+INFO: 2017-09-17 00:45:58: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 00:46:01: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.354	acc: 17.760%	train_loss: 1.3544	train_acc: 17.76%
+INFO: 2017-09-17 00:46:50: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 60	lr: 0.000	loss: 0.814	acc: 80.060%	train_loss: 0.3848	train_acc: 87.54%
+INFO: 2017-09-17 00:47:41: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 120	lr: 0.000	loss: 0.203	acc: 93.490%	train_loss: 0.0839	train_acc: 97.63%
+INFO: 2017-09-17 00:48:35: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 180	lr: 0.000	loss: 0.159	acc: 94.450%	train_loss: 0.1177	train_acc: 96.11%
+INFO: 2017-09-17 00:49:31: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 240	lr: 0.000	loss: 0.151	acc: 94.600%	train_loss: 0.3286	train_acc: 88.99%
+INFO: 2017-09-17 00:50:28: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 300	lr: 0.000	loss: 0.176	acc: 93.260%	train_loss: 0.0797	train_acc: 97.04%
+INFO: 2017-09-17 00:51:27: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 360	lr: 0.000	loss: 0.113	acc: 95.800%	train_loss: 0.0853	train_acc: 96.62%
+INFO: 2017-09-17 00:52:25: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 420	lr: 0.000	loss: 0.086	acc: 96.780%	train_loss: 0.076	train_acc: 97.33%
+INFO: 2017-09-17 00:53:24: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 480	lr: 0.000	loss: 0.059	acc: 97.780%	train_loss: 0.0679	train_acc: 97.79%
+INFO: 2017-09-17 00:54:20: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 540	lr: 0.000	loss: 0.060	acc: 97.710%	train_loss: 0.0564	train_acc: 97.94%
+INFO: 2017-09-17 00:55:18: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 600	lr: 0.000	loss: 0.054	acc: 97.890%	train_loss: 0.0621	train_acc: 97.18%
+INFO: 2017-09-17 00:56:14: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 660	lr: 0.000	loss: 0.047	acc: 98.140%	train_loss: 0.0501	train_acc: 98.1%
+INFO: 2017-09-17 00:57:11: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 720	lr: 0.000	loss: 0.044	acc: 98.280%	train_loss: 0.0663	train_acc: 97.33%
+INFO: 2017-09-17 00:58:09: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 780	lr: 0.000	loss: 0.040	acc: 98.430%	train_loss: 0.0336	train_acc: 98.78%
+INFO: 2017-09-17 00:59:07: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 840	lr: 0.000	loss: 0.040	acc: 98.410%	train_loss: 0.0558	train_acc: 97.58%
+INFO: 2017-09-17 01:00:04: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 900	lr: 0.000	loss: 0.049	acc: 98.090%	train_loss: 0.0547	train_acc: 97.71%
+INFO: 2017-09-17 01:01:01: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 960	lr: 0.000	loss: 0.039	acc: 98.460%	train_loss: 0.0356	train_acc: 98.36%
+INFO: 2017-09-17 01:01:57: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1020	lr: 0.000	loss: 0.044	acc: 98.270%	train_loss: 0.0517	train_acc: 98.02%
+INFO: 2017-09-17 01:02:54: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1080	lr: 0.000	loss: 0.046	acc: 98.180%	train_loss: 0.0329	train_acc: 98.73%
+INFO: 2017-09-17 01:03:51: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1140	lr: 0.000	loss: 0.042	acc: 98.330%	train_loss: 0.0336	train_acc: 98.46%
+INFO: 2017-09-17 01:04:48: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1200	lr: 0.000	loss: 0.035	acc: 98.590%	train_loss: 0.0394	train_acc: 98.29%
+INFO: 2017-09-17 01:05:45: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1260	lr: 0.000	loss: 0.034	acc: 98.690%	train_loss: 0.0304	train_acc: 98.75%
+INFO: 2017-09-17 01:06:42: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1320	lr: 0.000	loss: 0.038	acc: 98.520%	train_loss: 0.0501	train_acc: 98.29%
+INFO: 2017-09-17 01:07:38: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1380	lr: 0.000	loss: 0.033	acc: 98.700%	train_loss: 0.0366	train_acc: 98.54%
+INFO: 2017-09-17 01:08:34: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1440	lr: 0.000	loss: 0.031	acc: 98.740%	train_loss: 0.0338	train_acc: 98.49%
+INFO: 2017-09-17 01:09:31: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1500	lr: 0.000	loss: 0.031	acc: 98.810%	train_loss: 0.0268	train_acc: 98.91%
+INFO: 2017-09-17 01:10:27: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1560	lr: 0.000	loss: 0.031	acc: 98.750%	train_loss: 0.0359	train_acc: 98.26%
+INFO: 2017-09-17 01:11:24: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1620	lr: 0.000	loss: 0.031	acc: 98.750%	train_loss: 0.0596	train_acc: 97.28%
+INFO: 2017-09-17 01:12:20: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1680	lr: 0.000	loss: 0.044	acc: 98.300%	train_loss: 0.0663	train_acc: 96.97%
+INFO: 2017-09-17 01:13:16: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1740	lr: 0.000	loss: 0.045	acc: 98.220%	train_loss: 0.034	train_acc: 98.59%
+INFO: 2017-09-17 01:14:11: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1800	lr: 0.000	loss: 0.037	acc: 98.490%	train_loss: 0.0369	train_acc: 98.64%
+INFO: 2017-09-17 01:15:07: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 1860	lr: 0.000	loss: 0.032	acc: 98.740%	train_loss: 0.0345	train_acc: 98.67%
+INFO: 2017-09-17 01:18:50: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 01:18:50: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 01:18:50: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 01:18:50: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 01:18:50: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 01:18:50: main.py:229 **  Train data batch size 2
+INFO: 2017-09-17 01:18:50: main.py:230 **  Train data sample counts 4070
+INFO: 2017-09-17 01:18:50: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 01:18:53: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 0	lr: 0.000	loss: 1.323	acc: 10.020%	train_loss: 1.3235	train_acc: 10.02%
+INFO: 2017-09-17 01:19:37: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 100	lr: 0.000	loss: 0.550	acc: 81.590%	train_loss: 0.1817	train_acc: 93.35%
+INFO: 2017-09-17 01:20:24: main.py:140 **  Train=>
+Epoch: 0	Batch_num: 200	lr: 0.000	loss: 0.148	acc: 94.510%	train_loss: 0.1132	train_acc: 95.51%
+INFO: 2017-09-17 01:22:35: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 01:22:35: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 01:22:35: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 01:22:35: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 01:22:35: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 01:22:35: main.py:229 **  Train data batch size 2
+INFO: 2017-09-17 01:22:35: main.py:230 **  Train data sample counts 4070
+INFO: 2017-09-17 01:22:35: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 01:22:38: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 0	lr: 0.000	loss: 0.020	acc: 99.080%	train_loss: 0.0197	train_acc: 99.08%
+INFO: 2017-09-17 01:23:23: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 100	lr: 0.000	loss: 0.022	acc: 99.130%	train_loss: 0.0584	train_acc: 97.5%
+INFO: 2017-09-17 01:24:11: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 200	lr: 0.000	loss: 0.064	acc: 97.560%	train_loss: 0.0462	train_acc: 98.18%
+INFO: 2017-09-17 01:25:01: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 300	lr: 0.000	loss: 0.062	acc: 97.770%	train_loss: 0.0275	train_acc: 98.83%
+INFO: 2017-09-17 01:25:52: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 400	lr: 0.000	loss: 0.029	acc: 98.850%	train_loss: 0.0374	train_acc: 98.79%
+INFO: 2017-09-17 01:26:23: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 01:26:23: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 01:26:23: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 01:26:23: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 01:26:23: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 01:26:23: main.py:229 **  Train data batch size 2
+INFO: 2017-09-17 01:26:23: main.py:230 **  Train data sample counts 4070
+INFO: 2017-09-17 01:26:23: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 01:26:26: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 0	lr: 0.000	loss: 0.016	acc: 99.320%	train_loss: 0.0161	train_acc: 99.32%
+INFO: 2017-09-17 01:27:15: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 100	lr: 0.000	loss: 0.024	acc: 98.950%	train_loss: 0.035	train_acc: 98.26%
+INFO: 2017-09-17 01:28:05: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 01:28:05: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 01:28:05: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 01:28:05: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 01:28:05: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 01:28:05: main.py:229 **  Train data batch size 2
+INFO: 2017-09-17 01:28:05: main.py:230 **  Train data sample counts 4070
+INFO: 2017-09-17 01:28:05: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 01:28:08: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 0	lr: 0.000	loss: 0.020	acc: 99.080%	train_loss: 0.0197	train_acc: 99.08%
+INFO: 2017-09-17 01:28:55: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 100	lr: 0.000	loss: 0.016	acc: 99.340%	train_loss: 0.0206	train_acc: 99.1%
+INFO: 2017-09-17 01:29:45: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 200	lr: 0.000	loss: 0.117	acc: 95.830%	train_loss: 0.1079	train_acc: 95.81%
+INFO: 2017-09-17 01:30:36: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 300	lr: 0.000	loss: 0.121	acc: 95.460%	train_loss: 0.0623	train_acc: 97.51%
+INFO: 2017-09-17 01:31:26: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 400	lr: 0.000	loss: 0.091	acc: 96.600%	train_loss: 0.0589	train_acc: 97.97%
+INFO: 2017-09-17 01:32:16: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 500	lr: 0.000	loss: 0.054	acc: 97.820%	train_loss: 0.0284	train_acc: 98.81%
+INFO: 2017-09-17 01:33:06: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 600	lr: 0.000	loss: 0.049	acc: 98.070%	train_loss: 0.0969	train_acc: 95.64%
+INFO: 2017-09-17 01:33:57: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 700	lr: 0.000	loss: 0.048	acc: 98.060%	train_loss: 0.0322	train_acc: 98.64%
+INFO: 2017-09-17 01:34:47: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 800	lr: 0.000	loss: 0.039	acc: 98.420%	train_loss: 0.0351	train_acc: 98.46%
+INFO: 2017-09-17 01:35:37: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 900	lr: 0.000	loss: 0.066	acc: 97.300%	train_loss: 0.1031	train_acc: 95.48%
+INFO: 2017-09-17 01:36:27: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1000	lr: 0.000	loss: 0.080	acc: 96.700%	train_loss: 0.0452	train_acc: 98.29%
+INFO: 2017-09-17 01:37:18: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1100	lr: 0.000	loss: 0.048	acc: 98.030%	train_loss: 0.0311	train_acc: 98.78%
+INFO: 2017-09-17 01:38:07: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1200	lr: 0.000	loss: 0.042	acc: 98.280%	train_loss: 0.048	train_acc: 97.86%
+INFO: 2017-09-17 01:38:58: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1300	lr: 0.000	loss: 0.040	acc: 98.430%	train_loss: 0.0332	train_acc: 98.63%
+INFO: 2017-09-17 01:39:48: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1400	lr: 0.000	loss: 0.037	acc: 98.500%	train_loss: 0.0419	train_acc: 98.45%
+INFO: 2017-09-17 01:40:38: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1500	lr: 0.000	loss: 0.036	acc: 98.550%	train_loss: 0.0301	train_acc: 98.75%
+INFO: 2017-09-17 01:41:28: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1600	lr: 0.000	loss: 0.032	acc: 98.730%	train_loss: 0.0229	train_acc: 99.02%
+INFO: 2017-09-17 01:42:18: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1700	lr: 0.000	loss: 0.030	acc: 98.760%	train_loss: 0.0256	train_acc: 99.04%
+INFO: 2017-09-17 01:43:08: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1800	lr: 0.000	loss: 0.027	acc: 98.910%	train_loss: 0.0186	train_acc: 99.29%
+INFO: 2017-09-17 01:43:58: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1900	lr: 0.000	loss: 0.027	acc: 98.910%	train_loss: 0.0209	train_acc: 99.17%
+INFO: 2017-09-17 01:44:49: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 2000	lr: 0.000	loss: 0.028	acc: 98.920%	train_loss: 0.0294	train_acc: 98.78%
+INFO: 2017-09-17 01:45:05: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 2034	lr: 0.000	loss: 0.028	acc: 98.920%	train_loss: 0.0215	train_acc: 99.1%
+INFO: 2017-09-17 01:46:09: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 01:46:09: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 01:46:09: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 01:46:09: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 01:46:09: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 01:46:09: main.py:229 **  Train data batch size 6
+INFO: 2017-09-17 01:46:09: main.py:230 **  Train data sample counts 4068
+INFO: 2017-09-17 01:46:09: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 01:50:57: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 01:50:57: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 01:50:57: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 01:50:57: main.py:214 **  Loading dataset...
+INFO: 2017-09-17 01:50:57: main.py:228 **  All data sample counts 5088
+INFO: 2017-09-17 01:50:57: main.py:229 **  Train data batch size 4
+INFO: 2017-09-17 01:50:57: main.py:230 **  Train data sample counts 4068
+INFO: 2017-09-17 01:50:57: main.py:231 **  Valid data sample counts 1018
+INFO: 2017-09-17 01:51:00: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 0	lr: 0.000	loss: 0.019	acc: 99.100%	train_loss: 0.019	train_acc: 99.1%
+INFO: 2017-09-17 01:52:17: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 100	lr: 0.000	loss: 0.010	acc: 99.580%	train_loss: 0.0089	train_acc: 99.61%
+INFO: 2017-09-17 01:53:41: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 200	lr: 0.000	loss: 0.010	acc: 99.620%	train_loss: 0.0099	train_acc: 99.65%
+INFO: 2017-09-17 01:55:07: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0083	train_acc: 99.63%
+INFO: 2017-09-17 01:56:35: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 400	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0083	train_acc: 99.66%
+INFO: 2017-09-17 01:58:02: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0088	train_acc: 99.64%
+INFO: 2017-09-17 01:59:30: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 600	lr: 0.000	loss: 0.010	acc: 99.600%	train_loss: 0.0109	train_acc: 99.48%
+INFO: 2017-09-17 02:00:58: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 700	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0108	train_acc: 99.57%
+INFO: 2017-09-17 02:02:25: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 800	lr: 0.000	loss: 0.010	acc: 99.590%	train_loss: 0.0105	train_acc: 99.54%
+INFO: 2017-09-17 02:03:53: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 900	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0086	train_acc: 99.64%
+INFO: 2017-09-17 02:05:21: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1000	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.011	train_acc: 99.51%
+INFO: 2017-09-17 02:05:35: main.py:140 **  Train=>
+Epoch: 15	Batch_num: 1016	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0084	train_acc: 99.64%
+INFO: 2017-09-17 02:06:39: main.py:79 **  Validate=>
+Epoch: 15	Valid_loss: 0.011	Valid_acc: 99.570%
+INFO: 2017-09-17 02:06:43: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 0	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0081	train_acc: 99.68%
+INFO: 2017-09-17 02:08:10: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 100	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0092	train_acc: 99.6%
+INFO: 2017-09-17 02:09:36: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 200	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.0098	train_acc: 99.66%
+INFO: 2017-09-17 02:11:02: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0085	train_acc: 99.63%
+INFO: 2017-09-17 02:12:28: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 400	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0084	train_acc: 99.66%
+INFO: 2017-09-17 02:13:54: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.610%	train_loss: 0.0101	train_acc: 99.59%
+INFO: 2017-09-17 02:15:20: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 600	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0098	train_acc: 99.56%
+INFO: 2017-09-17 02:16:46: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 700	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0092	train_acc: 99.63%
+INFO: 2017-09-17 02:18:12: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 800	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.0093	train_acc: 99.58%
+INFO: 2017-09-17 02:19:38: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 900	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0084	train_acc: 99.65%
+INFO: 2017-09-17 02:21:05: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 1000	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0084	train_acc: 99.63%
+INFO: 2017-09-17 02:21:18: main.py:140 **  Train=>
+Epoch: 16	Batch_num: 1016	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0075	train_acc: 99.68%
+INFO: 2017-09-17 02:22:22: main.py:79 **  Validate=>
+Epoch: 16	Valid_loss: 0.011	Valid_acc: 99.580%
+INFO: 2017-09-17 02:22:26: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 0	lr: 0.000	loss: 0.008	acc: 99.700%	train_loss: 0.0076	train_acc: 99.7%
+INFO: 2017-09-17 02:23:52: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.650%	train_loss: 0.0105	train_acc: 99.55%
+INFO: 2017-09-17 02:25:18: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 200	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0121	train_acc: 99.58%
+INFO: 2017-09-17 02:26:44: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0081	train_acc: 99.64%
+INFO: 2017-09-17 02:28:10: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.008	train_acc: 99.67%
+INFO: 2017-09-17 02:29:36: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0085	train_acc: 99.65%
+INFO: 2017-09-17 02:31:02: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 600	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0095	train_acc: 99.57%
+INFO: 2017-09-17 02:32:28: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 700	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0087	train_acc: 99.65%
+INFO: 2017-09-17 02:33:54: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0088	train_acc: 99.61%
+INFO: 2017-09-17 02:35:21: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0079	train_acc: 99.67%
+INFO: 2017-09-17 02:36:47: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 1000	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.009	train_acc: 99.6%
+INFO: 2017-09-17 02:37:00: main.py:140 **  Train=>
+Epoch: 17	Batch_num: 1016	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.0072	train_acc: 99.7%
+INFO: 2017-09-17 02:38:04: main.py:79 **  Validate=>
+Epoch: 17	Valid_loss: 0.010	Valid_acc: 99.590%
+INFO: 2017-09-17 02:38:08: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0073	train_acc: 99.71%
+INFO: 2017-09-17 02:39:34: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0084	train_acc: 99.62%
+INFO: 2017-09-17 02:41:00: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0098	train_acc: 99.64%
+INFO: 2017-09-17 02:42:26: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 300	lr: 0.000	loss: 0.008	acc: 99.650%	train_loss: 0.008	train_acc: 99.64%
+INFO: 2017-09-17 02:43:52: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0074	train_acc: 99.69%
+INFO: 2017-09-17 02:45:19: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 500	lr: 0.000	loss: 0.008	acc: 99.650%	train_loss: 0.008	train_acc: 99.67%
+INFO: 2017-09-17 02:46:45: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0082	train_acc: 99.62%
+INFO: 2017-09-17 02:48:11: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 700	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0085	train_acc: 99.66%
+INFO: 2017-09-17 02:49:37: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0089	train_acc: 99.6%
+INFO: 2017-09-17 02:51:03: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.008	train_acc: 99.66%
+INFO: 2017-09-17 02:52:29: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0083	train_acc: 99.63%
+INFO: 2017-09-17 02:52:43: main.py:140 **  Train=>
+Epoch: 18	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0073	train_acc: 99.69%
+INFO: 2017-09-17 02:53:46: main.py:79 **  Validate=>
+Epoch: 18	Valid_loss: 0.010	Valid_acc: 99.580%
+INFO: 2017-09-17 02:53:49: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0075	train_acc: 99.7%
+INFO: 2017-09-17 02:55:15: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0081	train_acc: 99.64%
+INFO: 2017-09-17 02:56:41: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0099	train_acc: 99.68%
+INFO: 2017-09-17 02:58:07: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 300	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0072	train_acc: 99.7%
+INFO: 2017-09-17 02:59:34: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0077	train_acc: 99.67%
+INFO: 2017-09-17 03:01:00: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 500	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0091	train_acc: 99.61%
+INFO: 2017-09-17 03:02:26: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0085	train_acc: 99.61%
+INFO: 2017-09-17 03:03:52: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 700	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.0096	train_acc: 99.62%
+INFO: 2017-09-17 03:05:18: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0084	train_acc: 99.62%
+INFO: 2017-09-17 03:06:44: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0076	train_acc: 99.68%
+INFO: 2017-09-17 03:08:10: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.008	train_acc: 99.64%
+INFO: 2017-09-17 03:08:24: main.py:140 **  Train=>
+Epoch: 19	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0071	train_acc: 99.7%
+INFO: 2017-09-17 03:09:27: main.py:79 **  Validate=>
+Epoch: 19	Valid_loss: 0.011	Valid_acc: 99.560%
+INFO: 2017-09-17 03:09:30: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.007	train_acc: 99.72%
+INFO: 2017-09-17 03:10:56: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0088	train_acc: 99.61%
+INFO: 2017-09-17 03:12:22: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0092	train_acc: 99.69%
+INFO: 2017-09-17 03:13:48: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 300	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0077	train_acc: 99.65%
+INFO: 2017-09-17 03:15:14: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0072	train_acc: 99.69%
+INFO: 2017-09-17 03:16:40: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 500	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0083	train_acc: 99.65%
+INFO: 2017-09-17 03:18:06: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0079	train_acc: 99.65%
+INFO: 2017-09-17 03:19:32: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 700	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0088	train_acc: 99.64%
+INFO: 2017-09-17 03:20:58: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0084	train_acc: 99.62%
+INFO: 2017-09-17 03:22:24: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.680%	train_loss: 0.0074	train_acc: 99.69%
+INFO: 2017-09-17 03:23:50: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0098	train_acc: 99.56%
+INFO: 2017-09-17 03:24:04: main.py:140 **  Train=>
+Epoch: 20	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.012	train_acc: 99.56%
+INFO: 2017-09-17 03:25:07: main.py:79 **  Validate=>
+Epoch: 20	Valid_loss: 0.011	Valid_acc: 99.560%
+INFO: 2017-09-17 03:25:10: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0074	train_acc: 99.7%
+INFO: 2017-09-17 03:26:36: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0087	train_acc: 99.62%
+INFO: 2017-09-17 03:28:02: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.690%	train_loss: 0.0077	train_acc: 99.73%
+INFO: 2017-09-17 03:29:28: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0076	train_acc: 99.67%
+INFO: 2017-09-17 03:30:54: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.007	train_acc: 99.71%
+INFO: 2017-09-17 03:32:20: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0091	train_acc: 99.61%
+INFO: 2017-09-17 03:33:46: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.008	train_acc: 99.64%
+INFO: 2017-09-17 03:35:12: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 700	lr: 0.000	loss: 0.008	acc: 99.690%	train_loss: 0.0082	train_acc: 99.67%
+INFO: 2017-09-17 03:36:39: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0083	train_acc: 99.62%
+INFO: 2017-09-17 03:38:05: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0075	train_acc: 99.69%
+INFO: 2017-09-17 03:39:31: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0086	train_acc: 99.62%
+INFO: 2017-09-17 03:39:45: main.py:140 **  Train=>
+Epoch: 21	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.007	train_acc: 99.7%
+INFO: 2017-09-17 03:40:48: main.py:79 **  Validate=>
+Epoch: 21	Valid_loss: 0.013	Valid_acc: 99.510%
+INFO: 2017-09-17 03:40:51: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 0	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0081	train_acc: 99.67%
+INFO: 2017-09-17 03:42:17: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0076	train_acc: 99.66%
+INFO: 2017-09-17 03:43:43: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0075	train_acc: 99.73%
+INFO: 2017-09-17 03:45:09: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0069	train_acc: 99.7%
+INFO: 2017-09-17 03:46:35: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0071	train_acc: 99.7%
+INFO: 2017-09-17 03:48:01: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 500	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.008	train_acc: 99.67%
+INFO: 2017-09-17 03:49:27: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0079	train_acc: 99.63%
+INFO: 2017-09-17 03:50:53: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0076	train_acc: 99.69%
+INFO: 2017-09-17 03:52:19: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0079	train_acc: 99.65%
+INFO: 2017-09-17 03:53:45: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.007	train_acc: 99.71%
+INFO: 2017-09-17 03:55:11: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 1000	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0077	train_acc: 99.66%
+INFO: 2017-09-17 03:55:25: main.py:140 **  Train=>
+Epoch: 22	Batch_num: 1016	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0062	train_acc: 99.74%
+INFO: 2017-09-17 03:56:28: main.py:79 **  Validate=>
+Epoch: 22	Valid_loss: 0.011	Valid_acc: 99.550%
+INFO: 2017-09-17 03:56:31: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0074	train_acc: 99.7%
+INFO: 2017-09-17 03:57:57: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0083	train_acc: 99.63%
+INFO: 2017-09-17 03:59:23: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0071	train_acc: 99.75%
+INFO: 2017-09-17 04:00:49: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0067	train_acc: 99.71%
+INFO: 2017-09-17 04:02:15: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0068	train_acc: 99.71%
+INFO: 2017-09-17 04:03:41: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 500	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0077	train_acc: 99.68%
+INFO: 2017-09-17 04:05:07: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0074	train_acc: 99.67%
+INFO: 2017-09-17 04:06:33: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0073	train_acc: 99.7%
+INFO: 2017-09-17 04:07:59: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0076	train_acc: 99.66%
+INFO: 2017-09-17 04:09:25: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0077	train_acc: 99.68%
+INFO: 2017-09-17 04:10:52: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 1000	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0073	train_acc: 99.68%
+INFO: 2017-09-17 04:11:05: main.py:140 **  Train=>
+Epoch: 23	Batch_num: 1016	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0063	train_acc: 99.74%
+INFO: 2017-09-17 04:12:08: main.py:79 **  Validate=>
+Epoch: 23	Valid_loss: 0.011	Valid_acc: 99.550%
+INFO: 2017-09-17 04:12:11: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 0	lr: 0.000	loss: 0.006	acc: 99.740%	train_loss: 0.0065	train_acc: 99.74%
+INFO: 2017-09-17 04:13:37: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.008	train_acc: 99.65%
+INFO: 2017-09-17 04:15:03: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0072	train_acc: 99.75%
+INFO: 2017-09-17 04:16:29: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0067	train_acc: 99.71%
+INFO: 2017-09-17 04:17:55: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0068	train_acc: 99.71%
+INFO: 2017-09-17 04:19:21: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 500	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0071	train_acc: 99.7%
+INFO: 2017-09-17 04:20:48: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0071	train_acc: 99.68%
+INFO: 2017-09-17 04:22:14: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0072	train_acc: 99.7%
+INFO: 2017-09-17 04:23:40: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.008	train_acc: 99.64%
+INFO: 2017-09-17 04:25:07: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0079	train_acc: 99.68%
+INFO: 2017-09-17 04:26:33: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 1000	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0075	train_acc: 99.66%
+INFO: 2017-09-17 04:26:46: main.py:140 **  Train=>
+Epoch: 24	Batch_num: 1016	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0066	train_acc: 99.72%
+INFO: 2017-09-17 04:27:49: main.py:79 **  Validate=>
+Epoch: 24	Valid_loss: 0.010	Valid_acc: 99.590%
+INFO: 2017-09-17 04:27:51: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.007	train_acc: 99.72%
+INFO: 2017-09-17 04:29:17: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0075	train_acc: 99.67%
+INFO: 2017-09-17 04:30:44: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0117	train_acc: 99.62%
+INFO: 2017-09-17 04:32:10: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0075	train_acc: 99.67%
+INFO: 2017-09-17 04:33:36: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0072	train_acc: 99.69%
+INFO: 2017-09-17 04:35:02: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.610%	train_loss: 0.0112	train_acc: 99.53%
+INFO: 2017-09-17 04:36:28: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 600	lr: 0.000	loss: 0.026	acc: 98.980%	train_loss: 0.0198	train_acc: 99.13%
+INFO: 2017-09-17 04:37:54: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 700	lr: 0.000	loss: 0.014	acc: 99.450%	train_loss: 0.0102	train_acc: 99.61%
+INFO: 2017-09-17 04:39:21: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 800	lr: 0.000	loss: 0.012	acc: 99.530%	train_loss: 0.0109	train_acc: 99.51%
+INFO: 2017-09-17 04:40:47: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 900	lr: 0.000	loss: 0.011	acc: 99.530%	train_loss: 0.0091	train_acc: 99.63%
+INFO: 2017-09-17 04:42:13: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 1000	lr: 0.000	loss: 0.011	acc: 99.560%	train_loss: 0.0127	train_acc: 99.43%
+INFO: 2017-09-17 04:42:27: main.py:140 **  Train=>
+Epoch: 25	Batch_num: 1016	lr: 0.000	loss: 0.011	acc: 99.560%	train_loss: 0.0137	train_acc: 99.43%
+INFO: 2017-09-17 04:43:30: main.py:79 **  Validate=>
+Epoch: 25	Valid_loss: 0.012	Valid_acc: 99.520%
+INFO: 2017-09-17 04:43:32: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 0	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.009	train_acc: 99.65%
+INFO: 2017-09-17 04:44:58: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 100	lr: 0.000	loss: 0.010	acc: 99.590%	train_loss: 0.0119	train_acc: 99.48%
+INFO: 2017-09-17 04:46:24: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 200	lr: 0.000	loss: 0.010	acc: 99.610%	train_loss: 0.0131	train_acc: 99.59%
+INFO: 2017-09-17 04:47:51: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.610%	train_loss: 0.0079	train_acc: 99.65%
+INFO: 2017-09-17 04:49:17: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 400	lr: 0.000	loss: 0.010	acc: 99.590%	train_loss: 0.0092	train_acc: 99.6%
+INFO: 2017-09-17 04:50:43: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.600%	train_loss: 0.0106	train_acc: 99.57%
+INFO: 2017-09-17 04:52:09: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 600	lr: 0.000	loss: 0.011	acc: 99.550%	train_loss: 0.0239	train_acc: 98.98%
+INFO: 2017-09-17 04:53:35: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 700	lr: 0.000	loss: 0.044	acc: 98.380%	train_loss: 0.0271	train_acc: 98.91%
+INFO: 2017-09-17 04:55:01: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 800	lr: 0.000	loss: 0.031	acc: 98.860%	train_loss: 0.0158	train_acc: 99.32%
+INFO: 2017-09-17 04:56:27: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 900	lr: 0.000	loss: 0.016	acc: 99.350%	train_loss: 0.0118	train_acc: 99.52%
+INFO: 2017-09-17 04:57:53: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 1000	lr: 0.000	loss: 0.015	acc: 99.420%	train_loss: 0.0132	train_acc: 99.4%
+INFO: 2017-09-17 04:58:07: main.py:140 **  Train=>
+Epoch: 26	Batch_num: 1016	lr: 0.000	loss: 0.015	acc: 99.420%	train_loss: 0.0201	train_acc: 99.2%
+INFO: 2017-09-17 04:59:10: main.py:79 **  Validate=>
+Epoch: 26	Valid_loss: 0.015	Valid_acc: 99.400%
+INFO: 2017-09-17 04:59:12: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 0	lr: 0.000	loss: 0.010	acc: 99.630%	train_loss: 0.0098	train_acc: 99.63%
+INFO: 2017-09-17 05:00:39: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 100	lr: 0.000	loss: 0.012	acc: 99.500%	train_loss: 0.0131	train_acc: 99.43%
+INFO: 2017-09-17 05:02:05: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 200	lr: 0.000	loss: 0.013	acc: 99.480%	train_loss: 0.0332	train_acc: 99.13%
+INFO: 2017-09-17 05:03:31: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 300	lr: 0.000	loss: 0.012	acc: 99.530%	train_loss: 0.0083	train_acc: 99.65%
+INFO: 2017-09-17 05:04:57: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 400	lr: 0.000	loss: 0.011	acc: 99.540%	train_loss: 0.0108	train_acc: 99.54%
+INFO: 2017-09-17 05:06:23: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 500	lr: 0.000	loss: 0.011	acc: 99.540%	train_loss: 0.0115	train_acc: 99.52%
+INFO: 2017-09-17 05:07:49: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 600	lr: 0.000	loss: 0.011	acc: 99.550%	train_loss: 0.0156	train_acc: 99.3%
+INFO: 2017-09-17 05:09:15: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 700	lr: 0.000	loss: 0.011	acc: 99.570%	train_loss: 0.0096	train_acc: 99.61%
+INFO: 2017-09-17 05:10:41: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 800	lr: 0.000	loss: 0.010	acc: 99.600%	train_loss: 0.0102	train_acc: 99.54%
+INFO: 2017-09-17 05:12:07: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 900	lr: 0.000	loss: 0.010	acc: 99.590%	train_loss: 0.0094	train_acc: 99.6%
+INFO: 2017-09-17 05:13:33: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 1000	lr: 0.000	loss: 0.010	acc: 99.590%	train_loss: 0.0104	train_acc: 99.52%
+INFO: 2017-09-17 05:13:47: main.py:140 **  Train=>
+Epoch: 27	Batch_num: 1016	lr: 0.000	loss: 0.010	acc: 99.590%	train_loss: 0.0138	train_acc: 99.47%
+INFO: 2017-09-17 05:14:51: main.py:79 **  Validate=>
+Epoch: 27	Valid_loss: 0.011	Valid_acc: 99.560%
+INFO: 2017-09-17 05:14:53: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0075	train_acc: 99.71%
+INFO: 2017-09-17 05:16:19: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 100	lr: 0.000	loss: 0.009	acc: 99.610%	train_loss: 0.0112	train_acc: 99.51%
+INFO: 2017-09-17 05:17:45: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 200	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0115	train_acc: 99.59%
+INFO: 2017-09-17 05:19:11: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.610%	train_loss: 0.0078	train_acc: 99.67%
+INFO: 2017-09-17 05:20:37: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 400	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.008	train_acc: 99.66%
+INFO: 2017-09-17 05:22:03: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.600%	train_loss: 0.0097	train_acc: 99.59%
+INFO: 2017-09-17 05:23:29: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 600	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0113	train_acc: 99.49%
+INFO: 2017-09-17 05:24:55: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 700	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0089	train_acc: 99.64%
+INFO: 2017-09-17 05:26:21: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 800	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0101	train_acc: 99.55%
+INFO: 2017-09-17 05:27:47: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 900	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0085	train_acc: 99.65%
+INFO: 2017-09-17 05:29:13: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 1000	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.009	train_acc: 99.6%
+INFO: 2017-09-17 05:29:27: main.py:140 **  Train=>
+Epoch: 28	Batch_num: 1016	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0084	train_acc: 99.64%
+INFO: 2017-09-17 05:30:30: main.py:79 **  Validate=>
+Epoch: 28	Valid_loss: 0.011	Valid_acc: 99.580%
+INFO: 2017-09-17 05:30:33: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0072	train_acc: 99.72%
+INFO: 2017-09-17 05:31:59: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 100	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.0091	train_acc: 99.59%
+INFO: 2017-09-17 05:33:25: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 200	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.009	train_acc: 99.68%
+INFO: 2017-09-17 05:34:51: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0075	train_acc: 99.67%
+INFO: 2017-09-17 05:36:17: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 400	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.008	train_acc: 99.66%
+INFO: 2017-09-17 05:37:43: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0094	train_acc: 99.61%
+INFO: 2017-09-17 05:39:09: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.650%	train_loss: 0.0095	train_acc: 99.57%
+INFO: 2017-09-17 05:40:36: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 700	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.0088	train_acc: 99.64%
+INFO: 2017-09-17 05:42:02: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0096	train_acc: 99.56%
+INFO: 2017-09-17 05:43:28: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0081	train_acc: 99.67%
+INFO: 2017-09-17 05:44:54: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0087	train_acc: 99.62%
+INFO: 2017-09-17 05:45:08: main.py:140 **  Train=>
+Epoch: 29	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0074	train_acc: 99.68%
+INFO: 2017-09-17 05:46:11: main.py:79 **  Validate=>
+Epoch: 29	Valid_loss: 0.010	Valid_acc: 99.590%
+INFO: 2017-09-17 15:27:56: utils.py:92 **  All dataset size is 5088
+INFO: 2017-09-17 15:27:56: utils.py:93 **  Train dataset size is 4071
+INFO: 2017-09-17 15:27:56: utils.py:95 **  Valid dataset size is 1017
+INFO: 2017-09-17 15:27:56: main.py:216 **  Loading dataset...
+INFO: 2017-09-17 15:27:56: main.py:230 **  All data sample counts 5088
+INFO: 2017-09-17 15:27:56: main.py:231 **  Train data batch size 4
+INFO: 2017-09-17 15:27:56: main.py:232 **  Train data sample counts 4068
+INFO: 2017-09-17 15:27:56: main.py:233 **  Valid data sample counts 1018
+INFO: 2017-09-17 15:28:00: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0073	train_acc: 99.71%
+INFO: 2017-09-17 15:29:18: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0085	train_acc: 99.62%
+INFO: 2017-09-17 15:30:42: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0089	train_acc: 99.68%
+INFO: 2017-09-17 15:32:11: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 300	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0075	train_acc: 99.67%
+INFO: 2017-09-17 15:33:40: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0077	train_acc: 99.66%
+INFO: 2017-09-17 15:35:08: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 500	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0084	train_acc: 99.65%
+INFO: 2017-09-17 15:36:39: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0089	train_acc: 99.59%
+INFO: 2017-09-17 15:38:05: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 700	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0085	train_acc: 99.65%
+INFO: 2017-09-17 15:39:31: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0092	train_acc: 99.59%
+INFO: 2017-09-17 15:40:58: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0078	train_acc: 99.68%
+INFO: 2017-09-17 15:42:26: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0085	train_acc: 99.62%
+INFO: 2017-09-17 15:42:40: main.py:140 **  Train=>
+Epoch: 30	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0074	train_acc: 99.68%
+INFO: 2017-09-17 15:43:46: main.py:79 **  Validate=>
+Epoch: 30	Valid_loss: 0.009	Valid_acc: 99.610%
+INFO: 2017-09-17 15:43:50: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.007	train_acc: 99.72%
+INFO: 2017-09-17 15:45:18: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0079	train_acc: 99.65%
+INFO: 2017-09-17 15:46:46: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.690%	train_loss: 0.0086	train_acc: 99.7%
+INFO: 2017-09-17 15:48:14: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 300	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0071	train_acc: 99.69%
+INFO: 2017-09-17 15:49:43: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.680%	train_loss: 0.007	train_acc: 99.7%
+INFO: 2017-09-17 15:51:11: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 500	lr: 0.000	loss: 0.013	acc: 99.480%	train_loss: 0.0138	train_acc: 99.44%
+INFO: 2017-09-17 15:52:40: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 600	lr: 0.000	loss: 0.012	acc: 99.510%	train_loss: 0.0132	train_acc: 99.4%
+INFO: 2017-09-17 15:54:07: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 700	lr: 0.000	loss: 0.011	acc: 99.550%	train_loss: 0.0097	train_acc: 99.6%
+INFO: 2017-09-17 15:55:35: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 800	lr: 0.000	loss: 0.010	acc: 99.580%	train_loss: 0.0097	train_acc: 99.54%
+INFO: 2017-09-17 15:57:02: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 900	lr: 0.000	loss: 0.009	acc: 99.620%	train_loss: 0.0088	train_acc: 99.63%
+INFO: 2017-09-17 15:58:31: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 1000	lr: 0.000	loss: 0.009	acc: 99.610%	train_loss: 0.009	train_acc: 99.59%
+INFO: 2017-09-17 15:58:44: main.py:140 **  Train=>
+Epoch: 31	Batch_num: 1016	lr: 0.000	loss: 0.009	acc: 99.610%	train_loss: 0.0083	train_acc: 99.65%
+INFO: 2017-09-17 15:59:48: main.py:79 **  Validate=>
+Epoch: 31	Valid_loss: 0.011	Valid_acc: 99.570%
+INFO: 2017-09-17 15:59:51: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0072	train_acc: 99.72%
+INFO: 2017-09-17 16:01:18: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 100	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0099	train_acc: 99.56%
+INFO: 2017-09-17 16:02:47: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 200	lr: 0.000	loss: 0.009	acc: 99.650%	train_loss: 0.0103	train_acc: 99.64%
+INFO: 2017-09-17 16:04:15: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 300	lr: 0.000	loss: 0.009	acc: 99.640%	train_loss: 0.0091	train_acc: 99.62%
+INFO: 2017-09-17 16:05:42: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 400	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0074	train_acc: 99.69%
+INFO: 2017-09-17 16:07:12: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 500	lr: 0.000	loss: 0.009	acc: 99.630%	train_loss: 0.0085	train_acc: 99.64%
+INFO: 2017-09-17 16:08:38: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.650%	train_loss: 0.0107	train_acc: 99.51%
+INFO: 2017-09-17 16:10:04: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 700	lr: 0.000	loss: 0.008	acc: 99.650%	train_loss: 0.0086	train_acc: 99.65%
+INFO: 2017-09-17 16:11:31: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0096	train_acc: 99.55%
+INFO: 2017-09-17 16:12:57: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.008	train_acc: 99.68%
+INFO: 2017-09-17 16:14:23: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0078	train_acc: 99.65%
+INFO: 2017-09-17 16:14:37: main.py:140 **  Train=>
+Epoch: 32	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0075	train_acc: 99.68%
+INFO: 2017-09-17 16:15:41: main.py:79 **  Validate=>
+Epoch: 32	Valid_loss: 0.009	Valid_acc: 99.620%
+INFO: 2017-09-17 16:15:45: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.740%	train_loss: 0.0067	train_acc: 99.74%
+INFO: 2017-09-17 16:17:11: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 100	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.008	train_acc: 99.64%
+INFO: 2017-09-17 16:18:37: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 200	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0082	train_acc: 99.71%
+INFO: 2017-09-17 16:20:04: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 300	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.0079	train_acc: 99.64%
+INFO: 2017-09-17 16:21:30: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0075	train_acc: 99.67%
+INFO: 2017-09-17 16:22:58: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 500	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0082	train_acc: 99.65%
+INFO: 2017-09-17 16:24:28: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 600	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0084	train_acc: 99.61%
+INFO: 2017-09-17 16:25:56: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 700	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0083	train_acc: 99.66%
+INFO: 2017-09-17 16:27:25: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 800	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0085	train_acc: 99.61%
+INFO: 2017-09-17 16:28:54: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0077	train_acc: 99.68%
+INFO: 2017-09-17 16:30:22: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0077	train_acc: 99.66%
+INFO: 2017-09-17 16:30:36: main.py:140 **  Train=>
+Epoch: 33	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0069	train_acc: 99.7%
+INFO: 2017-09-17 16:31:41: main.py:79 **  Validate=>
+Epoch: 33	Valid_loss: 0.009	Valid_acc: 99.620%
+INFO: 2017-09-17 16:31:46: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.740%	train_loss: 0.0067	train_acc: 99.74%
+INFO: 2017-09-17 16:33:14: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0075	train_acc: 99.67%
+INFO: 2017-09-17 16:34:44: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0073	train_acc: 99.74%
+INFO: 2017-09-17 16:36:12: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 300	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0069	train_acc: 99.7%
+INFO: 2017-09-17 16:37:42: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 400	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0069	train_acc: 99.69%
+INFO: 2017-09-17 16:39:11: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 500	lr: 0.000	loss: 0.007	acc: 99.680%	train_loss: 0.0079	train_acc: 99.66%
+INFO: 2017-09-17 16:40:40: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0081	train_acc: 99.63%
+INFO: 2017-09-17 16:42:08: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.008	train_acc: 99.67%
+INFO: 2017-09-17 16:43:37: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0081	train_acc: 99.63%
+INFO: 2017-09-17 16:45:05: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0074	train_acc: 99.69%
+INFO: 2017-09-17 16:46:32: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 1000	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0079	train_acc: 99.65%
+INFO: 2017-09-17 16:46:46: main.py:140 **  Train=>
+Epoch: 34	Batch_num: 1016	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0067	train_acc: 99.71%
+INFO: 2017-09-17 16:47:52: main.py:79 **  Validate=>
+Epoch: 34	Valid_loss: 0.009	Valid_acc: 99.620%
+INFO: 2017-09-17 16:47:54: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0068	train_acc: 99.72%
+INFO: 2017-09-17 16:49:22: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0075	train_acc: 99.67%
+INFO: 2017-09-17 16:50:49: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0076	train_acc: 99.73%
+INFO: 2017-09-17 16:52:18: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0074	train_acc: 99.67%
+INFO: 2017-09-17 16:53:48: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0067	train_acc: 99.71%
+INFO: 2017-09-17 16:55:17: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 500	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0095	train_acc: 99.6%
+INFO: 2017-09-17 16:56:46: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0086	train_acc: 99.6%
+INFO: 2017-09-17 16:58:15: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0074	train_acc: 99.7%
+INFO: 2017-09-17 16:59:44: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0081	train_acc: 99.62%
+INFO: 2017-09-17 17:01:13: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.660%	train_loss: 0.0078	train_acc: 99.67%
+INFO: 2017-09-17 17:02:41: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 1000	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0082	train_acc: 99.63%
+INFO: 2017-09-17 17:02:56: main.py:140 **  Train=>
+Epoch: 35	Batch_num: 1016	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0066	train_acc: 99.72%
+INFO: 2017-09-17 17:04:01: main.py:79 **  Validate=>
+Epoch: 35	Valid_loss: 0.009	Valid_acc: 99.620%
+INFO: 2017-09-17 17:04:05: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.730%	train_loss: 0.0067	train_acc: 99.73%
+INFO: 2017-09-17 17:05:34: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0075	train_acc: 99.66%
+INFO: 2017-09-17 17:07:02: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0069	train_acc: 99.76%
+INFO: 2017-09-17 17:08:31: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0066	train_acc: 99.71%
+INFO: 2017-09-17 17:09:59: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0064	train_acc: 99.71%
+INFO: 2017-09-17 17:11:28: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 500	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0079	train_acc: 99.66%
+INFO: 2017-09-17 17:12:56: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.008	train_acc: 99.64%
+INFO: 2017-09-17 17:14:24: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0072	train_acc: 99.7%
+INFO: 2017-09-17 17:15:53: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0079	train_acc: 99.64%
+INFO: 2017-09-17 17:17:23: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 900	lr: 0.000	loss: 0.008	acc: 99.670%	train_loss: 0.008	train_acc: 99.66%
+INFO: 2017-09-17 17:18:52: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 1000	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0079	train_acc: 99.65%
+INFO: 2017-09-17 17:19:06: main.py:140 **  Train=>
+Epoch: 36	Batch_num: 1016	lr: 0.000	loss: 0.008	acc: 99.680%	train_loss: 0.0068	train_acc: 99.71%
+INFO: 2017-09-17 17:20:11: main.py:79 **  Validate=>
+Epoch: 36	Valid_loss: 0.009	Valid_acc: 99.620%
+INFO: 2017-09-17 17:20:14: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 0	lr: 0.000	loss: 0.006	acc: 99.740%	train_loss: 0.0065	train_acc: 99.74%
+INFO: 2017-09-17 17:21:43: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.690%	train_loss: 0.0076	train_acc: 99.66%
+INFO: 2017-09-17 17:23:12: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0079	train_acc: 99.72%
+INFO: 2017-09-17 17:24:44: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0066	train_acc: 99.71%
+INFO: 2017-09-17 17:26:13: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0064	train_acc: 99.73%
+INFO: 2017-09-17 17:27:41: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 500	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0075	train_acc: 99.68%
+INFO: 2017-09-17 17:29:09: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0074	train_acc: 99.66%
+INFO: 2017-09-17 17:30:38: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0069	train_acc: 99.72%
+INFO: 2017-09-17 17:32:08: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0077	train_acc: 99.65%
+INFO: 2017-09-17 17:33:37: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0074	train_acc: 99.69%
+INFO: 2017-09-17 17:35:06: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 1000	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.008	train_acc: 99.64%
+INFO: 2017-09-17 17:35:20: main.py:140 **  Train=>
+Epoch: 37	Batch_num: 1016	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0062	train_acc: 99.74%
+INFO: 2017-09-17 17:36:25: main.py:79 **  Validate=>
+Epoch: 37	Valid_loss: 0.009	Valid_acc: 99.630%
+INFO: 2017-09-17 17:36:29: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 0	lr: 0.000	loss: 0.006	acc: 99.740%	train_loss: 0.0064	train_acc: 99.74%
+INFO: 2017-09-17 17:37:57: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.007	train_acc: 99.69%
+INFO: 2017-09-17 17:39:25: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 200	lr: 0.000	loss: 0.007	acc: 99.730%	train_loss: 0.0068	train_acc: 99.76%
+INFO: 2017-09-17 17:40:54: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0065	train_acc: 99.71%
+INFO: 2017-09-17 17:42:23: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0059	train_acc: 99.74%
+INFO: 2017-09-17 17:43:50: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 500	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0079	train_acc: 99.67%
+INFO: 2017-09-17 17:45:17: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.007	train_acc: 99.68%
+INFO: 2017-09-17 17:46:46: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0068	train_acc: 99.72%
+INFO: 2017-09-17 17:48:14: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0072	train_acc: 99.68%
+INFO: 2017-09-17 17:49:42: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0073	train_acc: 99.7%
+INFO: 2017-09-17 17:51:10: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 1000	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0072	train_acc: 99.67%
+INFO: 2017-09-17 17:51:25: main.py:140 **  Train=>
+Epoch: 38	Batch_num: 1016	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0066	train_acc: 99.72%
+INFO: 2017-09-17 17:52:29: main.py:79 **  Validate=>
+Epoch: 38	Valid_loss: 0.009	Valid_acc: 99.630%
+INFO: 2017-09-17 17:52:32: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 0	lr: 0.000	loss: 0.007	acc: 99.730%	train_loss: 0.0066	train_acc: 99.73%
+INFO: 2017-09-17 17:54:00: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 100	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.007	train_acc: 99.69%
+INFO: 2017-09-17 17:55:27: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 200	lr: 0.000	loss: 0.006	acc: 99.730%	train_loss: 0.0065	train_acc: 99.77%
+INFO: 2017-09-17 17:56:55: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 300	lr: 0.000	loss: 0.007	acc: 99.710%	train_loss: 0.0063	train_acc: 99.73%
+INFO: 2017-09-17 17:58:22: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 400	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0058	train_acc: 99.75%
+INFO: 2017-09-17 17:59:50: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 500	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0088	train_acc: 99.63%
+INFO: 2017-09-17 18:01:18: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 600	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0071	train_acc: 99.67%
+INFO: 2017-09-17 18:02:46: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 700	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0071	train_acc: 99.7%
+INFO: 2017-09-17 18:04:14: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 800	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.0072	train_acc: 99.68%
+INFO: 2017-09-17 18:05:44: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 900	lr: 0.000	loss: 0.007	acc: 99.720%	train_loss: 0.008	train_acc: 99.67%
+INFO: 2017-09-17 18:07:12: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 1000	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0081	train_acc: 99.64%
+INFO: 2017-09-17 18:07:26: main.py:140 **  Train=>
+Epoch: 39	Batch_num: 1016	lr: 0.000	loss: 0.007	acc: 99.700%	train_loss: 0.0066	train_acc: 99.72%
+INFO: 2017-09-17 18:08:32: main.py:79 **  Validate=>
+Epoch: 39	Valid_loss: 0.009	Valid_acc: 99.630%
+INFO: 2017-09-17 18:08:35: main.py:140 **  Train=>
+Epoch: 40	Batch_num: 0	lr: 0.000	loss: 0.006	acc: 99.750%	train_loss: 0.0061	train_acc: 99.75%
+INFO: 2017-09-17 18:10:03: main.py:140 **  Train=>
+Epoch: 40	Batch_num: 100	lr: 0.000	loss: 0.020	acc: 99.220%	train_loss: 0.0172	train_acc: 99.32%
+INFO: 2017-09-17 19:00:20: utils.py:94 **  All dataset size is 5088
+INFO: 2017-09-17 19:00:20: utils.py:95 **  Train dataset size is 4071
+INFO: 2017-09-17 19:00:20: utils.py:97 **  Valid dataset size is 1017
+INFO: 2017-09-17 19:00:20: main.py:222 **  Loading dataset...
+INFO: 2017-09-17 19:00:20: main.py:236 **  All data sample counts 5088
+INFO: 2017-09-17 19:00:20: main.py:237 **  Train data batch size 4
+INFO: 2017-09-17 19:00:20: main.py:238 **  Train data sample counts 4068
+INFO: 2017-09-17 19:00:20: main.py:239 **  Valid data sample counts 1018
+INFO: 2017-09-17 19:00:57: utils.py:94 **  All dataset size is 5088
+INFO: 2017-09-17 19:00:57: utils.py:95 **  Train dataset size is 4071
+INFO: 2017-09-17 19:00:57: utils.py:97 **  Valid dataset size is 1017
+INFO: 2017-09-17 19:00:57: main.py:222 **  Loading dataset...
+INFO: 2017-09-17 19:00:57: main.py:236 **  All data sample counts 5088
+INFO: 2017-09-17 19:00:57: main.py:237 **  Train data batch size 4
+INFO: 2017-09-17 19:00:57: main.py:238 **  Train data sample counts 4068
+INFO: 2017-09-17 19:00:57: main.py:239 **  Valid data sample counts 1018
+INFO: 2017-09-17 19:01:34: utils.py:94 **  All dataset size is 5088
+INFO: 2017-09-17 19:01:34: utils.py:95 **  Train dataset size is 4071
+INFO: 2017-09-17 19:01:34: utils.py:97 **  Valid dataset size is 1017
+INFO: 2017-09-17 19:01:34: main.py:222 **  Loading dataset...
+INFO: 2017-09-17 19:01:34: main.py:236 **  All data sample counts 5088
+INFO: 2017-09-17 19:01:34: main.py:237 **  Train data batch size 4
+INFO: 2017-09-17 19:01:34: main.py:238 **  Train data sample counts 4068
+INFO: 2017-09-17 19:01:34: main.py:239 **  Valid data sample counts 1018
+INFO: 2017-09-17 19:02:25: utils.py:94 **  All dataset size is 5088
+INFO: 2017-09-17 19:02:25: utils.py:95 **  Train dataset size is 4071
+INFO: 2017-09-17 19:02:25: utils.py:97 **  Valid dataset size is 1017
+INFO: 2017-09-17 19:02:25: main.py:222 **  Loading dataset...
+INFO: 2017-09-17 19:02:25: main.py:236 **  All data sample counts 5088
+INFO: 2017-09-17 19:02:25: main.py:237 **  Train data batch size 4
+INFO: 2017-09-17 19:02:25: main.py:238 **  Train data sample counts 4068
+INFO: 2017-09-17 19:02:25: main.py:239 **  Valid data sample counts 1018
+INFO: 2017-09-17 19:02:29: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 0	lr: 0.000	loss: 0.310	acc: 92.690%	train_loss: 0.3098	train_acc: 92.69%
+INFO: 2017-09-17 19:02:54: utils.py:94 **  All dataset size is 5088
+INFO: 2017-09-17 19:02:54: utils.py:95 **  Train dataset size is 4071
+INFO: 2017-09-17 19:02:54: utils.py:97 **  Valid dataset size is 1017
+INFO: 2017-09-17 19:02:54: main.py:222 **  Loading dataset...
+INFO: 2017-09-17 19:02:54: main.py:236 **  All data sample counts 5088
+INFO: 2017-09-17 19:02:54: main.py:237 **  Train data batch size 4
+INFO: 2017-09-17 19:02:54: main.py:238 **  Train data sample counts 4068
+INFO: 2017-09-17 19:02:54: main.py:239 **  Valid data sample counts 1018
+INFO: 2017-09-17 19:02:59: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 0	lr: 0.000	loss: 0.006	acc: 99.740%	train_loss: 0.0064	train_acc: 99.74%
+INFO: 2017-09-17 19:04:17: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 100	lr: 0.000	loss: 0.200	acc: 92.330%	train_loss: 0.1975	train_acc: 92.2%
+INFO: 2017-09-17 19:05:40: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 200	lr: 0.000	loss: 0.102	acc: 96.080%	train_loss: 0.1258	train_acc: 95.76%
+INFO: 2017-09-17 19:07:06: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 300	lr: 0.000	loss: 0.056	acc: 97.720%	train_loss: 0.0457	train_acc: 97.97%
+INFO: 2017-09-17 19:08:35: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 400	lr: 0.000	loss: 0.048	acc: 98.100%	train_loss: 0.032	train_acc: 98.63%
+INFO: 2017-09-17 19:10:03: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 500	lr: 0.000	loss: 0.045	acc: 98.140%	train_loss: 0.0513	train_acc: 97.95%
+INFO: 2017-09-17 19:11:31: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 600	lr: 0.000	loss: 0.039	acc: 98.400%	train_loss: 0.039	train_acc: 98.18%
+INFO: 2017-09-17 19:13:02: main.py:141 **  Train=>
+Epoch: 38	Batch_num: 700	lr: 0.000	loss: 0.034	acc: 98.630%	train_loss: 0.0332	train_acc: 98.71%
